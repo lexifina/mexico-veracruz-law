@@ -1,0 +1,13 @@
+TRANSITORIOS
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+Artículo Segundo. Se abrogan la Ley Número 123 de Premios, Estímulos y Recompensas Civiles de fecha dieciocho de julio de mil novecientos noventa y uno, publicada en la Gaceta Oficial del Estado el día veintitrés del mismo mes y año; la Ley Número 56 que Reforma Diversos Artículos de la Ley de Premios, Estímulos y Recompensas Civiles del Estado, de fecha once de mayo del año dos mil, publicada el día doce del mismo mes y año; y la Ley Número 324 que establece el "Premio al Mérito Cívico Adalberto Tejeda" de fecha cuatro de septiembre de mil novecientos setenta y ocho, publicada el día catorce del mismo mes y año. Asimismo, se derogan todas las disposiciones que se opongan al presente Ordenamiento.
+Artículo Tercero. En lo relativo al Premio Estatal de Comunicación Social, previsto en la Ley Número 56, el Ejecutivo del Estado, otorgará para el mes de enero del año 2002, las cantidades correspondientes a cada categoría, a la Asociación de Periodistas, que acredite tener el mayor número de afiliados, en términos de los lineamientos que establezca la Secretaría de Gobierno.
+Artículo Cuarto. La Secretaría de Gobierno expedirá una Convocatoria pública en la que se establecerán las bases y requisitos con la finalidad de diseñar las características de la Medalla Veracruz.
+Artículo Quinto. El Reglamento de la Medalla Veracruz se expedirá dentro de los treinta días siguientes a la publicación de esta Ley.
+Artículo Sexto. El Reglamento del Premio Veracruz 2025 se expedirá dentro de los treinta días siguientes a la publicación de esta Ley. En dicho Reglamento se dispondrá que la Oficina del Programa de Gobierno será la encargada de establecer los lineamientos y bases para su otorgamiento.
+DADA EN EL SALÓN DE SESIONES DE LA H. LIX LEGISLATURA DEL CONGRESO DEL ESTADO, EN LA CIUDAD DE XALAPA-ENRÍQUEZ, VERACRUZ, A LOS ONCE DÍAS DEL MES DE OCTUBRE DEL AÑO DOS MIL UNO.
+Armando José Raúl Ramos Vicarte, diputado presidente.- Rúbrica. José Luis Salas Torres, diputado secretario.- Rúbrica.
+Por lo tanto, en atención a lo dispuesto por los artículos 35, párrafo segundo, y 49, fracción II, de la Constitución Política del Estado, y en cumplimiento del oficio número 003439, de los diputados presidente y secretario de la Quincuagésima Novena Legislatura del Honorable Congreso del Estado, mando se publique, y se le dé cumplimiento. Residencia del Poder Ejecutivo Estatal, a los once días del mes de octubre del año dos mil uno.
+Atentamente
+Sufragio efectivo. No reelección.
+Licenciado Miguel Alemán Velazco, Gobernador del Estado.- Rúbrica.
