@@ -3,7 +3,7 @@ ARTICULO 1°
 Este Código entrará en vigor el día 15 de octubre del presente año de 1932.
 ARTICULO 2°
 La sustanciación de los negocios de jurisdicción contenciosa que estén pendientes en primera o única instancia al entrar en vigor este Código, se sujetarán a las disposiciones del anterior, hasta pronunciarse sentencia. La tramitación de la apelación contra el fallo que se dicte en esos negocios, se sujetará a este Código; pero para la procedencia del recurso regirán las disposiciones del Código anterior.
-La substanciación de los negocios de jurisdicción voluntaria, se acomodará desde luego a las disposiciones de este Código.
+La sustanciación de los negocios de jurisdicción voluntaria, se acomodará desde luego a las disposiciones de este Código.
 ARTICULO 3°
 La tramitación y resolución de las apelaciones pendientes al entrar en vigor este Código, se sujetarán a las prescripciones de la ley anterior.
 ARTICULO 4°
