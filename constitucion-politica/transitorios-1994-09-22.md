@@ -1,0 +1,4 @@
+G.O. 22 DE SEPTIEMBRE DE 1994.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
+SEGUNDO.- En el órgano superior de dirección establecido en el segundo párrafo del artículo 44 reformado, participarán con voz y voto, hasta el 1 de enero de 1995, un representante del Poder Ejecutivo, que lo presidirá, y dos representantes del Poder Legislativo, correspondiendo estos últimos respectivamente, a la mayoría y a la primera minoría de la Legislatura del Estado.
+TERCERO.- El trámite de los asuntos que actualmente conoce el Tribunal de lo Contencioso Electoral, así como el personal, los documentos, expedientes y recursos materiales de éste, pasarán al Tribunal Estatal de Elecciones, manteniendo su integración con los Magistrados ya designados por la Legislatura del Estado en el mes de abril próximo pasado.
