@@ -1,0 +1,3 @@
+(ADICIONADO, G.O. 15 DE NOVIEMBRE DE 1997)
+ARTICULO 1792 B
+Cuando en cualquier momento del cumplimiento de los contratos a que se refiere el artículo anterior, cambien las condiciones y circunstancias generales, existentes en el momento de su celebración por acontecimientos extraordinarios que no se pudieron razonablemente prever por las partes, y que de llevarse adelante los términos de la convención resulten las prestaciones excesivamente onerosas para una de las partes y notoriamente favorable para la otra, en estos casos el contrato deberá ser modificado por el juez a petición de parte, conforme a la buena fe, a la mayor reciprocidad y a la equidad de intereses, y en caso de ser imposible aquello, podrá determinar que se extingan sus efectos.
