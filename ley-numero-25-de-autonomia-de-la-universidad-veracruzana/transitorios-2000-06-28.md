@@ -1,0 +1,4 @@
+G.O. 28 DE JUNIO DE 2000.
+Artículo primero. La presente ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+Artículo segundo. Se derogan todas las disposiciones que se opongan a lo previsto por esta ley.
+Artículo tercero. Para los efectos del artículo 3° de la presente ley y para el ejercicio presupuestal del año 2000 las aportaciones que otorguen en forma concurrente el Gobierno Federal y el Gobierno del Estado se determinará en el convenio que al efecto se suscriba, en el que precisará los rubros y montos de dichas aportaciones, con la participación de la Universidad Veracruzana y tomando como base el convenio suscrito por dichas autoridades para el ejercicio presupuestal de 1999, conforme a lo dispuesto por la Ley para la Coordinación de la Educación Superior y la Ley de Educación para el estado de Veracruz-Llave.
