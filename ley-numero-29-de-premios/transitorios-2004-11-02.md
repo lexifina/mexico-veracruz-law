@@ -1,0 +1,3 @@
+G.O. 2 DE NOVIEMBRE DE 2004.
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+SEGUNDO. Se abrogan el Decreto por el que se crea la Condecoración a la Excelencia Naval Militar "General Ignacio de la Llave", publicado en la Gaceta Oficial del Estado el día dieciocho de junio de dos mil dos, así como el Decreto por el que se crea la Condecoración al Mérito Deportivo "General Ignacio de la Llave", publicado en la Gaceta Oficial del Estado el día dieciocho de junio de dos mil tres; y se derogan todas las disposiciones que se opongan al presente Decreto.
