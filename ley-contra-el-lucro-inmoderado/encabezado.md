@@ -4,3 +4,4 @@ ADOLFO RUIZ CORTINES, Gobernador Constitucional del Estado Libre y Soberano de V
 Que la H. Legislatura del mismo, se ha servido expedir la siguiente
 LEY:
 "Número 30.- La H. Legislatura del Estado Libre y Soberano de Veracruz-Llave, en nombre del pueblo, expide la siguiente:
+LEY CONTRA EL LUCRO INMODERADO:
