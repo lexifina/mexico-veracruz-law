@@ -1,0 +1,1 @@
+ARTICULO SEGUNDO.- Los sindicatos de trabajadores al servicio de las Entidades Públicas deberán presentar su solicitud de registro ante el Tribunal de Conciliación y Arbitraje en un plazo no mayor de noventa días a partir de que entre en funciones dicho Tribunal.

@@ -1,0 +1,1 @@
+ARTICULO SEPTIMO.- Los convenios y contratos colectivos que existan celebrados entre las Entidades Públicas y sus sindicatos, siempre que éstos obtengan su registro, tendrá la categoría de Condiciones Generales de Trabajo, debiendo depositarse ante el Tribunal Estatal de Conciliación y Arbitraje para que surta sus efectos legales.

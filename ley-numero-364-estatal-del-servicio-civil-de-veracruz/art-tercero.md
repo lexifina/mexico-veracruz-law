@@ -1,0 +1,1 @@
+ARTICULO TERCERO.- El registro de los sindicatos mayoritarios se hará por el Tribunal Estatal en un plazo que no podrá exceder de noventa días, después de vencido el término que concede el artículo anterior.
