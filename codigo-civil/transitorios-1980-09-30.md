@@ -1,0 +1,4 @@
+G.O. 30 DE SEPTIEMBRE DE 1980.
+PRIMERO.- Esta Ley entrará en vigor el día siguiente de su publicación en la "Gaceta Oficial" del Estado.
+SEGUNDO.- Los términos de los avisos que los arrendadores hubiesen dado a los arrendatarios de conformidad con lo dispuesto en el artículo 2411, que se reforma, del Código Civil, se tienen por no corridos y empezarán a contarse y se adecuarán en todo lo previsto en esta Ley a partir de su vigencia.
+TERCERO.- Las actuaciones de los juicios de desocupación por terminación de arrendamiento por tiempo indefinido y que estén en trámite, excepto aquellos en que haya transcurrido más de un año contado de la fecha del aviso de terminación, cuyo procedimiento continuará, serán anulados por los jueces que de ellos estén conociendo, desde el emplazamiento hecho al demandado, para que a promoción de parte se reanuden y resuelvan conforme a las disposiciones de la presente Ley.
