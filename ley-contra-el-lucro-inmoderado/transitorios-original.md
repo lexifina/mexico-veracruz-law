@@ -5,3 +5,4 @@ Dada en el Salón de Sesiones de la H. Legislatura, en la ciudad de Jalapa-Enrí
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 Jalapa-Enríquez, a 11 de noviembre de 1946.-
 ADOLFO RUIZ CORTINES.- El Sub-Secretario de Gobierno, Encargado de la Secretaría, LIC. FERNANDO ROMAN LUGO.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
