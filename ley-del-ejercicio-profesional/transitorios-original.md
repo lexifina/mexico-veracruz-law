@@ -2,6 +2,8 @@ TRANSITORIOS:
 ARTICULO PRIMERO.- Esta Ley deroga la número 39 de 19 de diciembre de 1947 que estableció el servicio social de los alumnos que terminen sus estudios en las Escuelas Profesionales de esta Entidad, así como todas las leyes y disposiciones de carácter general que se le opongan.
 ARTICULO SEGUNDO.- Cuando no existiere el número de profesionales adecuado para la satisfacción de las necesidades sociales, el Departamento de Profesiones, oyendo el parecer del Colegio de Profesionales respectivo y a los Servicios Coordinados de Salubridad y Asistencia en el Estado, en su caso, podrá autorizar temporalmente el ejercicio de una profesión a personas no tituladas, previa la comprobación de su capacidad y honorabilidad.
 ARTICULO TERCERO.- Las personas que ingresan al Magisterio y a la Docencia sin tener los títulos correspondientes, serán designados interinamente en las plazas respectivas.
+(ADICIONADO, G.O. 28 DE NOVIEMBRE DE 1964)(REPUBLICADO, G.O. 3 DE DICIEMBRE DE 1964)
+ARTICULO TERCERO BIS.- Los Contadores Privados actualmente en ejercicio en el Estado, que demuestren haber cursado sus estudios con anterioridad a la expedición de esta Ley, conforme a los planes aprobados por las Autoridades Educativas competentes y haber desempeñado públicamente su actividad, podrán continuar en ejercicio, previa la autorización que en cada caso se conceda por el Departamento de Profesiones del Estado. Dicha autorización no los faculta para otorgar la fe pública.
 ARTICULO CUARTO.- Los planteles de enseñanza profesional en el Estado están obligados a remitir al Departamento de Profesiones en un término de noventa días a partir de la fecha de vigencia de esta Ley, una lista completa de los Títulos Profesionales que hubieren expedido y durante los veinticinco años.
 ARTICULO QUINTO.- Se concede a los planteles de enseñanza preparatoria y profesional existentes en el Estado un plazo de dos meses para obtener su registro en el Departamento de Profesiones.
 ARTICULO SEXTO.- Los títulos profesionales que con anterioridad a esta Ley hubieren sido legalmente expedidos en el Estado, surtirán todos sus efectos; pero para que sus poseedores puedan ejercer conforme a este ordenamiento, deberán registrarlos en el término de un año en el Departamento de Profesiones.
@@ -22,3 +24,6 @@ ARTICULO DECIMOSEXTO.- Esta Ley entrará en vigor a partir de los tres días há
 DADA en el Salón de Sesiones de la H. Legislatura, en la ciudad de Jalapa-Enríquez, Ver., a ios (sic) dieciocho días del mes de diciembre de mil novecientos sesenta y tres.
 MARIANO RAMOS ZARRABAL.- Diputado Presideinte (sic).- ING. ARMANDO CARDEL AGUILAR.- Diputado Secretario.- Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 Jalapa-Enríquez, Ver., a 20 de diciembre de 1963. Sub Secretario de Gobierno Enc. de la Secretaría, Lic. LORENZO J. CASARIN U.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+G.O. 28 DE NOVIEMBRE DE 1964. (REPUBLICADA, G.O. 3 DE DICIEMBRE DE 1964)
+La presente Ley surtirá sus efectos legales a partir de la fecha de su publicación en la "Gaceta Oficial" del Estado.
