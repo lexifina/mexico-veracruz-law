@@ -5,3 +5,4 @@ Tercero.- El Ejecutivo, de inmediato, procederá a integrar la Comisión para la
 DADA en el Salón de Sesiones de la H. Legislatura del Estado, en la Ciudad de Xalapa-Enríquez, Veracruz, a los cuatro días del mes de febrero de mil novecientos setenta y dos.- PEDRO DEL ANGEL SANCHEZ.- Rúbrica.- Diputado Presidente.- Lic. ALFONSO LUNA ALFEIRAN.- Rúbrica.- Diputado Secretario.
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 Xalapa-Enríquez, Ver., a 4 de febrero de 1972.- Lic. RAFAEL MURILLO VIDAL.- Rúbrica.- Lic. FRANCISCO BERLIN VALENZUELA.- Rúbrica.- Secretario de Gobierno.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.

@@ -6,3 +6,4 @@ Dada en el salón de sesiones de la H. LIX Legislatura del Congreso del Estado, 
 Por tanto, en atención a lo dispuesto por los artículos 35, párrafo segundo, y 49, fracción II, de la Constitución Política del Estado, y en cumplimiento del oficio número 000355, de los diputados presidente y secretario de la Quincuagésima Novena Legislatura del Honorable Congreso del Estado, mando se publique, y se le dé cumplimiento. Residencia del Poder Ejecutivo Estatal, a los treinta y un días del mes de enero del año dos mil dos.
 Atentamente
 Sufragio Efectivo. No Reelección. Licenciado Miguel Alemán Velazco, Gobernador del Estado.- Rúbrica.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
