@@ -15,3 +15,4 @@ A t e n t a m e n t e
 "Sufragio Efectivo. No Reelección."
 Licenciado Miguel Alemán Velazco
 Gobernador del Estado.- Rúbrica.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.
