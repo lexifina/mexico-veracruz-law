@@ -1,12 +1,13 @@
 TRANSITORIOS.
 1o. Esta Constitución se publicará, desde luego, por Bando solemne en todas las poblaciones del Estado y entrará inmediatamente en vigor.
-2o. La Legislatura, en su próximo período de sesiones, dará preferencia a la expedición de las Leyes Orgánicas de Tribunales, de Administración Municipal y las demás que consulte el Ejecutivo, sin perjuicio de las necesidades urgentes que ameriten la expedición de otras leyes.
-3o. El 7 del entrante septiembre abrirá la Legislatura un período de receso que tardará veinte días. La apertura de las sesiones ordinarias, por esta vez, tendrá lugar el 27 de septiembre, en lugar del diez y seis que prescribe esta Constitución.
-4o. El Ejecutivo nombrará, la primera vez, al Director General de Educación, quien habrá de fungir hasta el último de diciembre de 1919, en cuya fecha ya se habrá electo al que lo substituya.
+2o. (DEROGADO, G.O. 28 DE DICIEMBRE DE 1920)
+3o. (DEROGADO, G.O. 28 DE DICIEMBRE DE 1920)
+4o. (DEROGADO, G.O. 28 DE DICIEMBRE DE 1920)
 5o. Si tuviere dificultad el Ejecutivo para establecer desde luego la Universidad, la enseñanza que deba dirigir ella, quedará a cargo de un Departamento especial del Ejecutivo, llamado "Departamento Universitario", organizado conforme a la ley especial y cuyo Jefe, nombrado por el C. Gobernador, acordará directamente con el mismo funcionario.
-6o. La inamovilidad de los funcionarios del orden judicial comenzará a surtir sus efectos a partir de la fecha en que los Magistrados y el Procurador, que nombrará esta Legislatura, hayan tomado posesión de sus encargos.
-7o. Para los efectos del artículo 128 de esta Constitución, y mientras no se establezcan las Comisiones y Junta Central de que habla la fracción IX y Junta de Conciliación y Arbitraje de que tratan las fracciones XIX y XX de dicho artículo, queda, a cargo de los Ayuntamientos, la exacta aplicación de él, y la resolución más equitativa de los conflictos entre obreros y patrones, que surgieren en sus respectivos Municipios, sin perjuicio de que, en los casos de inconformidad de alguna de las partes, intervenga el Gobierno del Estado.
+6o. (DEROGADO, G.O. 28 DE DICIEMBRE DE 1920)
+7o. (DEROGADO, G.O. 28 DE DICIEMBRE DE 1920)
 Dada en la H. Ciudad de Córdoba, a veinticuatro de agosto de mil novecientos diez y siete.- C. Méndez Alcalde, Diputado por el 14o Distrito Electoral, Presidente.- Desiderio R. Pavón, Diputado por el 1er. Distrito Electoral.- Isaac Velázquez, Diputado por el 3er. Distrito Electoral.- Efrén A. Bauza, Diputado por el 5o Distrito Electoral.- Celerino Murrieta, Diputado por el 6o Distrito Electoral.- Gustavo Bello, Diputado por el 7o Distrito Electoral. D. Victoria, Diputado por el 8o Distrito Electoral.- Elías Pérez, Diputado por el 9o Distrito Electoral.- Miguel B. Fernández, Diputado por el 10o Distrito Electoral.- M. Limón Uriarte, Diputado por el 11o Distrito Electoral.- S. L. Herrera, Diputado por el 12o Distrito Electoral.- Pánfilo Méndez, Diputado por el 13o Distrito Electoral.- M. Loyo, Diputado por el 15o Distrito Electoral.- Rodolfo Cancela Nogueira, Diputado por el 16o Distrito Electoral.- Gaspar Méndez, Diputado por el 17o Distrito Electoral.- Luis G. Carrión, Diputado el 18o Distrito Electoral.- A. Ortíz Ríos, Diputado por el 19o Distrito Electoral.- A. Nava, Diputado por el 4o Distrito Electoral, Secretario.
 Por tanto, mando se imprima, publique por Bando solemne en todo el Estado y circule para general conocimiento.
 CONSTITUCION Y REFORMAS.
 H. Córdoba, a 16 de septiembre de 1917.-M. Loyo.-Carlos I. Meléndez, Secretario.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.
