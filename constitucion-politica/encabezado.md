@@ -1,5 +1,4 @@
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
-REPUBLICADO, G.O. 31 DE AGOSTO DE 1943.
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 MAURO LOYO,
 Gobernador Provisional del Estado Libre y Soberano de Veracruz-Llave, a sus habitantes, sabed: que la H. Legislatura me ha dirigido, para su promulgación, la Constitución Política que sigue:
