@@ -1,0 +1,2 @@
+(ADICIONADO, G.O. 10 DE AGOSTO DE 2004)
+Artículo 259 W. Si la venta de los bienes no logra efectuarse, la Secretaría los pondrán a disposición de la dependencia que corresponda, conforme a las atribuciones señaladas en la Ley Orgánica del Poder Ejecutivo del Estado, para que éstos sean incorporados al inventario de bienes o al patrimonio inmobiliario del Gobierno del Estado, debiendo dicha dependencia tramitar la afectación presupuestal respectiva.

@@ -1,0 +1,2 @@
+(ADICIONADO, G.O. 10 DE AGOSTO DE 2004)
+Artículo 259 S. En el supuesto de que los servicios se hayan prestado parcialmente al concluir el plazo otorgado en la resolución correspondiente, el crédito se extinguirá proporcionalmente y el deudor no quedará liberado del pago del saldo insoluto. El saldo se incrementará con los recargos generados desde la fecha en que debió hacerse el pago y hasta que el mismo se efectúe y se iniciarán o continuarán los actos tendientes a su cobro.
