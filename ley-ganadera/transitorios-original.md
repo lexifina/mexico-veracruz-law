@@ -7,3 +7,4 @@ ARTICULO QUINTO.- Se abrogan las disposiciones que se opongan a la presente Ley,
 DADA en el Salón de Sesiones de la Honorable Legislatura del Estado, en la ciudad de Xalapa-Equez., Ver., su capital a los 8 días del mes de mayo de mil novecientos setenta y nueve.- RAUL LUNA NUÑEZ.- Rúbrica.- Diputado Presidente.- MANUEL PEREZ BONILLA.- Rúbrica.- Diputado Secretario."
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 Xalapa-Enríquez, Ver., a 21 de mayo de 1979.- LIC. RAFAEL HERNANDEZ OCHOA.- El Secretario de Gobierno, LIC. EMILIO GOMEZ VIVES.- Rúbrica.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
