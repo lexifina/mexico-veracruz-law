@@ -1,0 +1,3 @@
+(ADICIONADO, G.O. 6 DE ENERO DE 2003)
+Artículo 67 Bis. La autoridad fiscal, podrá condonar las multas por infracción a las disposiciones fiscales, inclusive las determinadas por el propio contribuyente, cuando hubieren quedado firmes, para lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad que impuso la sanción.
+La solicitud de condonación de multas en los términos de este artículo, no constituirá instancia y las resoluciones que dicte la Secretaría al respecto, no podrán ser impugnadas por los medios de defensa que establece el Código de Procedimientos Administrativos para el Estado.
