@@ -1,2 +1,3 @@
 G.O. 26 DE OCTUBRE DE 1943.
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE VERACRUZ-LLAVE.
+(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1943)
+UNICO.- La presente Ley surtirá efectos a partir de la fecha de su publicación en la "Gaceta Oficial" del Estado. Por tanto, no será aplicable a los arrendamientos ya vencidos y en los que ya estuviere corriendo la prórroga a que se refiere el artículo 2418 del Código Civil, que se modifica.
