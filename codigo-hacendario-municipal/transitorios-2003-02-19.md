@@ -1,4 +1,4 @@
-G.O. 19 DE FEBRERO DE 2003.
+G.O. 19 DE FEBRERO DE 2003
 PRIMERO.- El presente Código entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 SEGUNDO.- En términos del artículo 1 del Código número 302 Hacendario Municipal para el Estado de Veracruz-Llave, publicado en la Gaceta Oficial del Estado el 22 de noviembre de 2002, quedará sin aplicación dicho ordenamiento en el Municipio de Boca del Río, Veracruz, a partir de la vigencia del presente Código.
 TERCERO.- Los ordenamientos que aludan a la Ley de Deuda Pública Municipal del Estado de Veracruz-Llave y a la Ley de Hacienda Municipal del Estado de Veracruz-Llave, abrogada y derogada, respectivamente, por el Código número 302 Hacendario Municipal para el Estado de Veracruz-Llave, así como a este último, se entenderán referidos al presente Código.

@@ -11,5 +11,3 @@ Octavo.- En la aplicación de lo dispuesto por el artículo 202 de este Código,
 Dado en el salón de sesiones de la H. LIX Legislatura del Congreso del Estado, en la ciudad de Xalapa-Enríquez, Veracruz, a los catorce días del mes de noviembre del año dos mil dos.
 Felipe Amadeo Flores Espinosa, diputado presidente.- Rúbrica. Natalio Alejandro Arrieta Castillo, diputado secretario.- Rúbrica.
 N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.
-G.O. 14 DE FEBRERO DE 2003. (REPUBLICADO, G.O. 28 DE FEBRERO DE 2003)
-Único.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
