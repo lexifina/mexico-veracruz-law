@@ -1,0 +1,7 @@
+TRANSITORIOS
+Primero. La presente ley entrará en vigor quince días después de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+Segundo. Se derogan todas las disposiciones que se opongan a las de esta ley.
+Tercero. A las personas que hayan cometido el delito de abuso de autoridad o incumplimiento de un deber legal en la modalidad prevista en la fracción VIII del artículo 254 del Código Penal con anterioridad a la entrada en vigor de la presente ley, les serán aplicadas las sanciones del Código Penal vigentes en el momento en que lo haya cometido, sin perjuicio de aplicar, cuando sea procedente, el artículo 4º del propio ordenamiento legal.
+Dada en el salón de sesiones de la H. LVIII Legislatura del Estado Libre y Soberano de Veracruz Llave, en la ciudad de Xalapa-Enríquez, Veracruz a los catorce días del mes de abril de mil novecientos noventa y nueve. Trinidad San Román Vera, diputado presidente.- Rúbrica. Edmundo Cristóbal Cruz, diputado secretario.- Rúbrica.
+En cumplimiento de lo dispuesto por el artículo 87 fracción I y 93 de la Constitución Política del Estado Libre y Soberano de Veracruz-Llave, mando se publique, circule y se le dé el debido cumplimiento, Residencia del Poder Ejecutivo Estatal, en la ciudad de Xalapa-Enríquez, Veracruz, a los quince días del mes de abril de mil novecientos noventa y nueve.
+Gobernador Constitucional del Estado, Miguel Alemán Velazco.- Rúbrica. Secretaria General de Gobierno, Nohemí Quirasco Hernández.- Rubrica.
