@@ -1,0 +1,5 @@
+TRANSITORIOS:
+ARTICULO PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' órgano del Gobierno del Estado.
+ARTICULO SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente ordenamiento.
+Dada en el Salón de Sesiones de la Honorable Quincuagésima Cuarta Legislatura del Estado Libre y Soberano de Veracruz-Llave, en la ciudad de Xalapa-Enríquez, su capital a los diecinueve días del mes de mayo de mil novecientos ochenta y ocho.- Diputado Presidente, Lic. GABRIEL FUSTER JIMENEZ.- Rúbrica.- Diputado Secretario, Profr. ARNULFO GARCIA RANGEL.- Rúbrica"
+En cumplimiento de lo dispuesto por la fracción I del artículo 87 y primer párrafo del artículo 93 de la Constitución Política del Estado Libre y Soberano de Veracruz-Llave, y para su debida publicación y observancia, expido el presente decreto en la Residencia del Poder Ejecutivo Estatal, en la ciudad de Xalapa-Enríquez, Veracruz, a los diecinueve días del mes de mayo de mil novecientos ochenta y ocho.- FERNANDO GUTIERREZ BARRIOS.- Rúbrica.- El Secretario General de Gobierno, DANTE DELGADO RANNAURO.- Rúbrica.
