@@ -1,5 +1,5 @@
 G.O. 28 DE ENERO DE 1943.
-REPUBLICADO, G.O. 31 DE AGOSTO DE 1943
+REPUBLICADO, G.O. 31 DE AGOSTO DE 1943.
 La presente Ley surtirá efectos a partir de la fecha de su publicación, por Bando Solemne.
 G.O. 21 Y 23 DE NOVIEMBRE DE 1944.
 I.- Esta Ley entrará en vigor a partir de la fecha en que se dé a conocer al público por Bando Solemne.
