@@ -15,7 +15,7 @@ ARTICULO OCTAVO.- Para los efectos del artículo anterior, se presume legales sa
 ARTICULO NOVENO.- Se presumen ilegales los títulos profesionales que hubieren sido expedidos por autoridades donde no hubieren existido, en la fecha de su expedición, planteles de preparación profesional.
 La única prueba capaz de destruir esta presunción será la que acredite que el interesado hizo los estudios preparatorios y profesionales correspondientes a su carrera, en planteles debidamente autorizados de cualquier lugar de la República.
 ARTICULO DECIMO.- Son nulos de pleno derecho los títulos profesionales que hubieren sido expedidos por autoridades en el ejercicio de facultades extraordinarias o como consecuencia de una Ley privativa.
-ARTICULO DECIMOPRIMERO.- La Universidad Veracruzana procederá a organizar el Departamento de Profesiones y la Dependencia del Servicio Social en el término de sesenta días.
+ARTICULO DECIMOPRIMERO.- (DEROGADO, G.O. 28 DE DICIEMBRE DE 1996)
 ARTICULO DECIMOSEGUNDO.- Los estudios preparatorios y profesionales que se hubieren hecho con anterioridad a esta Ley, con estricta sujeción a las Leyes de Instrucción Pública y de Preparación Profesional, serán válidos pero para que el interesado pueda obtener el título respectivo deberá satisfacer los requisitos que establece esta Ley.
 ARTICULO DECIMOTERCERO.- El profesional, en todo tiempo puede obtener el registro de su título, en trámite y la obtención de su cédula o patente de ejercicio, por sí o por medio del Colegio respectivo.
 ARTICULO DECIMOCUARTO.- Para la constitución de los Colegios de profesionales de cada rama el Departamento de Profesiones procederá a nombrar una comisión de profesionales que se encargue de formarlo.
