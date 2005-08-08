@@ -1,4 +1,4 @@
-LEY NUMERO 249 DE LA GACETA OFICIAL DEL GOBIERNO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+LEY NUMERO 249 DE LA GACETA OFICIAL DEL GOBIERNO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el miércoles 6 de julio de 2005.
 Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz de Ignacio de la Llave.
 Xalapa-Enríquez, Ver., julio 6 de 2005
