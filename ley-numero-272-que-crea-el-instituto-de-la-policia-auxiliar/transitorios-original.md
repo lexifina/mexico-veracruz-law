@@ -1,0 +1,12 @@
+TRANSITORIOS
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+Segundo. Se derogan los artículos 1, 2, 7, 8, 9, 10, 11, 12 y 13, de la Ley No. 117 que regula los servicios de seguridad que se otorgan a Instituciones y Particulares en el Estado de Veracruz -Llave, (sic) publicada en la Gaceta Oficial de fecha 20 de Julio de 1991, así como, todas sus reformas.
+Se deroga el artículo 50 de la Ley de Seguridad Pública para el Estado de Veracruz de Ignacio de la Llave, así como, las disposiciones que se opongan a la presente Ley.
+Tercero. El Instituto deberá expedir, dentro de los 120 días siguientes a la entrada en vigor de esta Ley, su Reglamento Interior y, en un plazo de 180 días los Manuales de Organización; de Procedimientos; de Atención al público, así como el Reglamento General del Policía respectivamente.
+Cuarto. Los recursos humanos, materiales y financieros de la Dirección General del Sistema Estatal de Seguridad Industrial, Bancaria y Comercial se adscribirán e incorporarán al patrimonio del Instituto de la Policía Auxiliar y Protección Patrimonial, previo balance general y dictamen que guarden los estados financieros que emita la Contraloría General del Estado.
+Quinto. El armamento, propiedad de la Secretaria de Seguridad Pública del Estado y el equipo de radio comunicación del Consejo Estatal de Seguridad Pública que utiliza actualmente el Sistema de Seguridad Industrial, Bancaria y Comercial seguirán siendo utilizados en calidad de comodato por el Instituto de la Policía Auxiliar y Protección Patrimonial.
+Dada en el salón de sesiones de la LX Legislatura del Honorable Congreso del Estado, en la ciudad de Xalapa-Enríquez, Veracruz de Ignacio de la Llave, a los veintiocho días del mes de julio de dos mil cinco. Atanasio García Durán, diputado presidente.- Rúbrica. Daniel Alejandro Vázquez García, diputado secretario.- Rúbrica.
+Por lo tanto, en atención a lo dispuesto por el artículo 49 fracción II de la Constitución Política del Estado y en cumplimiento del oficio SG/002066, de los diputados presidente y secretario de la Sexagésima Legislatura del Honorable Congreso del Estado, mando se publique y se le dé cumplimiento. Residencia del Poder Ejecutivo Estatal, a los nueve días del mes de agosto del año dos mil cinco.
+A t e n t a m e n t e
+"Sufragio efectivo. No reelección".
+Licenciado Fidel Herrera Beltrán, Gobernador del Estado.- Rúbrica.
