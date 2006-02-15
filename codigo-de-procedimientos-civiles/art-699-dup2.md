@@ -3,7 +3,8 @@ ARTICULO 699-A
 A elección del promovente, podrá tramitarse la jurisdicción voluntaria ante el juez competente o ante notario público en los siguientes casos:
 I.- Para justificar hechos y acreditar derechos;
 II.- Para acreditar residencia, buena conducta, dependencia económica o el dominio de construcciones de mejora a un inmueble;
-III.- Para acreditar hechos conocidos y sabidos por todos o acreditar situaciones jurídicas;
+(REFORMADA, P.O. 14 DE FEBRERO DE 2006)
+III.- Para acreditar hechos conocidos o acreditar situaciones jurídicas;
 IV.- Para comprobar la posesión de un derecho real;
 V.- Cambio voluntario de nombre o aclaración de uso indistinto de varios nombres;
 VI.- El procedimiento voluntario de apeo y de deslinde;
