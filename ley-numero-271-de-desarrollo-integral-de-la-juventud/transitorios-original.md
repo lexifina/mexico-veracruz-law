@@ -17,3 +17,4 @@ Por lo tanto, en atención a lo dispuesto por el artículo 49 fracción II de la
 A t e n t a m e n t e
 "Sufragio efectivo. No reelección"
 Licenciado Fidel Herrera Beltrán, Gobernador del Estado.- Rúbrica.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
