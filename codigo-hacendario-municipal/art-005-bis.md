@@ -1,0 +1,2 @@
+(ADICIONADO, G.O. 9 DE ENERO DE 2007)
+Artículo 5 Bis.- Tratándose de entidades paramunicipales creadas por dos o más ayuntamientos, las atribuciones y competencia conferidas en este Código al Ayuntamiento, al cabildo, a la Comisión de Hacienda y Patrimonio Municipal y a la Tesorería, se entenderán conferidas a la entidad paramunicipal la primera de ellas, al órgano de gobierno las dos siguientes, y al área de finanzas de la respectiva entidad paramunicipal la última señalada.
