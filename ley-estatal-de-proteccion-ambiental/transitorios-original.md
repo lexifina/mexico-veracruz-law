@@ -15,3 +15,4 @@ Sufragio Efectivo. No Reelección
 Licenciado Miguel Alemán Velazco
 Gobernador del Estado
 Rúbrica
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
