@@ -1,0 +1,5 @@
+G.O. 16 DE FEBRERO DE 2009.
+CODIGO NUMERO 531 HACENDARIO PARA EL MUNICIPIO DE MEDELLIN, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+Primero. El presente Código entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+Segundo. En términos del artículo 1 del Código número 302 Hacendario Municipal para el Estado de Veracruz de Ignacio de la Llave, publicado en la Gaceta Oficial del estado el 22 de noviembre de 2002, quedará sin aplicación dicho ordenamiento en el Municipio de Medellín, Veracruz, a partir de la vigencia del presente Código.
+Tercero. En la aplicación de lo dispuesto por el artículo 202 de este Código, el Ayuntamiento cobrará a los establecimientos que operaban con anterioridad a la entrada en vigor del mismo, únicamente la cuota que corresponda a los derechos por el refrendo anual, previa comprobación de dicha circunstancia por parte de los interesados, mediante la exhibición de las cédulas de empadronamiento o de otros documentos probatorios.
