@@ -1,0 +1,6 @@
+G.O. 19 DE FEBRERO DE 2010.
+Primero. El presente Código entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+Segundo. En términos del artículo 1 del Código número 302 Hacendario Municipal para el Estado de Veracruz de Ignacio de la Llave, publicado en la Gaceta Oficial del estado el 22 de noviembre de 2002, quedará sin aplicación dicho ordenamiento en el Municipio de Coatepec, Veracruz, a partir de la vigencia del presente Código.
+Tercero. Los reglamentos municipales y demás disposiciones legales vigentes en el municipio de Coatepec, Veracruz de Ignacio de la Llave, que aludan al Código que se señala en el artículo anterior se entenderán referidos al presente Código.
+Cuarto. Las contribuciones, los créditos fiscales y los procedimientos administrativos generados bajo la vigencia del Código número 302 Hacendario para el Estado de Veracruz de Ignacio de la Llave, se cobrarán, tramitarán y resolverán conforme a dicho ordenamiento legal hasta su conclusión.
+Quinto. La Ley de Ingresos del Municipio para el ejercicio fiscal 2010 deberá ajustarse a las disposiciones y considerar las previsiones de ingresos por los conceptos establecidos en el Libro Tercero del presente Código.
