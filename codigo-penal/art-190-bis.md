@@ -1,0 +1,3 @@
+(ADICIONADO, G.O. 2 DE ABRIL DE 2010)
+Artículo 190 Bis.- Cuando el sujeto activo de este delito se valga de su posición jerárquica, derivada de sus relaciones laborales, docentes, domésticas o cualquiera otra condición que implique subordinación de la víctima, se le impondrán de uno a cinco años de prisión y multa de hasta trescientos días de salario. Si el acosador fuere servidor público y utilizare los medios y las circunstancias que su encargo le proporcione, será destituido y se le inhabilitará para ocupar otro empleo o comisión públicos, hasta por cinco años.
+Cuando la víctima sea menor de dieciocho años, se impondrá una pena de dos a ocho años de prisión y multa de hasta mil días de salario.
