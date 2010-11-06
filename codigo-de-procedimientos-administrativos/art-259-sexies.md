@@ -1,0 +1,2 @@
+(ADICIONADO, G.O. 5 DE NOVIEMBRE DE 2010)
+Artículo 259 Sexies. Si durante el procedimiento no se prueba la causa de remoción, el trabajador tendrá derecho a que se le indemnice con el importe de veinte días de salario por cada uno de los años de servicios prestados, el importe de tres meses de salario y el pago de los salarios vencidos desde la fecha de la separación hasta que se cumplimente en definitiva la sentencia pronunciada por el tribunal; así como al pago de las prestaciones devengadas a que tenga derecho al momento de la separación injustificada de su trabajo.
