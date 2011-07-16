@@ -1,4 +1,4 @@
-LEY NUMERO 62 ESTATAL DE PROTECCION AMBIENTAL
+LEY NÚMERO 62 ESTATAL DE PROTECCIÓN AMBIENTAL
 Ley publicada en el Alcance de la Gaceta Oficial del Estado de Veracruz, el viernes 30 de junio de 2000.
 Al margen un sello que dice: Estados Unidos Mexicanos, Gobernador del Estado de Veracruz-Llave.
 Miguel Alemán Velazco, Gobernador del Estado Libre y Soberano de Veracruz-Llave, a sus habitantes sabed:
