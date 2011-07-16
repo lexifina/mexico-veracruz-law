@@ -1,0 +1,4 @@
+N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.
+(ADICIONADO, G.O. 13 DE JULIO DE 2011)
+Artículo 136 R. La recaudación del impuesto a que se refiere este Capítulo se destinará a cubrir las obligaciones garantizadas con esta contribución. Al efecto, el remanente del monto recaudado será destinado, en partes iguales, al financiamiento del gasto público en el rubro de seguridad pública y de combate a la pobreza, mediante el fideicomiso público que se constituya para su administración.
+El Comité Técnico del Fideicomiso se integrará con representantes de los sectores público y privado de la entidad. Dicho Comité tendrá representación de los Poderes Ejecutivo y Legislativo Estatales, de Municipios y del Sector Privado, con el propósito de garantizar la correcta aplicación de los recursos al fin señalado en el párrafo anterior.
