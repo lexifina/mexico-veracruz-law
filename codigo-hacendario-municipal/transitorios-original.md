@@ -10,4 +10,4 @@ Séptimo. Por esta única y exclusiva vez, y sin que siente precedente, previo a
 Octavo.- En la aplicación de lo dispuesto por el artículo 202 de este Código, los Ayuntamientos cobrarán a los establecimientos que operaban con anterioridad a la entrada en vigor del mismo únicamente la cuota que corresponda a los derechos por el refrendo anual, previa comprobación de dicha circunstancia por parte de los interesados, mediante la exhibición de las cédulas de empadronamiento o de otros documentos probatorios.
 Dado en el salón de sesiones de la H. LIX Legislatura del Congreso del Estado, en la ciudad de Xalapa-Enríquez, Veracruz, a los catorce días del mes de noviembre del año dos mil dos.
 Felipe Amadeo Flores Espinosa, diputado presidente.- Rúbrica. Natalio Alejandro Arrieta Castillo, diputado secretario.- Rúbrica.
-N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.

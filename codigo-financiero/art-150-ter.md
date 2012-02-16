@@ -1,4 +1,4 @@
-N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.
 (ADICIONADO, G.O. 27 DE DICIEMBRE DE 2010)
 Artículo 150 ter. Por los servicios prestados por la Secretaría de Salud, se causarán y pagarán los derechos siguientes:
 I. Por concepto de cuota anual por alta de cada trabajador adscrito a una unidad prestadora de servicios médicos, de guardería, o de velación, independientemente de las funciones que desempeñe:

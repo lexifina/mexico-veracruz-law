@@ -1,4 +1,4 @@
-N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.
 (ADICIONADO, G.O. 13 DE JULIO DE 2011)
 Artículo 136 L. No se pagará el impuesto en los términos de este Capítulo por la tenencia o uso de los siguientes vehículos:
 I. Los vehículos de la Federación, del Estado y Municipios que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, y las ambulancias dependientes de cualquier institución de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos.
