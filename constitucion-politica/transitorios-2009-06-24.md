@@ -1,5 +1,5 @@
 G.O. 24 DE JUNIO DE 2009.
-DECRETO No. 555, POR EL QUE SE REFORMAN LOS ARTICULOS 55, 57, 59 Y 66 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+DECRETO No. 555, POR EL QUE SE REFORMAN LOS ARTÍCULOS 55, 57, 59 Y 66 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 SEGUNDO. El Titular del Poder Ejecutivo, el Pleno del Tribunal Superior de Justicia y el H. Congreso del Estado promoverán y efectuarán las adecuaciones que correspondan en las leyes secundarias, en un plazo máximo de cuarenta y cinco días naturales, contados a partir del inicio de la vigencia del presente Decreto.
 TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
