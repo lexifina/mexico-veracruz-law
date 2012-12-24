@@ -1,0 +1,3 @@
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
+(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)
+Artículo 9 Bis. Para la celebración de contratos con proveedores registrados en el padrón de proveedores, éstos deberán presentar constancia de cumplimiento de obligaciones fiscales por contribuciones estatales y opinión de cumplimiento de obligaciones fiscales, la primera expedida por la Dirección General de Recaudación de la Secretaría de Finanzas y Planeación, y la segunda emitida por el Servicio de Administración Tributaria respecto de impuestos federales; las que deberán tener como máximo 30 días de haber sido expedidas, sin los cuales no será posible la celebración del contrato.
