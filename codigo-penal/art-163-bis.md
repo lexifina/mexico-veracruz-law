@@ -1,3 +1,4 @@
-(ADICIONADO, G.O. 3 DE ENERO DE 2007)
-Artículo 163 Bis.- Comete el delito de privación de la libertad en su modalidad de secuestro exprés, el que disponga de otro reteniéndolo sin su consentimiento el tiempo estrictamente indispensable para cometer los delitos de robo, extorsión o para obtener algún beneficio económico.
-Se le impondrá de siete a veinte años de prisión y multa de cien a mil días de salario mínimo, sin perjuicio de las penas que corresponden por los delitos de robo o extorsión y de las reglas de aplicación de concurso para la imposición de sanciones.
+(REFORMADO, G.O. 7 DE FEBRERO DE 2013)
+Artículo 163 Bis.- Comete el delito de privación de la libertad en su modalidad de secuestro exprés, el que disponga de otro reteniéndolo sin su consentimiento el tiempo estrictamente indispensable para cometer los delitos de robo, extorsión, o para obtener algún beneficio económico.
+Se le impondrán de veinte a cuarenta años de prisión y multa de quinientos a dos mil días de salario mínimo, sin perjuicio de las penas que corresponden por los delitos de robo u extorsión y las reglas de aplicación de concurso para la imposición de sanciones.
+La pena contemplada en el párrafo que antecede, se le impondrá a quien realice la privación de la libertad a través de una detención en calidad de rehén a una persona amenazándola con privarla de la vida o con causarle daño, para obligar a sus familiares o a un particular a que realice o deje de realizar un acto cualquiera.
