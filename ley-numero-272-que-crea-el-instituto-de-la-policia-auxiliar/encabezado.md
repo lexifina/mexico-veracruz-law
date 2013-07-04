@@ -1,4 +1,4 @@
-LEY QUE CREA EL INSTITUTO DE LA POLICIA AUXILIAR Y PROTECCION PATRIMONIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY QUE CREA EL INSTITUTO DE LA POLICÍA AUXILIAR Y PROTECCIÓN PATRIMONIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 12 de agosto de 2005.
 Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz de Ignacio de la Llave.
 Xalapa- Enríquez, Ver., 9 de agosto de 2005.
