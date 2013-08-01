@@ -1,9 +1,1 @@
-(ADICIONADO, G.O. 8 DE AGOSTO DE 2008)
-Artículo 150 Bis. Por servicios prestados por los sujetos obligados mencionados en el artículo 5.1, fracciones I, II, III y IV, de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave, por costos de reproducción de información que les sea solicitada en términos de Ley; se causarán y pagarán los derechos siguientes:
-I. Por copias simples o impresos por medio de dispositivo informático, por cada hoja tamaño carta u oficio:
-0.02 salarios mínimos;
-II. Por copias certificadas distintas a las señaladas en el artículo 150 de este Código, por cada hoja o fracción:
-0.25 salarios mínimos;
-III. Por información grabada en disco de 3.5 pulgadas o disco compacto, por copia:
-0.30 salarios mínimos.
-El costo del envío de información corresponderá a las tarifas que apliquen las empresas de servicios de mensajería contratadas, así como a las determinadas por el Servicio Postal Mexicano, para el caso de envíos por correo certificado.
+Artículo 150 Bis. (DEROGADO POR SEGUNDO TRANSITORIO DEL CÓDIGO NÚMERO 860 DE DERECHOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 31 DE JULIO DE 2013)

@@ -1,10 +1,1 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.
-(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2010)
-Artículo 150 ter. Por los servicios prestados por la Secretaría de Salud, se causarán y pagarán los derechos siguientes:
-I. Por concepto de cuota anual por alta de cada trabajador adscrito a una unidad prestadora de servicios médicos, de guardería, o de velación, independientemente de las funciones que desempeñe:
-20 salarios
-mínimos
-II. Por concepto de baja o cualquier otro movimiento de personal, de cada trabajador adscrito a una unidad prestadora de servicios médicos, de guardería, o de velación, independientemente de las funciones que desempeñe:
-10 salarios
-mínimos
-Este derecho será acreditable al 100% contra el pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal.
+Artículo 150 ter. (DEROGADO POR SEGUNDO TRANSITORIO DEL CÓDIGO NÚMERO 860 DE DERECHOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 31 DE JULIO DE 2013)
