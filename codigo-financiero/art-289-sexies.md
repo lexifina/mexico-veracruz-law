@@ -1,0 +1,3 @@
+(ADICIONADO, G.O. 26 DE AGOSTO DE 2013)
+Artículo 289 Sexies. El Gobernador del Estado, a través de la Secretaría y a petición expresa de los Poderes Legislativo y Judicial, así como de los Organismos Autónomos, proporcionará la asesoría y apoyo técnico que requieran en materia de Evaluación del Desempeño, así como todos los datos estadísticos, estudios o informes que soliciten y que sean necesarios para llevar a cabo tal evaluación en el ámbito de su competencia.
+Los poderes Legislativo y Judicial, así como los Organismos Autónomos, deberán tomar las previsiones presupuestales para contar con los recursos necesarios a fin de dar cumplimiento a las disposiciones de esta Ley, en materia de su respectivo Sistema de Evaluación del Desempeño.

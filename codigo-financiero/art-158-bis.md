@@ -1,0 +1,2 @@
+(ADICIONADO, G.O. 26 DE AGOSTO DE 2013)
+Artículo 158 Bis. En sus anteproyectos de presupuesto, las Unidades Presupuestales determinarán las previsiones del gasto y su calendarización de acuerdo con la clasificación por objeto del gasto y demás clasificaciones que señale la Secretaría, para cada una de las categorías programáticas establecidas por ésta, y apegándose a lo preceptuado por la Ley de Contabilidad y demás disposiciones aplicables.
