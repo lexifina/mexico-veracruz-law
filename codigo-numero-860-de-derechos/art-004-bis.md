@@ -1,0 +1,4 @@
+(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2013)
+Artículo 4 Bis. La educación que el Estado imparta será gratuita en términos de lo que establecen la Constitución y las leyes de la materia. Las donaciones o cuotas voluntarias destinadas a dicha educación en ningún caso se entenderán como contraprestaciones del servicio educativo.
+Las autoridades educativas en el ámbito de su competencia, establecerán los mecanismos para la regulación, destino, aplicación, transparencia y vigilancia de las donaciones o cuotas voluntarias.
+Se prohíbe el pago de cualquier contraprestación que impida o condicione la prestación del servicio educativo a los educandos. En ningún caso se podrá condicionar la inscripción, el acceso a la escuela, la aplicación de evaluaciones o exámenes, la entrega de documentación a los educandos o afectar en cualquier sentido la igualdad en el trato a los alumnos, al pago de contraprestación alguna.
