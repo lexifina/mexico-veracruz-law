@@ -1,0 +1,12 @@
+(ADICIONADO, G.O. 16 DE JULIO DE 2014)
+Artículo 146 Bis 9. En materia de prevención y control de la contaminación atmosférica, se sancionarán las siguientes acciones u omisiones:
+I.- Se le impondrá una multa de quinientos a dos mil días de salario mínimo general vigente en el área geográfica que corresponda, al que realice el cambio provisional de aditamentos o equipos de cualquier vehículo automotor, con el objeto de obtener uno o más documentos que acrediten la aprobación de la verificación vehicular prevista en la presente Ley y el Programa de Verificación Vehicular Obligatoria;
+II.- Se le impondrá una multa de un mil a cinco mil días de salario mínimo general vigente en el área geográfica que corresponda, al que:
+a) Altere, permita la alteración u opere en forma indebida cualquier equipo o programa utilizado para la verificación vehicular prevista en la presente Ley y el Programa de Verificación Vehicular Obligatoria;
+b) Venda uno o más documentos que acrediten la aprobación de la verificación vehicular prevista en la presente Ley y el Programa de Verificación Vehicular Obligatoria; o
+c) Posea o use un documento que acredite la aprobación de la verificación vehicular, que no hubiera sido expedido o solicitado con base en el procedimiento establecido para la operación de los Verificentros o Centros de Verificación.
+III.- Se le impondrá una multa de veinte a quinientos días de salario mínimo general vigente en el área geográfica que corresponda:
+a) Al técnico o empleado de un Centro de Verificación o Verificentro que, por sí o por interpósita persona, solicite o reciba dinero o cualquier otra dádiva para la aprobación de la verificación vehicular, o por cualquier motivo cobre una cantidad superior a la autorizada oficialmente; y
+b) En calidad de usuario del servicio de verificación vehicular, ofrezca, prometa o entregue dinero o cualquier otra dádiva, con el fin de obtener la aprobación de la verificación vehicular obligatoria.
+IV.- Se le impondrá una multa de veinte a quinientos días de salario mínimo general vigente en el área geográfica que corresponda, a los prestadores y laboratorios de servicios ambientales que proporcionen documentos o información falsa u omitan datos con el objeto de que las autoridades ambientales otorguen o avalen cualquier tipo de permiso, autorización o licencia.
+Las multas previstas en esta fracción se impondrán siempre que la autoridad ambiental haya otorgado el permiso, autorización o licencia de que se trate.

@@ -19,9 +19,9 @@ $$$%
 175,000.01428,768.310.003.0
 428,768.32825,140.7912,863.058.7
 825,140.801'109,080.7047,347.4513.3
-1'109,080.71 1'393,020.6085,111.4616.8
-1'393,020.61 En adelante132,813.3619.1
-II. Para automóviles nuevos destinados al transporte de más de quince pasajeros o efectos cuyo peso bruto vehicular sea menor a 15 toneladas y para automóviles nuevos que cuenten con placas de servicio público de transporte de pasajeros y los denominados «taxis» el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del automóvil.
+1'109,080.711'393,020.6085,111.4616.8
+1'393,020.61En adelante132,813.3619.1
+II. Para automóviles nuevos destinados al transporte de más de quince pasajeros o efectos cuyo peso bruto vehicular sea menor a 15 toneladas y para automóviles nuevos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis" el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del automóvil.
 Cuando el peso bruto vehicular sea de 15 a 35 toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del automóvil, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30.
 En el caso de que el peso sea mayor de 35 toneladas se tomará como peso bruto máximo vehicular esta cantidad.
 Para los efectos de esta fracción, peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasís, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable.
