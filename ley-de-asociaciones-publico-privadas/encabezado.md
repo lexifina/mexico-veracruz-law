@@ -1,0 +1,11 @@
+LEY DE ASOCIACIONES PÚBLICO-PRIVADAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 24 de octubre de 2014.
+Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz de Ignacio de la Llave.
+Xalapa - Enríquez, octubre 16 de 2014
+Oficio número 238/2014
+Javier Duarte de Ochoa, Gobernador del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, a sus habitantes sabed:
+Que la Sexagésima Tercera Legislatura del Honorable Congreso del Estado se ha servido dirigirme la siguiente Ley para su promulgación y publicación:
+AL MARGEN UN SELLO QUE DICE: ESTADOS UNIDOS MEXICANOS.- PODER LEGISLATIVO.- ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+LA SEXAGÉSIMA TERCERA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN USO DE LA FACULTAD QUE LE CONFIEREN LOS ARTÍCULOS 33 FRACCIÓN I Y 38 DE LA CONSTITUCIÓN POLÍTICA LOCAL; 18 FRACCIÓN I Y 47 SEGUNDO PÁRRAFO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; 75 Y 76 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO; Y EN NOMBRE DEL PUEBLO, EXPIDE LA SIGUIENTE:
+L E Y Número 300
+LEY DE ASOCIACIONES PÚBLICO-PRIVADAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
