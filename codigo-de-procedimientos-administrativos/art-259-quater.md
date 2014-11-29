@@ -1,2 +1,1 @@
-(REFORMADO, G.O. 13 DE AGOSTO DE 2013)
-Artículo 259 Quáter. Cuando el integrante de alguna de las instituciones a que se refiere este capítulo incurra en alguno de los casos previstos en el artículo anterior o cuando deje de reunir los requisitos de permanencia establecidos en la Ley del Sistema Estatal de Seguridad Pública para el estado de Veracruz de Ignacio de la Llave, dará lugar a su remoción; en tal caso, el funcionario designado por el órgano competente de cada institución, con intervención del afectado, quien podrá ser acompañado de un representante legal, procederá a levantar el acta circunstanciada que corresponda.
+Artículo 259 Quáter. (DEROGADO, G.O. 28 DE NOVIEMBRE DE 2014)
