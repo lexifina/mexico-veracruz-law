@@ -1,5 +1,4 @@
 CÓDIGO NÚMERO 860 DE DERECHOS PARA EL ESTADO DE VERACRUZ
-N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE DECRETO ENTRA EN VIGOR EL 1 DE ENERO DE 2014, PREVIA SU PUBLICACIÓN EN LA GACETA OFICIAL.
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 31 de julio de 2013.
 Al margen un sello que dice: Estados Unidos Mexicanos.-Poder Ejecutivo.-Estado Libre y Soberano de Veracruz de Ignacio de la Llave.
 Xalapa - Enríquez, julio 31 de 2013

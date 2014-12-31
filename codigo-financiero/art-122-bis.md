@@ -9,6 +9,9 @@ d) Presentar declaraciones mensualmente mediante las formas y conductos autoriza
 e) Cuando los sujetos realicen eventos en varios establecimientos, acumularán la información de todos ellos en la declaración que corresponda al principal establecimiento o casa matriz en el Estado;
 f) Conservar a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria de los eventos realizados y del pago del impuesto que corresponda, en términos de Ley;
 g) Si los premios ofrecidos consisten en bienes distintos de dinero, señalarán en moneda nacional el valor de los mismos;
-h) Dictaminar la determinación y pago de este impuesto, por medio de contador público autorizado, a más tardar en el mes de julio de cada ejercicio, de conformidad con las reglas de carácter general que al efecto expidan las autoridades fiscales; e
+(REFORMADO, G.O. 30 DE DICIEMBRE DE 2014)
+h) Dictaminar la determinación y pago de este impuesto, por medio de contador público autorizado, más tardar en el último día hábil del mes de julio de cada ejercicio.
+Los contribuyentes obligados a dictaminarse, así como los voluntarios, deberán presentar el aviso correspondiente a más tardar el 30 de abril del ejercicio posterior al que se dictamina, el Aviso.
+El incumplimiento en los plazos señalados en los dos párrafos anteriores, motivará la aplicación de las sanciones establecidas en el artículo 73 fracción I, incisos b) y c) respectivamente de este Código;
 i) Proporcionar a las autoridades fiscales, la información solicitada por éstas, a través de los medios autorizados por la Secretaría.
 II. Tratándose de sujetos eventuales tendrán las obligaciones señaladas en los incisos b), c), f), g) e i) de la fracción anterior.

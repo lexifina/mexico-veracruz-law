@@ -16,5 +16,6 @@ c). Automóviles con motor diesel.
 d). Camiones con motor de gasolina, gas o diesel.
 e). Tractores no agrícolas tipo quinta rueda.
 f). Autobuses integrales.
-g). Automóviles eléctricos.
+(REFORMADO, G.O. 30 DE DICIEMBRE DE 2014)
+g) Automóviles eléctricos, vehículos híbridos, o bien, accionados por hidrógeno o por cualquier otra fuente de energía alternativa no contaminante.
 IX. Comerciantes en el ramo de vehículos: a las personas físicas y morales cuya actividad sea la importación y venta de vehículos nuevos o usados.
