@@ -7,3 +7,4 @@ Leopoldo Torres García, diputado presidente.-Rúbrica. Hugo Alberto Vásquez Z�
 Por lo tanto, en atención a lo dispuesto por el artículo 49 fracción II de la Constitución Política del Estado, y en cumplimiento del oficio SG/001488 de los diputados presidente y secretario de la Sexagésima Primera Legislatura del Honorable Congreso del Estado, mando se publique y se le dé cumplimiento. Residencia del Poder Ejecutivo Estatal, a los tres días del mes de agosto del año dos mil nueve.
 A t e n t a m e n t e
 Sufragio efectivo. No reelección Licenciado Fidel Herrera Beltrán Gobernador del Estado Rúbrica.
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.

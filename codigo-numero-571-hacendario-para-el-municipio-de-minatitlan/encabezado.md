@@ -1,4 +1,4 @@
-CODIGO HACENDARIO PARA EL MUNICIPIO DE MINATITLAN, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+CÓDIGO HACENDARIO PARA EL MUNICIPIO DE MINATITLÁN, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el martes 26 de agosto de 2003.
 Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz de Ignacio de la Llave.
 Miguel Alemán Velazco, Gobernador del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, a sus habitantes sabed:

@@ -1,4 +1,4 @@
-CODIGO HACENDARIO PARA EL MUNICIPIO DE ALVARADO, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+CÓDIGO HACENDARIO PARA EL MUNICIPIO DE ALVARADO, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 14 de julio de 2006.
 Al margen un sello que dice: Estados Unidos Mexicanos. Gobernador del Estado de Veracruz de Ignacio de la Llave.
 2006, año del Bicentenario del Natalicio del Benemérito de las Américas, Don Benito Juárez García.

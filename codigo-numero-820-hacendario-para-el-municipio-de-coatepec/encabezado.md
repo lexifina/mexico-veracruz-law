@@ -1,4 +1,4 @@
-CODIGO NUMERO 820 HACENDARIO PARA EL MUNICIPIO DE COATEPEC DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+CÓDIGO NUMERO 820 HACENDARIO PARA EL MUNICIPIO DE COATEPEC DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 Código publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 19 de febrero de 2010.
 Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz de Ignacio de la Llave.
 "2010 Año del Bicentenario de la Independencia Nacional y del Centenario de la Revolución Mexicana".
