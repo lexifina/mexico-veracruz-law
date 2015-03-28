@@ -1,4 +1,4 @@
-LEY NUMERO 303 CONTRA EL ACOSO ESCOLAR PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY NÚMERO 303 CONTRA EL ACOSO ESCOLAR PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el martes 1 de noviembre de 2011.
 Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz de Ignacio de la Llave.
 Xalapa-Enríquez, octubre 14 de 2011.
