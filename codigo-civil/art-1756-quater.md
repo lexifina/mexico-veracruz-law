@@ -1,0 +1,6 @@
+(ADICIONADO, G.O. 26 DE MAYO DE 2015)
+ARTICULO 1756 QUATER
+Se presumirá que un Mensaje de Datos proviene del Emisor si ha sido enviado:
+I. Por el propio Emisor;
+II. Usando medios de identificación, tales como claves o contraseñas del Emisor o por alguna persona facultada para actuar en nombre del Emisor respecto a ese Mensaje de Datos; o
+III. Por un Sistema de Información programado por el Emisor o en su nombre para que opere automáticamente.
