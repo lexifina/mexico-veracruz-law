@@ -1,0 +1,3 @@
+(ADICIONADO, G.O. 20 DE JULIO DE 2015)
+ARTICULO 177 SEXIES. Se prohíbe la venta de bebidas alcohólicas para el consumo inmediato del público en una proximidad menor a los trescientos metros de escuelas; centros deportivos; cuarteles; parques y otros lugares de reunión de niñas, niños y adolescentes; templos e iglesias; así como hospitales y clínicas.
+Quien otorgue una licencia de venta de bebidas alcohólicas a un establecimiento, en contravención a lo dispuesto en el presente artículo, será sancionado en términos de la Ley de Responsabilidades de los Servidores Públicos para el Estado Libre y Soberano de Veracruz de Ignacio de la Llave o, en su caso, de la Ley Orgánica del Municipio Libre.

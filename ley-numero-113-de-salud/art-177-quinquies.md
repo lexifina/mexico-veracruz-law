@@ -1,0 +1,2 @@
+(ADICIONADO, G.O. 20 DE JULIO DE 2015)
+ARTICULO 177 QUINQUIES. El individuo que venda bebidas alcohólicas a menores de edad en un establecimiento, o que las suministre o provea para su consumo dentro o fuera del mismo, se hará acreedor a la imposición de una multa que no podrá ser menor a 300 veces el salario mínimo, ni mayor a 600 veces el salario mínimo general vigente en la zona geográfica correspondiente. Lo anterior, con independencia de las responsabilidades civiles o penales a que haya lugar.

@@ -1,0 +1,2 @@
+(ADICIONADO, G.O. 20 DE JULIO DE 2015)
+ARTICULO 177 QUATER. Para los efectos de este Capítulo en materia de imposición de sanciones, la Secretaría de Salud, por conducto del Organismo Público Descentralizado Servicios de Salud de Veracruz, fundará y motivará su resolución, realizará el proceso respetando la garantía de audiencia y calificará la sanción correspondiente atendiendo a la gravedad de la infracción.

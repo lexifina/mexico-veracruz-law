@@ -1,0 +1,2 @@
+(ADICIONADO, G.O. 20 DE JULIO DE 2015)
+ARTICULO 177 OCTIES. La Secretaría de Salud del Estado, por conducto del Organismo Público Descentralizado Servicios de Salud de Veracruz, deberá establecer el día o los días obligatorios en que se prohíba la venta de bebidas alcohólicas al público. Dicha autoridad sanitaria deberá hacerlo del conocimiento público cuando menos con 36 horas de anticipación al día o días de la prohibición.

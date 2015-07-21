@@ -1,0 +1,3 @@
+(ADICIONADO, G.O. 20 DE JULIO DE 2015)
+ARTICULO 177 SEPTIES. La Secretaría de Salud del Estado, por conducto del Organismo Público Descentralizado Servicios de Salud de Veracruz, en coordinación con los ayuntamientos, deberá promover acciones para la prevención, reducción y tratamiento del consumo nocivo de bebidas alcohólicas; así como ejercer un efectivo control sanitario.
+Para efectos del presente Capítulo, se entenderá por control sanitario, al conjunto de acciones que implemente la Secretaría de Salud del Estado, por conducto del Organismo Público Descentralizado Servicios de Salud de Veracruz, con el objeto de verificar el cumplimiento del presente Capítulo, fijar las medidas de seguridad y aplicar las sanciones correspondientes.
