@@ -1,0 +1,2 @@
+(ADICIONADO, G.O. 7 DE AGOSTO DE 2015)
+ARTICULO 77 QUATER.- La oferta de los servicios que se haga a través de medios informativos, ya sean impresos, electrónicos u otros, por profesionistas que ejerzan cirugía plástica, estética o reconstructiva; así como los establecimientos o unidades médicas en que se practiquen dichas cirugías, deberán prever y contener con claridad en su publicidad los requisitos que se mencionan en los artículos 77, 77 Bis y 77 Ter.
