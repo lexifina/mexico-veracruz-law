@@ -1,8 +1,7 @@
 ARTÍCULOS TRANSITORIOS
 PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 SEGUNDO. Quedan abrogadas la Ley Numero 20 de Pensiones del Estado de Veracruz publicada en la Gaceta Oficial Número 135 del 9 de noviembre de 1996, el Decreto Número 2 por el que se reforma y adiciona diversos artículos de la Ley de Pensiones del Estado de Veracruz publicado en la Gaceta Oficial Número Extraordinario 356 del 26 de noviembre de 2007, el Decreto Número 538 por el que se reforman diversos artículos de la Ley de Pensiones del Estado publicado en la Gaceta Oficial Número Extraordinario 51 del 11 de febrero de 2009 y el Decreto Número 241 que reforma el artículo 112 de la Ley de Pensiones del Estado de Veracruz publicado en la Gaceta Oficial Número 59 del 11 de febrero de 2014. Así mismo, quedan abrogadas todas aquellas disposiciones que se opongan al presente ordenamiento.
-(NOTA: EL 18 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 101/2014, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TERCERO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 18 DE AGOSTO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-TERCERO. EL DESCUENTO DEL PORCENTAJE A QUE SE REFIERE EL ARTÍCULO 19 DE ESTA LEY, ÚNICAMENTE SERÁ APLICABLE A LOS TRABAJADORES QUE, A PARTIR DE LA ENTRADA EN VIGOR DE ESTE ORDENAMIENTO, CUMPLAN CON LOS REQUISITOS EXIGIDOS POR LA MISMA PARA OBTENER LA JUBILACIÓN O PENSIÓN, QUEDANDO EXCLUIDOS DE DICHA DEDUCCIÓN LOS PENSIONISTAS VIGENTES A LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y LOS TRABAJADORES QUE HAYAN CUMPLIDO CON LA EDAD Y TIEMPO DE COTIZACIÓN CONFORME A LA LEY ABROGADA.
+TERCERO. (DEROGADO, G.O. 12 DE NOVIEMBRE DE 2015)
 CUARTO. Se considerarán trabajadores en transición a aquellos que ingresaron al servicio con fecha anterior a la entrada en vigor de la presente Ley, con excepción de los que ingresaron al servicio antes del 01 de enero de 1997, los cuales tendrán derecho a una pensión por jubilación al reunir las siguientes condiciones:
 I. Tener treinta años de servicios, y
 II. Contar cuando menos con una edad de cincuenta y tres años.
@@ -70,3 +69,4 @@ Sufragio efectivo. No reelección
 Dr. Javier Duarte de Ochoa
 Gobernador del Estado
 Rúbrica.
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
