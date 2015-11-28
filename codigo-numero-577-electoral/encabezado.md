@@ -1,5 +1,4 @@
 CÓDIGO NÚMERO 577 ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
-N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 3 DE JULIO DE 2015.
 Código publicado en el número extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 1 de julio de 2015.
 Al margen un sello que dice: Estados Unidos Mexicanos.—Gobernador del Estado de Veracruz de Ignacio de la Llave.
 (F. DE E., G.O. 3 DE JULIO DE 2015)
