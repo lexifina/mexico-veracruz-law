@@ -10,4 +10,7 @@ IV. A la víctima se le hayan infligido lesiones infamantes, degradantes o mutil
 V. Hayan existido amenazas, acoso o lesiones del sujeto activo en contra de la víctima;
 VI. El cuerpo de la víctima sea expuesto o arrojado en un lugar público; o
 VII. La víctima haya sido incomunicada.
-A quien cometa el delito de feminicidio se le impondrá una sanción de cuarenta a setenta años de prisión.
+(REFORMADO, G.O. 1 DE DICIEMBRE DE 2015)
+A quien cometa el delito de feminicidio se le impondrá una sanción de cuarenta a setenta años de prisión. Además de la sanción descrita en el presente artículo, el imputado perderá todos los derechos con relación a la víctima. Para el supuesto de la fracción I perderá también los derechos de familia y los de carácter sucesorio.
+(ADICIONADO, G.O. 1 DE DICIEMBRE DE 2015)
+En la configuración del delito, no es necesario que se acredite la personalidad misógina del inculpado.
