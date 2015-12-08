@@ -1,5 +1,4 @@
 LEY ESTATAL DEL SERVICIO CIVIL DE VERACRUZ
-N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G.O. DE 2 DE MARZO DE 2015.
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 4 de abril de 1992.
 Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz-Llave.
 DANTE DELGADO, Gobernador del Estado Libre y Soberano de Veracruz-Llave, a sus habitantes, sabed:
