@@ -1,0 +1,4 @@
+G.O. 25 DE DICIEMBRE DE 2015.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 612 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA Y DE LA LEY QUE REGULA LAS CONSTRUCCIONES PÚBLICAS Y PRIVADAS, TODAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
