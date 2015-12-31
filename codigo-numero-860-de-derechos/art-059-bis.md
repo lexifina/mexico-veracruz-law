@@ -35,5 +35,3 @@ h) Trámite de expedición de constancia con calificaciones: 3.58 salarios míni
 i) Trámite de expedición de constancia simple: 2.69 salarios mínimos
 j) Trámite de expedición de constancia de no adeudo: 3.58 salarios mínimos
 k) Trámite para la expedición de título: 44.80 salarios mínimos
-Título Cuarto
-De los Derechos por Servicios Prestados Por el Poder Judicial del Estado
