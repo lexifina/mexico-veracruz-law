@@ -1,0 +1,3 @@
+G.O. 31 DE DICIEMBRE DE 2015.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 618 POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 121 DEL CÓDIGO NÚMERO 541 HACENDARIO PARA EL MUNICIPIO DE BOCA DEL RÍO ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
