@@ -1,0 +1,6 @@
+(ADICIONADO, G.O. 9 DE FEBRERO DE 2016)
+ARTICULO 58 TER.- La prevención del embarazo en niñas y adolescentes comprende los siguientes aspectos:
+I.- La promoción de programas de salud sexual y reproductiva dirigidos a la población en general y con especial énfasis a niñas, niños y adolescentes;
+II.- La promoción para que en las poblaciones y comunidades urbanas, semiurbanas y rurales se impartan pláticas de orientación en materia de educación sexual y reproductiva dirigidas a niñas, niños y adolescentes, a efecto de proporcionar información objetiva y veraz acerca del ejercicio de la sexualidad y la prevención de embarazos tempranos, con el apoyo de las instituciones de salud y educativas;
+III.- La capacitación al personal de salud en las materias de salud sexual y reproductiva y prevención de embarazos en niñas y adolescentes, a efecto de que estén en la posibilidad de transmitir estos conocimientos a la población de forma objetiva y veraz, con base en principios científicos y libres de prejuicios; y
+IV.- La promoción de talleres para padres y madres de familia, tutores o quienes ejerzan la patria potestad de las niñas, niños y adolescentes, en materia de salud sexual y reproductiva así como la prevención de embarazos.
