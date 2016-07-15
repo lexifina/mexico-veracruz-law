@@ -12,3 +12,4 @@ Por tanto, en atención a lo dispuesto por los artículos 35 párrafo segundo y 
 A t e n t a m e n t e
 Sufragio efectivo. No reelección
 Licenciado Miguel Alemán Velazco, Gobernador del Estado.- Rúbrica.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]

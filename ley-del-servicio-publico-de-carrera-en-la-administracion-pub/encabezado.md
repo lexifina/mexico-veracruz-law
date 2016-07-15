@@ -1,4 +1,4 @@
-LEY DEL SERVICIO PUBLICO DE CARRERA EN LA ADMINISTRACION PUBLICA CENTRALIZADA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+LEY DEL SERVICIO PÚBLICO DE CARRERA EN LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 Ley publicada en la Gaceta Oficial del Gobierno del Estado de Veracruz de Ignacio de la Llave, el viernes 10 de octubre de 2003.
 Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz de Ignacio de la Llave.
 Miguel Alemán Velazco, Gobernador del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, a sus habitantes sabed:
