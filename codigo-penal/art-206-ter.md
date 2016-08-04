@@ -1,0 +1,6 @@
+(NOTA: EL 4 DE JULIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 78/2016, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE AGOSTO DE 2016 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(ADICIONADO, G.O. 3 DE AGOSTO DE 2016)
+Artículo 206 Ter.- A quien, con ánimo de dominio, lucro o uso, sin consentimiento de quien legalmente pueda otorgarlo se apodere de equipos, maquinaria, insumos, instrumentos o productos pesqueros y/o acuícolas, se le sancionará de la manera siguiente:
+I. Si el valor de lo robado no excediere de cien días de salario, con prisión de tres meses a seis años y multa hasta de setenta y cinco días de salario;
+II. Si el valor de lo robado excediere de cien días de salario, con prisión de tres a diez años y multa de hasta cuatrocientos días de salario; o
+III. Si el valor de lo robado excediere de doscientos días de salario, con prisión de cuatro a doce años y multa de hasta seiscientos días de salario.
