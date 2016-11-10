@@ -1,0 +1,2 @@
+(ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2016)
+ARTICULO 73 QUÁTER.- Toda persona mayor de edad, en pleno uso de sus facultades mentales, puede en cualquier momento e independientemente de su estado de salud, expresar su voluntad por escrito ante dos testigos, para recibir o no, cualquier tratamiento que considere innecesario o desproporcionado, en caso de que llegase a padecer una enfermedad en situación terminal. Dicho documento podrá ser revocado en cualquier momento.

@@ -1,0 +1,6 @@
+G.O. 9 DE NOVIEMBRE DE 2016.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 932 QUE REFORMA LOS ARTÍCULOS 29, FRACCIÓN III; 34; 35, FRACCIÓN III; Y 55; ADICIONA LAS FRACCIONES IV BIS Y XX AL APARTADO "A" DEL ARTÍCULO 3º, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES; LAS FRACCIONES IX, X, XI, XII, XIII Y XIV AL ARTÍCULO 4º; LA FRACCIÓN VI BIS AL ARTÍCULO 29; LA FRACCIÓN IV AL ARTÍCULO 35; Y CREA UN TÍTULO TERCERO BIS DENOMINADO "DE LOS CUIDADOS PALIATIVOS A LOS ENFERMOS EN SITUACIÓN TERMINAL" DE LA LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+Primero. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+Segundo. El Ejecutivo deberá emitir las adecuaciones necesarias al Reglamento correspondiente para su debida aplicación dentro de los noventa días siguientes a la fecha de publicación de la presente reforma, sin que la falta de reglamentación limite su aplicación.
+Tercero. El Ejecutivo deberá proveer de las partidas presupuestales específicas suficientes dentro del presupuesto anual de egresos del Estado de Veracruz, para la debida implementación de la prestación de los servicios de Cuidados Paliativos en el Sistema Estatal de Salud.
+Cuarto. Se derogan las disposiciones que se opongan al presente Decreto.
