@@ -24,6 +24,6 @@ ARTICULO DECIMOSEXTO.- Esta Ley entrará en vigor a partir de los tres días há
 DADA en el Salón de Sesiones de la H. Legislatura, en la ciudad de Jalapa-Enríquez, Ver., a ios (sic) dieciocho días del mes de diciembre de mil novecientos sesenta y tres.
 MARIANO RAMOS ZARRABAL.- Diputado Presideinte (sic).- ING. ARMANDO CARDEL AGUILAR.- Diputado Secretario.- Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 Jalapa-Enríquez, Ver., a 20 de diciembre de 1963. Sub Secretario de Gobierno Enc. de la Secretaría, Lic. LORENZO J. CASARIN U.
-N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
 G.O. 28 DE NOVIEMBRE DE 1964. (REPUBLICADA, G.O. 3 DE DICIEMBRE DE 1964)
 La presente Ley surtirá sus efectos legales a partir de la fecha de su publicación en la "Gaceta Oficial" del Estado.
