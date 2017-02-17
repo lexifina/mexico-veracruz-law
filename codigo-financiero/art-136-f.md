@@ -1,4 +1,3 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.
 (ADICIONADO, G.O. 13 DE JULIO DE 2011)
 Artículo 136 F. No se pagará el impuesto en los términos de este Capítulo, por la tenencia o uso de los siguientes vehículos:
 I. Los eléctricos utilizados para el transporte público de personas.

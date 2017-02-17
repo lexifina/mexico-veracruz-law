@@ -1,4 +1,3 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)
 Artículo 97 Ter. Comete el delito de abuso de autoridad en materia fiscal, el servidor público de la Hacienda Pública Estatal que por sí o por interpósita persona, utilice formatos oficiales o cualquier tipo de documentación que se halle bajo su custodia o a la cual tenga acceso o conocimiento, en virtud de su empleo, cargo o comisión, para ordenar, ejecutar, cancelar o reproducir un acto de manera ilícita o iniciar un procedimiento en beneficio propio o ajeno, o en perjuicio de los contribuyentes o de la Hacienda Pública.
 Al infractor se le impondrán de 6 a 12 años de prisión, multa de 30 a 300 veces el salario mínimo diario vigente en el lugar y momento de comisión del delito y destitución e inhabilitación de 6 a 12 años para desempeñar otro empleo, cargo o comisión públicos.

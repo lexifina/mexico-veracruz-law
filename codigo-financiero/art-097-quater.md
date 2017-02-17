@@ -1,4 +1,3 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)
 Artículo 97 Quáter. Comete el delito de desvío de recursos en materia fiscal, aquel servidor público que a sabiendas del fin al cual están dirigidos, aplique el pago enterado por concepto de contribuciones, sus accesorios o multas no fiscales, así como cualquier otro ingreso de los señalados en el artículo 11 del presente Código, a un fin distinto al cual están dirigidos o destinados, para obtener un beneficio propio o de tercero.
 En este caso, la pena que se impondrá será de 5 a 12 años de prisión, debiéndose tomar en cuenta la cuantía de los recursos producto del desvío para cuantificar la pena.
