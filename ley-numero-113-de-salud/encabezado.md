@@ -1,5 +1,4 @@
 LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
-[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G.O. 13 DE DICIEMBRE DE 2016.]
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 17 de mayo de 1988.
 Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador Constitucional del Estado de Veracruz-Llave.
 FERNANDO GUTIERREZ BARRIOS, Gobernador Constitucional del Estado Libre y Soberano de Veracruz-Llave, a sus habitantes, sabed:

@@ -7,6 +7,6 @@ b) En el reverso, al centro el busto del General Ignacio de la Llave en relieve 
 El Ejecutivo del Estado podrá disponer la entrega adicional de un estímulo económico, previo acuerdo con el Honorable Consejo Docente de la Heroica Escuela Naval Militar.
 II. Al Mérito Deportivo: A aquellos deportistas que se distingan por su destacada participación en actividades que generen reconocimiento para el Estado de Veracruz de Ignacio de la Llave, ante la sociedad veracruzana, nacional o internacional.
 La Medalla al Mérito Deportivo se entregará el mismo año en el que se haya dado la participación deportiva de alto reconocimiento para el Estado de Veracruz de Ignacio de la Llave.
-(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 5 DE NOVIEMBRE DE 2010)
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 5 DE NOVIEMBRE DE 2010)
 Capítulo Sexto
 De las Medallas Carlos A. Carrillo y Enrique C. Rébsamen

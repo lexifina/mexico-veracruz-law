@@ -1,4 +1,4 @@
-LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACION Y ENAJENACION DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 21 de febrero de 2003.
 Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz-Llave.
 Miguel Alemán Velazco, Gobernador del Estado Libre y Soberano de Veracruz--Llave, a sus habitantes sabed:
