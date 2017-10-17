@@ -10,4 +10,4 @@ Dada en la H. Ciudad de Córdoba, a veinticuatro de agosto de mil novecientos di
 Por tanto, mando se imprima, publique por Bando solemne en todo el Estado y circule para general conocimiento.
 CONSTITUCION Y REFORMAS.
 H. Córdoba, a 16 de septiembre de 1917.-M. Loyo.-Carlos I. Meléndez, Secretario.
-N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
