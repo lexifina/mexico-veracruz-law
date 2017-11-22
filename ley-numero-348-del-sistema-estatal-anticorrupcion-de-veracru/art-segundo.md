@@ -1,0 +1,1 @@
+Artículo segundo. Dentro de los treinta días siguientes a la entrada en vigor de la presente Ley, el Congreso del Estado deberá designar a los integrantes de la Comisión de Selección, para ello expedirá convocatoria pública que detallará el proceso de elección de la Comisión de Selección conforme a lo establecido por el artículo 18 de la presente Ley.
