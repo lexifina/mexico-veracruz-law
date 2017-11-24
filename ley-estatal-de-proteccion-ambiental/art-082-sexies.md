@@ -1,0 +1,2 @@
+(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)
+Artículo 82 Sexies. Los municipios que no cuenten con 5 metros cuadrados de área verde por habitante deberán incrementarlo buscando alcanzar este objetivo con alternativas para la creación de nuevas áreas verdes como son: Azoteas verdes, barrancas, retiro de asfalto innecesario en explanadas, camellones, áreas verdes verticales y jardineras en calles secundarias.

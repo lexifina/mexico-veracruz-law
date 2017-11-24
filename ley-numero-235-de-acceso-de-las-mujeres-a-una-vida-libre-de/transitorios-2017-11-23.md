@@ -1,0 +1,4 @@
+G.O. 23 DE NOVIEMBRE DE 2017.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 291 QUE REFORMA LAS FRACCIONES II A VI DEL ARTÍCULO 15; ADICIONA UNA FRACCIÓN VII Y UN PÁRRAFO PENÚLTIMO AL ARTÍCULO 15, LOS ARTÍCULOS 19 BIS Y 19 TER, Y DEROGA LA FRACCIÓN XXXII DEL ARTÍCULO 19, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+Segundo. Las personas señaladas en las fracciones VI y VII del artículo 15 del presente Decreto, que actualmente se encuentran en funciones dentro del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, durarán en su encargo hasta el 4 de noviembre de 2018.

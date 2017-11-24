@@ -1,0 +1,2 @@
+(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)
+Artículo 82 Octies. Las áreas verdes bajo las categorías de parques, jardines, alamedas y arboledas, áreas análogas, establecidas en los programas de desarrollo urbano, deberán conservar su extensión y en caso de modificarse para la realización de alguna obra pública deberán ser compensadas con superficies iguales o mayores a la extensión modificada en el lugar más cercano.
