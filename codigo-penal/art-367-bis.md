@@ -5,6 +5,8 @@ FEMINICIDIO
 Artículo 367 Bis. Comete el delito de feminicidio quien por razones de género priva de la vida a una mujer. Existen razones de género cuando se presenta alguna de las siguientes circunstancias:
 I. Exista o haya existido entre el activo y la víctima una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, noviazgo o cualquier otra relación de hecho o amistad;
 II. Exista o haya existido entre el activo y la víctima una relación laboral, escolar, o cualquier otra que implique confianza, subordinación o superioridad;
+(ADICIONADA, G.O. 1 DE DICIEMBRE DE 2017)
+II. Bis. El activo se haya valido de su relación como conductor de un vehículo de transporte de pasajeros, turismo o cualquier otra modalidad;
 III. La víctima presente signos de violencia sexual de cualquier tipo;
 IV. A la víctima se le hayan infligido lesiones infamantes, degradantes o mutilaciones previamente a la privación de la vida, o se realicen marcas infamantes o degradantes sobre el cadáver, o éste sea mutilado;
 V. Hayan existido amenazas, acoso o lesiones del sujeto activo en contra de la víctima;
