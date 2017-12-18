@@ -1,4 +1,4 @@
-LEY NUMERO 306 PARA ENFRENTAR LA EPIDEMIA DEL VIH-SIDA EN EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY NÚMERO 306 PARA ENFRENTAR LA EPIDEMIA DEL VIH-SIDA EN EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el jueves 25 de diciembre de 2008.
 Al margen un sello que dice: Estados Unidos Mexicanos. Gobernador del Estado de Veracruz de Ignacio de la Llave.
 "Año del Centenario del Natalicio del Dr. Gonzalo Aguirre Beltrán"
