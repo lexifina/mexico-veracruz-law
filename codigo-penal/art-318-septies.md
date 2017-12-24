@@ -1,4 +1,4 @@
-(ADICIONADO, G.O. 18 DE JULIO DE 2014)
-Artículo 318 Septies. Serán atenuantes punitivas y reducirán la pena hasta en un tercio, las siguientes:
-a). Que el autor o partícipe proporcione información que conduzca a dar con el paradero de los restos corpóreos de la víctima;
-b). Que el autor material del delito proporcione información relativa a la responsabilidad y paradero del autor intelectual y se logre la ubicación o captura de éste.
+(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)
+Artículo 318 Septies.- Serán atenuantes punitivas y reducirán la pena hasta en una mitad, las siguientes:
+I. Que la víctima fuere liberada espontáneamente durante los cinco días siguientes a su privación de libertad; y
+II. Que quien hubiere intervenido con cualquier grado de participación en la comisión del delito, o quien no lo hubiere evitado pudiendo hacerlo, proporcione información que conduzca a la libertad de la víctima.

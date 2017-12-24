@@ -1,11 +1,5 @@
-(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 18 DE JULIO DE 2014)
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 21 DE DICIEMBRE DE 2017)
 CAPÍTULO II BIS
-DESAPARICIÓN FORZADA DE PERSONAS
-(ADICIONADO, G.O. 18 DE JULIO DE 2014)
-Artículo 318 Bis. Comete el delito de desaparición forzada de persona el servidor público que realice, ordene, autorice, consienta, tolere, apoye o conozca de la detención o privación de la libertad de una persona y además incurra en una o más de las siguientes hipótesis:
-a). Se niegue a reconocer dicha detención o privación de la libertad;
-b). Omita dolosamente o se niegue a rendir informe sobre dicha detención o privación de libertad;
-c). Oculte o mantenga dolosamente el ocultamiento de la víctima;
-d). Se niegue a informar sobre cualquier dato que tenga sobre la detención, la privación de libertad o el paradero de la víctima;
-e). Dolosamente proporcione información falsa o rinda informes falsos sobre la detención, la privación de libertad o el paradero de la víctima.
-Al servidor público que cometa el delito de desaparición forzada de persona, se le impondrá una pena de diez a treinta años de prisión y multa de mil a cuatro mil días de salario, además de la inhabilitación definitiva para ejercer la función pública.
+SIMULACIÓN DE REINTEGRO DE RECURSOS
+(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)
+Artículo 318 Bis.- Se impondrán de cinco a quince años de prisión y multa de quinientas a mil Unidades de Medida y Actualización, y prohibición para desempeñar cargo, empleo o comisión públicos, tomando en consideración el monto de la simulación ocurrida, al servidor o ex servidor público que ordene, autorice o realice el reintegro de recursos públicos a las cuentas bancarias aperturadas para el depósito de recursos financieros de carácter federal, estatal o municipal que le sean asignados al ente público, con la finalidad de resarcir el patrimonio público o solventar las observaciones que hayan sido determinadas por la Auditoría Superior, el Órgano de Fiscalización Superior del Estado, la Contraloría o cualquier otra autoridad que lo hubiere ordenado, y posteriormente los asigne o desvíe nuevamente a un fin distinto al que originalmente estaban reservados o destinados por disposición de ley.

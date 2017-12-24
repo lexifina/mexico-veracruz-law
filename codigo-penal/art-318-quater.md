@@ -1,2 +1,4 @@
-(ADICIONADO, G.O. 18 DE JULIO DE 2014)
-Artículo 318 Quáter. Se equipara al delito de desaparición forzada de persona el omitir entregar a su familia o a la autoridad a una persona, viva o muerta, que haya nacido durante la privación de libertad de una mujer víctima de desaparición forzada de persona y se sancionará conforme a lo dispuesto en los dos artículos anteriores.
+(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)
+Artículo 318 Quater.- Será igualmente considerado como sujeto activo del delito de desaparición forzada de persona, el particular que:
+I. Con la autorización, apoyo, tolerancia, o aquiescencia de algún servidor público, realice alguna de las conductas descritas en el artículo anterior; y
+II. Intervenga con cualquier grado de autoría o participación en la comisión de alguna de las hipótesis descritas en el artículo anterior. Al particular que cometa el delito de desaparición forzada de persona, se le impondrá una pena de diez a veinticinco años de prisión y multa de quinientos a dos mil días de salario.
