@@ -1,4 +1,3 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.
 (ADICIONADO, G.O. 7 DE SEPTIEMBRE DE 2009)
 Artículo 136 bis.- Para los traslados de dominio en que el inmueble sea destinado a la industria, el impuesto se causará, liquidará y pagará aplicando a la base gravable determinada el .3% siempre que se cumpla con los siguientes requisitos:
 a) Constancia de la autorización del uso de suelo para dicho fin, expedida por el Director de Obras Públicas;
