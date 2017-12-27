@@ -30,7 +30,7 @@ IV. Renovación de registro como terceros acreditados.
 Persona Física: 12
 V. Por la autorización de programas especiales de Protección Civil que se presenten para la realización de un evento o espectáculo en el municipio de Cosoleacaque para promotores particulares, se pagará:
 Aforo del evento:
-De 1 a 1 ,000 asistentes: 40
+De 1 a 1,000 asistentes: 40
 De 1,001 a 5,000 asistentes: 60
-De 5;001 a 10,000 asistentes: 80
+De 5,001 a 10,000 asistentes: 80
 De 10,001 en adelante: 90
