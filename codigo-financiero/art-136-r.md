@@ -1,2 +1,2 @@
-(REFORMADO, G.O. 30 DE DICIEMBRE DE 2014)
-Artículo 136 R. La recaudación, efectivamente ingresada, del impuesto a que se refiere este Capítulo se destinará a cubrir las obligaciones garantizadas con esta contribución y el remanente del monto recaudado será destinado, en partes iguales, al financiamiento del gasto público en el rubro de seguridad pública y de combate a la pobreza, mediante el fideicomiso público que se constituya para su administración.
+(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)
+Artículo 136 R. La recaudación, efectivamente ingresada, del impuesto a que se refiere este Capítulo se destinará a cubrir las obligaciones garantizadas con esta contribución y el remanente del monto recaudado será destinado, en partes iguales, al financiamiento del gasto público en el rubro de seguridad pública y de combate a la pobreza.
