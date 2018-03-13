@@ -1,5 +1,4 @@
 CÓDIGO NÚMERO 860 DE DERECHOS PARA EL ESTADO DE VERACRUZ
-[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DE 19 DE ENERO DE 2018.]
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 31 de julio de 2013.
 Al margen un sello que dice: Estados Unidos Mexicanos.-Poder Ejecutivo.-Estado Libre y Soberano de Veracruz de Ignacio de la Llave.
 Xalapa - Enríquez, julio 31 de 2013
