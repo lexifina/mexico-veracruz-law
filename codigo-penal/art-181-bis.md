@@ -1,0 +1,3 @@
+(ADICIONADO, G.O. 16 DE AGOSTO DE 2018)
+Artículo 181 Bis.- Al que sin autorización modifique, destruya o provoque pérdida de información contenida en sistemas o equipos de informática del estado, protegidos por algún mecanismo de seguridad, se le impondrán de dos a cinco años de prisión y multa de doscientas a seiscientas unidades de medida y actualización.
+Al que sin autorización conozca, copie o utilice información contenida en sistemas o equipos de informática del estado, protegidos por algún mecanismo de seguridad, se le impondrán de uno a tres años de prisión y multa de cien a trescientas unidades de medida y actualización.

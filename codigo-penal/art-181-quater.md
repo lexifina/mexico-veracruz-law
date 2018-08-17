@@ -1,0 +1,3 @@
+(ADICIONADO, G.O. 16 DE AGOSTO DE 2018)
+Artículo 181 Quater.- Al que estando autorizado para acceder a sistemas y equipos de informática del estado, indebidamente modifique, destruya o provoque pérdida de información que contengan, se le impondrán de tres a siete años de prisión y multa de hasta quinientas unidades de medida y actualización.
+Al que estando autorizado para acceder a sistemas y equipos de informática del estado, indebidamente obtenga, copie o utilice información que contengan, se le impondrán de dos a cinco años de prisión y multa de doscientas a seiscientas unidades de medida y actualización.
