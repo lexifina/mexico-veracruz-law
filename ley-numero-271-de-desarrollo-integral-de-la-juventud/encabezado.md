@@ -1,4 +1,4 @@
-LEY DE DESARROLLO INTEGRAL DE LA JUVENTUD
+LEY DE DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 Ley publicada en la Gaceta Oficial del Gobierno del Estado de Veracruz de Ignacio de la Llave, el lunes 15 de agosto de 2005.
 Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz de Ignacio de la Llave.
 Xalapa-Enríquez, Ver., a 9 de agosto de 2005.

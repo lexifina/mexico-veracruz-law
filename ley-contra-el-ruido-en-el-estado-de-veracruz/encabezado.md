@@ -1,3 +1,4 @@
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 LEY CONTRA EL RUIDO EN EL ESTADO DE VERACRUZ
 Ley publicada en la Gaceta Oficial del Estado de Veracruz- Llave, el martes 20 de octubre de 1942.
 JORGE CERDAN, Gobernador Constitucional del Estado Libre y Soberano de Veracruz-Llave, a sus habitantes, sabed:
