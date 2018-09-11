@@ -14,3 +14,4 @@ Sufragio efectivo. No reelección
 Dr. Javier Duarte de Ochoa
 Gobernador del Estado
 Rúbrica.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
