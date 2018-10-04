@@ -1,0 +1,6 @@
+(ADICIONADO, G.O. 3 DE OCTUBRE DE 2018)
+Artículo 39 Octies. Los recursos metropolitanos se destinarán a acciones, procesos, obras de infraestructura y su equipamiento, conforme a los instrumentos de planeación metropolitana y los convenios respectivos, incluyendo proyectos de infraestructura en proceso, o para completar el financiamiento de aquéllos que no hubiesen contado con los recursos necesarios para su ejecución, siempre que la normatividad aplicable no disponga lo contrario.
+Las acciones y obras de infraestructura y su equipamiento, a que se refiere el párrafo anterior, deberán ser viables y sustentables, orientados a promover:
+I. La adecuada planeación del desarrollo municipal, regional, metropolitano y urbano; del transporte público y la movilidad no motorizada; así como del ordenamiento del territorio para impulsar la competitividad económica;
+II. La sustentabilidad y las capacidades productivas de las zonas metropolitanas, así como coadyuvar a su viabilidad y a mitigar su vulnerabilidad o riesgos por fenómenos naturales, ambientales y los propiciados por la dinámica demográfica y económica; o
+III. La consolidación urbana y el aprovechamiento óptimo de las ventajas competitivas del funcionamiento municipal regional, urbano y económico del espacio territorial de las zonas metropolitanas.
