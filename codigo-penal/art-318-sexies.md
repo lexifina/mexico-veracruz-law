@@ -1,1 +1,0 @@
-Artículo 318 Sexies.- (DEROGADO, G.O. 4 DE SEPTIEMBRE DE 2018)
