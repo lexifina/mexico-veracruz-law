@@ -1,4 +1,3 @@
-[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 LEY NÚMERO 367 ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA
 Ley publicada en el Extraordinario al Número 504 de la Gaceta Oficial de Veracruz de Ignacio de la Llave, el martes 19 de diciembre de 2017.
 Al margen un sello que dice: Estados Unidos Mexicanos.— Gobernador del Estado de Veracruz de Ignacio de la Llave.

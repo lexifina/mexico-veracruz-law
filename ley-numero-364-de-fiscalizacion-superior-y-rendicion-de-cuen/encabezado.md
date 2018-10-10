@@ -1,5 +1,4 @@
-LEY NÚMERO 364 DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
-[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 7 DE FEBRERO DE 2018.]
+LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 18 de diciembre de 2017.
 Al margen un sello que dice: Estados Unidos Mexicanos.— Gobernador del Estado de Veracruz de Ignacio de la Llave.
 Xalapa-Enríquez, diciembre 11 de 2017

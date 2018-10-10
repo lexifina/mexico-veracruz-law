@@ -29,3 +29,4 @@ A t e n t a m e n t e
 Miguel Ángel Yunes Linares
 Gobernador del Estado
 Rúbrica.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
