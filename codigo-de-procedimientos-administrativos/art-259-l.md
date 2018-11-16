@@ -2,5 +2,5 @@
 Artículo 259-L. La solicitud de dación en pago que presenten los deudores de toda clase de créditos, además de los requisitos previstos en el Libro Primero, Título Cuarto, Capítulo I del Código de Procedimientos Administrativos para el Estado, deberá contener:
 I. Importe total del adeudo, señalando, en caso de créditos fiscales, las contribuciones que lo integran, su monto y accesorios causados, periodo y actualización correspondientes a la fecha de presentación de la solicitud y número del crédito. Tratándose de créditos no fiscales, el monto del adeudo por principal e intereses ordinarios y moratorios, en su caso;
 II. Descripción y características de los bienes y servicios ofrecidos. En caso de bienes, declaración sobre el estado físico en que se encuentren, con especificación de ser nuevos o usados;
-III. Tratándose de servicios, el plazo durante el cual se prestarán los mismos, en el entendido de que dicha prestación no podrá exceder del plazo máximo a que se refiere el artículo 259-R de este Código, y
+III. Tratándose de servicios, el plazo durante el cual se prestarán los mismos, en el entendido de que dicha prestación no podrá exceder del plazo máximo a que se refiere el artículo 259-R de este Código; y
 IV. Declaración bajo protesta de decir verdad, que la dación en pago es la única forma que tiene el deudor para cumplir con la obligación a su cargo.
