@@ -1,5 +1,0 @@
-G.O. 20 DE FEBRERO DE 2018.
-[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 617 QUE ADICIONA LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 13 LA LEY DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
-Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
-Tercero. La autoridad educativa estatal deberá actualizar, en un plazo que no excederá de noventa días naturales, contado a partir de la entrada en vigor del presente Decreto, el padrón estatal de alumnos establecido en la fracción XII del artículo 18 de esta misma Ley, con base en los datos de alumnos inscritos para el ciclo escolar 2017-2018, más un porcentaje adicional que la propia Secretaría considere, para poder establecer el monto de inversión que deberá proponerse al Ejecutivo del Estado para la modificación del Presupuesto de Egresos del Gobierno del Estado de Veracruz de Ignacio de la Llave, para el Ejercicio Fiscal 2018.
