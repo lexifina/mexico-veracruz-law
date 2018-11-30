@@ -1,5 +1,4 @@
 LEY NÚMERO 235 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL EL 18 DE OCTUBRE DE 2018.]
 Ley publicada en el Núm. Ext. 65 a la Gaceta Oficial del Estado de Veracruz, el jueves 28 de febrero de 2008.
 Al margen un sello que dice: Estados Unidos Mexicanos. Gobernador del Estado de Veracruz de Ignacio de la Llave.
 Año del Centenario del Natalicio del doctor Gonzalo Aguirre Beltrán.
