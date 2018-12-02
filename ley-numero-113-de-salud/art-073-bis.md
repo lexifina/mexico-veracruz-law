@@ -6,7 +6,7 @@ CAPITULO I
 DERECHOS DE LOS ENFERMOS EN SITUACION TERMINAL
 (ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2016)
 ARTICULO 73 BIS.- Son derechos de los enfermos en situación terminal:
-l. Recibir atención médica integral;
+I. Recibir atención médica integral;
 II. Ingresar a las instituciones de salud cuando requieran atención médica;
 III. Recibir un trato digno, respetuoso y profesional, que procure mejorar su calidad de vida;
 IV. Recibir información clara, oportuna y suficiente sobre las condiciones y efectos de su enfermedad, y los tipos de tratamientos por los cuales puede optar según la enfermedad que padezca;

@@ -1,6 +1,6 @@
 (ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2016)
 ARTICULO 73 VICIES.- Los médicos tratantes tendrán las siguientes obligaciones:
-l. Proporcionar toda la información necesaria para que el enfermo en situación terminal pueda tomar una decisión libre e informada sobre su atención, tratamiento y cuidados;
+I. Proporcionar toda la información necesaria para que el enfermo en situación terminal pueda tomar una decisión libre e informada sobre su atención, tratamiento y cuidados;
 II. Pedir el consentimiento informado del enfermo en situación terminal, por escrito y ante dos testigos, para realizar los tratamientos o medidas a tomar respecto de la enfermedad incurable. Dicho escrito deberá ser anexado al expediente médico del paciente;
 III. Informar oportunamente al enfermo en situación terminal, a su familia, tutor, representante legal o a la persona de su confianza sobre las opciones que existan en cuanto a cuidados paliativos;
 IV. Informar oportunamente al enfermo en situación terminal, a la familia, tutor, representante legal o a la persona de su confianza, cuando el tratamiento curativo no dé resultados;

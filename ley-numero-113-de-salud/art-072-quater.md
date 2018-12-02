@@ -2,7 +2,7 @@
 ARTICULO 72 QUÁTER.- Toda persona que haya sido admitida voluntariamente tendrá derecho a abandonar la institución de salud mental en cualquier momento. El paciente deberá ser informado de dicho derecho.
 Una persona sólo podrá ser admitida como paciente involuntario en una institución de salud mental o ser retenida como paciente involuntario en una institución de salud mental a la que ya hubiera sido admitida voluntariamente cuando un médico calificado y autorizado por ley, determine y certifique por escrito, que esa persona padece un trastorno mental, de conducta o adicción grave, cuya capacidad de juicio esté afectada y considere que existe peligro o riesgo grave o inminente para esa persona o para terceros.
 El internamiento de cualquier persona con trastorno mental, trastorno de conducta o adicción en una institución de salud mental, también podría tener lugar cuando ésta sea solicitada a la Dirección de una institución o un servicio de salud mental por medio de:
-l. Una orden judicial;
+I. Una orden judicial;
 II. A petición de los familiares;
 III. A petición del representante legal; o
 IV. A petición del propio interesado.
