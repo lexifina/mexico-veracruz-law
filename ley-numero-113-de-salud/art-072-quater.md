@@ -1,0 +1,10 @@
+(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2018)
+ARTICULO 72 QUÁTER.- Toda persona que haya sido admitida voluntariamente tendrá derecho a abandonar la institución de salud mental en cualquier momento. El paciente deberá ser informado de dicho derecho.
+Una persona sólo podrá ser admitida como paciente involuntario en una institución de salud mental o ser retenida como paciente involuntario en una institución de salud mental a la que ya hubiera sido admitida voluntariamente cuando un médico calificado y autorizado por ley, determine y certifique por escrito, que esa persona padece un trastorno mental, de conducta o adicción grave, cuya capacidad de juicio esté afectada y considere que existe peligro o riesgo grave o inminente para esa persona o para terceros.
+El internamiento de cualquier persona con trastorno mental, trastorno de conducta o adicción en una institución de salud mental, también podría tener lugar cuando ésta sea solicitada a la Dirección de una institución o un servicio de salud mental por medio de:
+l. Una orden judicial;
+II. A petición de los familiares;
+III. A petición del representante legal; o
+IV. A petición del propio interesado.
+La solicitud de internamiento deberá contener los datos personales de la persona afectada y de sus familiares. La internación a la que se refiere este artículo exclusivamente procederá si se dan las condiciones señaladas en esta Ley y estará fundamentada en el dictamen de un personal especializado calificado y autorizado para esos efectos por el responsable de la institución especializada a la cual se haya hecho la solicitud.
+El consentimiento Informado son los documentos escritos, signados por el paciente o su representante legal o familiar más cercano en vínculo, de conformidad con las disposiciones aplicables, mediante los cuales se acepta un procedimiento médico o quirúrgico con fines diagnósticos, terapéuticos, rehabilitatorios, paliativos o de investigación, una vez que se ha recibido información de los riesgos y beneficios esperados para el paciente.
