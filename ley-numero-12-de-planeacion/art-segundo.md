@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Se abroga la Ley Número 56 de Planeación del Estado de Veracruz de Ignacio de la Llave y se derogan todas las disposiciones que se opongan a la presente Ley. Asimismo, se extinguen los órganos a que refiere la Ley que se abroga, cuya organización y funcionamiento correrá a cargo de los órganos que se aprueban con motivo de la presente Ley, según corresponda.

@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- Los municipios deberán actualizar su Plan Municipal de Desarrollo conforme al contenido del Plan Veracruzano de Desarrollo que se elabore para la gestión de gobierno 2018- 2024; aprobarlo y publicarlo, en un plazo de cuatro meses, contados a partir de la publicación en la Gaceta Oficial del Estado del Plan estatal.
