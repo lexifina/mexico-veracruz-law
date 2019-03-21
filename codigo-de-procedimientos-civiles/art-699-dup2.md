@@ -8,7 +8,7 @@ III.- Para acreditar hechos conocidos o acreditar situaciones jurídicas;
 IV.- Para comprobar la posesión de un derecho real;
 V.- Cambio voluntario de nombre o aclaración de uso indistinto de varios nombres;
 VI.- El procedimiento voluntario de apeo y de deslinde;
-VII.- La constitución y extinción voluntaria del Patrimonio Familiar;
+VII.- La construcción y extinción voluntaria del Patrimonio Familiar;
 VIII.- La liquidación voluntaria de la sociedad conyugal, siempre que no existan menores;
 IX.- La constitución y modificación voluntaria de capitulaciones matrimoniales;
 X.- La sucesión testamentaria o intestada con las limitaciones legales establecidas, y
