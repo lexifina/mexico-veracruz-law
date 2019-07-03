@@ -1,2 +1,0 @@
-(ADICIONADO, G.O. 13 DE JULIO DE 2011)
-Artículo 136 B. Las dependencias, las entidades, los organismos autónomos, los Municipios, los organismos descentralizados, la Federación, los Poderes Estatales o cualquier otra persona, deberán pagar el impuesto que establece este Capítulo, con las excepciones que en el mismo se señalan, aun cuando de conformidad con otras leyes o decretos no estén obligados a pagar impuestos o estén exentos de ellos.

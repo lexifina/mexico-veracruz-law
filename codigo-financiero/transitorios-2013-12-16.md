@@ -1,5 +1,0 @@
-G.O. 16 DE DICIEMBRE DE 2013.
-Primero. El presente Decreto entrará en vigor el primero de enero de 2014, previa publicación en la Gaceta Oficial, Órgano de Gobierno del Estado de Veracruz de Ignacio de la Llave.
-Segundo. La actualización de contribuciones, aprovechamientos y sus accesorios, prevista en la presente reforma, se calculará a partir del ejercicio fiscal 2014, aun cuando el hecho impositivo se hubiere producido con anterioridad a dicho ejercicio.
-Tercero. Las autoridades fiscales, mediante reglas de carácter general, establecerán las bases bajo las cuales los contribuyentes del Impuesto por la Prestación de Servicios de Hospedaje deberán cumplir con la obligación de dictaminar el referido impuesto en términos de la presente reforma, pudiendo en su caso brindar facilidades administrativas.
-Cuarto. Las autoridades fiscales, mediante reglas de carácter general, establecerán las bases bajo las cuales los contribuyentes del Impuesto sobre Loterías, Rifas, Sorteos y Concursos deberán cumplir con la obligación de dictaminar el referido impuesto en términos de la presente reforma.

@@ -1,4 +1,0 @@
-G.O. 8 DE AGOSTO DE 2003.
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
-SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
-TERCERO. En la aplicación de lo dispuesto por el artículo 147, fracción VI, del Código Financiero para el Estado de Veracruz de Ignacio de la Llave, los propietarios de los centros de verificación que operaban con anterioridad a la entrada en vigor del presente Decreto pagarán únicamente el cincuenta por ciento de los derechos que correspondan por concesión para operar centro verificador para todo tipo de vehículo automotor, mediante la exhibición de los documentos probatorios respectivos ante las Secretarías de Desarrollo Regional y de Finanzas y Planeación del Gobierno del Estado.

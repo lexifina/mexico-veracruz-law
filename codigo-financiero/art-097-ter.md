@@ -1,4 +1,0 @@
-(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)
-Artículo 97 Ter. Comete el delito de abuso de autoridad en materia fiscal, el servidor público de la Hacienda Pública Estatal que por sí o por interpósita persona, utilice formatos oficiales o cualquier tipo de documentación que se halle bajo su custodia o a la cual tenga acceso o conocimiento, en virtud de su empleo, cargo o comisión, para ordenar, ejecutar, cancelar o reproducir un acto de manera ilícita o iniciar un procedimiento en beneficio propio o ajeno, o en perjuicio de los contribuyentes o de la Hacienda Pública.
-(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)
-Al infractor se le impondrán de 6 a 12 años de prisión, multa de 31.8081 a 318.0818 Unidades de Medida y Actualización vigente en el momento de (sic) comisión del delito y destitución e inhabilitación de 6 a 12 años para desempeñar otro empleo, cargo o comisión públicos.
