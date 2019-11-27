@@ -1,3 +1,0 @@
-(ADICIONADO, G.O. 16 DE AGOSTO DE 2018)
-Artículo 181 Ter.- A quien sin autorización conozca, obtenga, copie o utilice información contenida en cualquier sistema, equipo o medio de almacenamiento informáticos de seguridad pública, protegido por algún medio de seguridad, se le impondrá pena de cuatro a diez años de prisión y multa de hasta quinientas a mil unidades de medida y actualización.
-Si el responsable es o hubiera sido servidor público en una institución de seguridad pública, se impondrá además, destitución e inhabilitación hasta por el mismo tiempo indicado en los párrafos anteriores para desempeñarse en otro empleo, puesto, cargo o comisión pública.

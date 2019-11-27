@@ -1,1 +1,0 @@
-Artículo 177 Ter. (DEROGADO, G.O. 4 DE JUNIO DE 2019)

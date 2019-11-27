@@ -1,4 +1,0 @@
-(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)
-Artículo 190 Bis.- Comete el delito de hostigamiento sexual, quien, con fines lascivos, asedie, a una persona de cualquier sexo, valiéndose de su posición jerárquica o de poder, derivada de sus relaciones laborales, docentes, domésticas, religiosas, o cualquier otra condición que implique subordinación a la víctima, se le impondrán de uno a cinco años de prisión y multa de hasta trescientos días de salario.
-Si el acosador fuere servidor público y utilizare los medios y las circunstancias que su encargo le proporcione, será destituido y se le inhabilitará para ocupar otro empleo o comisión públicos, hasta por cinco años.
-Cuando la víctima sea menor de dieciocho años, se impondrá una pena de dos a ocho años de prisión y multa de hasta mil días de salario.

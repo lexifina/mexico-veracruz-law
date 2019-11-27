@@ -1,2 +1,0 @@
-(ADICIONADO, G.O. 2 DE ABRIL DE 2010)
-Artículo 154 Quáter.- En todos los casos previstos en este Capítulo, el Ministerio Público acordará las medidas preventivas necesarias y pedirá al juez lo propio para salvaguardar la integridad física o psíquica de la víctima; si ésta fuere mujer, el Ministerio Público solicitará además al juez las órdenes de protección referidas en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Veracruz de Ignacio de la Llave.

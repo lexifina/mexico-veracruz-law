@@ -1,2 +1,0 @@
-(ADICIONADO, G.O. 21 DE JULIO DE 2014)
-Artículo 264. Quáter. Al que intencionalmente cometa actos de maltrato o crueldad en contra de cualquier animal provocándole la muerte, se le impondrán de uno a tres años de prisión y multa de doscientos a cuatrocientos días de salario mínimo, así como el aseguramiento de todos los animales que en ese momento tenga bajo su cuidado o resguardo, en términos de las previsiones de la Ley de Protección a los Animales para el Estado de Veracruz de Ignacio de la Llave.
