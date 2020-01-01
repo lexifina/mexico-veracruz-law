@@ -1,0 +1,11 @@
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+CÓDIGO HACENDARIO PARA EL MUNICIPIO DE MISANTLA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+Código publicado en el Número Extraordinario al Número 216 de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el jueves 30 de mayo de 2019.
+Al margen un sello que dice: Veracruz Gobierno del Estado.- Oficina del Gobernador.
+Xalapa - Enríquez, mayo 17 de 2019
+Oficio número 281/2019
+Cuitláhuac García Jiménez, Gobernador del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, a sus habitantes sabed:
+Que la Sexagésima Quinta Legislatura del Honorable Congreso del Estado se ha servido dirigirme la siguiente ley para su promulgación y publicación:
+LA SEXAGÉSIMA QUINTA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN USO DE LA FACULTAD QUE LE CONFIEREN LOS ARTÍCULOS 33 FRACCIÓN I Y 38 DE LA CONSTITUCIÓN POLÍTICA LOCAL; 18 FRACCIÓN I Y 47 SEGUNDO PÁRRAFO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; 75 Y 76 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO; Y EN NOMBRE DEL PUEBLO, EXPIDE EL SIGUIENTE:
+C Ó D I G O Número 244
+HACENDARIO PARA EL MUNICIPIO DE MISANTLA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
