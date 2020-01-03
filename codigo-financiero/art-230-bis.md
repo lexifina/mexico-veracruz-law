@@ -1,0 +1,11 @@
+(REFORMADO, G.O. 2 DE JULIO DE 2019)
+Artículo 230 Bis. Los ingresos obtenidos por concepto de concesiones de tiendas para la venta de alimentos, dentro de los espacios físicos de los planteles educativos del sistema público en el Estado, se destinarán al mantenimiento y conservación de la infraestructura física de los mismos y servicios correlacionados, así como para las consecuentes tareas de supervisión educativa, apoyo a la gestión docente y programas que se determinen en los lineamientos que dicte la autoridad educativa local.
+La Secretaría de Educación de Veracruz será la que reciba, administre y realice la comprobación de los recursos a los que se refiere el presente numeral, para estos efectos el setenta por ciento de los recursos obtenidos se aplicará al mantenimiento y conservación de la infraestructura física de los planteles educativos públicos y servicios correlacionados, el veinte por ciento de los recursos se aplicará a las tareas de supervisión educativa y apoyo a la gestión docente en los sectores y zonas de las modalidades educativas públicas mencionadas y el diez por ciento de los recursos restantes será aplicado en programas que se determinen en los lineamientos que dicte la autoridad educativa local.
+La recepción, administración, distribución y comprobación de los recursos se sujetará, invariablemente, a las disposiciones aplicables en materia de ejercicio del gasto público y transparencia financiera, así como a la contabilidad gubernamental y a la revisión y fiscalización de la cuenta pública.
+Los procedimientos de licitación pública que se desahoguen para el otorgamiento de las concesiones y los contratos respectivos, se ajustarán a lo dispuesto por la Ley de la materia, así como por los lineamientos que dicte la autoridad educativa estatal; la emisión de la convocatoria y la resolución del procedimiento estarán a cargo de la Secretaría de Educación de Veracruz, quien se apoyará para estos efectos de un Comité de Licitaciones, el cual se conformará con los siguientes miembros:
+I. El Secretario de Educación;
+II. El Subsecretario de Educación Básica;
+III. El Subsecretario de Educación Media Superior y Superior;
+IV. El Director Jurídico de la Secretaría de Educación;
+V. Un representante de la Sociedad de Padres de Familia; y
+VI. Un representante del Consejo Estatal de Participación Social

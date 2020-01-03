@@ -1,0 +1,10 @@
+(ADICIONADO, G.O. 26 DE AGOSTO DE 2013)
+Artículo 289 Ter. Son obligaciones de las Dependencias y Entidades en materia de evaluación del desempeño:
+I. Elaborar y proponer los indicadores de desempeño con enfoque a resultados, de los programas a su cargo conforme a los lineamientos que emita la Secretaría y la Contraloría;
+II. Evaluar por sí mismos o a través de evaluadores externos que observen los lineamientos a los que hace mención el artículo 289 bis fracción III, el resultado de los Programas Presupuestarios y Actividades Institucionales, a fin de que los recursos públicos se asignen en el presupuesto de egresos del Estado, de acuerdo con los principios de eficacia, eficiencia, economía y honradez;
+III. Dar seguimiento a los Indicadores de Desempeño de los Programas Presupuestarios y Actividades Institucionales mediante el cálculo de su valor, de manera periódica y permanente, con el propósito de analizar su tendencia;
+IV. Atender las recomendaciones derivadas de la revisión a las evaluaciones del desempeño que ordenen la Secretaría y la Contraloría;
+V. Informar trimestralmente a la Secretaría y a la Contraloría, mediante los mecanismos que éstas establezcan, los resultados de las evaluaciones a los indicadores de desempeño de los programas a su cargo, dentro de los 10 días siguientes a la conclusión del periodo correspondiente;
+VI. Elaborar e implementar proyectos de mejora para incorporarlos en el diseño, adecuación y operación de los programas a su cargo, atendiendo los resultados de las evaluaciones y sus revisiones e informar los avances con oportunidad, y
+VII. Acordar con la Secretaría las adecuaciones a los Programas Presupuestarios y Actividades Institucionales en cumplimiento de las recomendaciones resultantes de los procesos de seguimiento y evaluación.
+Las Dependencias y Entidades deberán tomar las previsiones presupuestales para contar con los recursos necesarios y dar cumplimiento a las disposiciones de esta Ley, en materia del Sistema de Evaluación del Desempeño.

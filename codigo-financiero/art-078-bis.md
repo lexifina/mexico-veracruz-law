@@ -1,0 +1,2 @@
+(REFORMADO, G.O. 30 DE DICIEMBRE DE 2014)
+Artículo 78 Bis. En el caso de que las multas a que se refiere este capítulo sean pagadas dentro de los quince días siguientes a la fecha en que se notifique al infractor la resolución por la cual se le imponga la sanción o el contribuyente se autocorrija en forma total a satisfacción de la autoridad, la multa se reducirá en un 50% de su monto, sin necesidad de que la autoridad que la impuso dicte una nueva resolución.

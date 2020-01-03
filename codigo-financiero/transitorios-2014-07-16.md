@@ -1,0 +1,7 @@
+G.O. 16 DE JULIO DE 2014
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+SEGUNDO. Las multas previstas en los artículos 139, fracción IV, y 142 de la Ley Estatal de Protección Ambiental podrán aplicarse, al actualizarse alguna de las infracciones previstas en dichos preceptos, a partir del primero de enero de dos mil quince.
+TERCERO. La Secretaría y las autoridades competentes del Gobierno del Estado de Veracruz de Ignacio de la Llave realizarán las adecuaciones correspondientes en los Programas y Reglamentos derivados del presente Decreto.
+CUARTO.- Se derogan todas las disposiciones legales y administrativas que contravengan el presente Decreto.
+QUINTO. La Secretaría, a efecto de dar cumplimiento a lo establecido por el artículo 146 Bis de la Ley Estatal de Protección Ambiental, convocará a los concursos públicos para el otorgamiento de las concesiones dentro de un plazo que no excederá de cuarenta y cinco días hábiles siguientes a la fecha de entrada en vigor del presente Decreto, con el objeto de que los concesionarios comiencen a prestar el servicio público de verificación vehicular a la brevedad.
+SEXTO. La Secretaría deberá poner en funcionamiento el registro que agrupe a los verificentros concesionados a que se refiere la fracción VIII del Artículo 143 de la Ley Estatal de Protección Ambiental, dentro de los noventa días hábiles siguientes a la publicación del presente Decreto.
