@@ -8,3 +8,4 @@ Por lo tanto, en atención a lo dispuesto por el artículo 49 fracción II de la
 Atentamente
 "Sufragio efectivo. No reelección"
 Licenciado Fidel Herrera Beltrán, Gobernador del Estado.- Rúbrica.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]

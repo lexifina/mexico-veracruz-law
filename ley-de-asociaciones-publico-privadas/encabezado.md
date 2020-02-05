@@ -1,5 +1,4 @@
 LEY DE ASOCIACIONES PÚBLICO-PRIVADAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
-[N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.O. EL 10 DE OCTUBRE DE 2017 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 301 PUBLICADO EN LA G.O. DE 21 DE JULIO DE 2017.]
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 24 de octubre de 2014.
 Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz de Ignacio de la Llave.
 Xalapa - Enríquez, octubre 16 de 2014
