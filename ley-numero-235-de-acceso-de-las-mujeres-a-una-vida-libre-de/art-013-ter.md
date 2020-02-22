@@ -1,0 +1,8 @@
+(ADICIONADO, G.O. 21 DE FEBRERO DE 2020)
+Artículo 13 Ter. En los poderes Ejecutivo, Legislativo y Judicial, así como en los órdenes del gobierno estatal y municipal, y en los organismos autónomos, todos los servidores públicos tienen la obligación de asegurar, en el ejercicio de sus funciones, el derecho de las mujeres a una vida libre de violencia política; por tanto, están obligados a abstenerse de:
+I. Imponer por estereotipos de género, la realización de actividades y tareas ajenas a las funciones y atribuciones propias del cargo público que las mujeres ostenten o en cualquier ámbito de ejercicio de los derechos político-electorales o de asociación de las mujeres;
+II. Asignar responsabilidades que tengan como resultado la limitación del ejercicio de sus tareas que obstaculicen o restrinjan el ejercicio de su encargo;
+III. Restringir el uso de la palabra, en las sesiones u otras reuniones y su participación en comisiones, comités y otras instancias inherentes a su cargo, conforme a la reglamentación aplicable;
+IV. Imponer a las mujeres sanciones injustificadas, impidiendo o restringiendo el ejercicio de sus derechos políticos;
+V. Divulgar o revelar información personal y privada, de las mujeres electas, designadas, que ocupen puestos administrativos o directivos, en el ejercicio de sus funciones político-públicas, con el objetivo de menoscabar su dignidad como seres humanos y utilizar la misma para obtener contra su voluntad la renuncia o licencia al cargo que ejercen o postulan; y
+VI. Presionar o inducir a las autoridades electas o designadas a presentar renuncia al cargo.
