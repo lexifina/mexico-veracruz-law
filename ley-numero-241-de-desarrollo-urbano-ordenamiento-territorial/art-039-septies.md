@@ -1,8 +1,2 @@
-(ADICIONADO, G.O. 3 DE OCTUBRE DE 2018)
-Artículo 39 Septies. Los recursos metropolitanos serán integrados por las siguientes fuentes:
-I. Fondos y presupuestos municipales;
-II. Fondos y presupuestos estatales;
-III. Fondos y presupuestos federales;
-IV. Financiamientos derivados de asociaciones público privadas; y
-V. Aportaciones y mecanismos de financiación privada.
-Por ningún motivo los recursos metropolitanos podrán utilizarse en los proyectos de las Zonas Económicas Especiales ni para gasto corriente.
+(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 39 QUATER], G.O. 26 DE FEBRERO DE 2020)
+Artículo 39 Septies. Una vez publicada la declaratoria de una Zona Metropolitana se deberá crear la Comisión o Consejo de Zona Metropolitana correspondiente, previa autorización de los Ayuntamientos involucrados, así como el Subcomité de Planeación para el Desarrollo Metropolitano Municipal previsto en la fracción III del artículo 7 de la Ley de Planeación del Estado de Veracruz de Ignacio de la Llave.
