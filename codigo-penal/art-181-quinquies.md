@@ -1,0 +1,3 @@
+(ADICIONADO, G.O. 16 DE AGOSTO DE 2018)
+Artículo 181 Quinquies.- A quien estando autorizado para acceder a sistemas, equipos o medios de almacenamiento informáticos en materia de seguridad pública, indebidamente obtenga, copie o utilice información que contengan, se le impondrá pena de cinco a quince años de prisión y multa de seiscientas a mil unidades de medida y actualización.
+Si el responsable es o hubiera sido servidor público en una institución de seguridad pública, se impondrá además, hasta una mitad más de la pena impuesta, destitución e inhabilitación por un plazo igual al de la pena resultante para desempeñarse en otro empleo, puesto, cargo o comisión pública.

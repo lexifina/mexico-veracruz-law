@@ -1,0 +1,1 @@
+Artículo 177 Bis. (DEROGADO, G.O. 4 DE JUNIO DE 2019)
