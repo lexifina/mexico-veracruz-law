@@ -1,11 +1,7 @@
-(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 1998)
+(REFORMADO, G.O. 10 DE JUNIO DE 2020)
 ARTICULO 254 TER
-Los integrantes de la familia están obligados a evitar conductas que generen violencia familiar.
-(REFORMADO, G.O. 15 DE AGOSTO DE 2005)
-Por violencia familiar se entiende el uso de la fuerza física o moral que, de manera reiterada, el agente activo ejerce hacia sus parientes, cónyuge, concubina o concubinario en contra de su integridad física, psíquica o ambas, independientemente de que pueda producir o no lesiones, siempre y cuando el agresor y el agredido habiten en el mismo domicilio.
-(ADICIONADO, G.O. 22 DE JUNIO DE 2009)
-En los casos de violencia familiar, a solicitud de la parte agraviada o de quien legalmente la represente, podrá decretarse el depósito de personas.
-TITULO SEPTIMO
-DE LA PATERNIDAD Y FILIACION
-CAPITULO I
-De los hijos de matrimonio
+Por violencia familiar se entiende aquel acto u omisión intencional, dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional, económica o sexualmente dentro o fuera del domicilio familiar, en contra de:
+a) La o el cónyuge, la o el excónyuge, la concubina, exconcubina, el concubinario o exconcubinario;
+b) El pariente consanguíneo en línea recta ascendente o descendente sin límite de grado, o el pariente colateral consanguíneo o afín hasta el cuarto grado;
+c) El adoptante o adoptado; y
+d) La persona con discapacidad sobre el que se es tutor o curador.

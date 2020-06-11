@@ -1,0 +1,4 @@
+(ADICIONADO, G.O. 10 DE JUNIO DE 2020)
+ARTICULO 252 QUATER
+Las sentencias o convenios en materia de pensiones alimenticias no podrán ser modificados después de firmados, salvo que cambien las condiciones y circunstancias generales existentes en el momento de su emisión, por acontecimientos extraordinarios que no se pudieron prever por el órgano jurisdiccional o por las partes, y que de llevarse adelante los términos de la sentencia o convenio resulten prestaciones excesivamente onerosas para una de las partes y notoriamente favorable para la otra.
+Sólo se consideran como acontecimientos extraordinarios, aquellas alteraciones imprevisibles que sobrevienen por hechos o circunstancias ajenas a la voluntad de las partes, que modifican la situación económica y no de circunstancias particulares o personales del deudor, como lo puede ser contraer nuevas nupcias o procrear otro hijo.

@@ -1,0 +1,4 @@
+(ADICIONADO, G.O. 10 DE JUNIO DE 2020)
+ARTICULO 242 BIS
+Las niñas, niños y adolescentes, las personas con discapacidad que lo requieran o en estado de interdicción, la concubina o el concubinario, la o el cónyuge que se dedique preponderantemente al hogar y las personas mayores gozan de la presunción de necesitar alimentos, de conformidad con los hechos narrados en la demanda.
+En el caso de alimentos, el órgano jurisdiccional deberá actuar con la debida diligencia para determinar de manera pronta y expedita los mismos, siendo que, en caso de incumplimiento en la determinación de la pensión alimenticia de menores de edad, de personas con discapacidad que lo requieran o en estado de interdicción, de la concubina o del concubinario y de la o del cónyuge que se dedique preponderantemente al hogar, incurrirá en responsabilidad civil.

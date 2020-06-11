@@ -1,0 +1,4 @@
+(ADICIONADO, G.O. 10 DE JUNIO DE 2020)
+ARTICULO 242 QUATER
+Cuando no sean comprobables el salario o los ingresos del deudor alimentario, el órgano jurisdiccional resolverá con base en la capacidad económica y nivel de vida que el deudor y sus acreedores alimentarios hayan llevado en los dos últimos años. Para deducir la capacidad económica del deudor se tomará en cuenta además de lo mencionado, la condición de vida que ostente públicamente.
+El órgano jurisdiccional está obligado a suplir la deficiencia de las partes y deberá hacerse allegar las pruebas necesarias para conocer la capacidad económica de los deudores alimentistas, debiendo ordenar la realización de los estudios socioeconómicos correspondientes, así como procurar la conservación del nivel de vida que los acreedores alimentistas hayan llevado durante los últimos dos años previos a la separación.

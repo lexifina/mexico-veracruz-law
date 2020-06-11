@@ -1,3 +1,4 @@
-(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 1998)
+(REFORMADO, G.O. 10 DE JUNIO DE 2020)
 ARTICULO 254 BIS
-Los integrantes de la familia tienen derecho a que los demás miembros les respeten su integridad física y psíquica, con objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contará con la asistencia y protección de las instituciones legalmente constituidas.
+Quienes integran las familias tienen derecho a desarrollarse en un ambiente de respeto a su integridad física, psicoemocional, económica, patrimonial y sexual, y tienen la obligación de evitar conductas que generen violencia familiar.
+A tal efecto, contarán con la asistencia y protección de las instituciones públicas, de acuerdo con las leyes para combatir y prevenir conductas de violencia familiar. En el caso de que la violencia sea ejercida contra las mujeres, niñas, niños y adolescentes se emitirán de manera pronta y eficaz las medidas de protección para las víctimas de violencia o en riesgo de serlo a que hace referencia la Ley de Acceso de las Mujeres a una Vida Libre de Violencia en el Estado de Veracruz de Ignacio de la Llave, para salvaguardar su integridad física y psíquica, así como su patrimonio, tomando en cuenta las condiciones de vulnerabilidad en las que se encuentren.
