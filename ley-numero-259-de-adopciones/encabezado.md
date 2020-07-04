@@ -1,5 +1,5 @@
 LEY DE ADOPCIONES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
-Ley publicada en el número extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 20 de junio de 2011.
+Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 20 de junio de 2011.
 Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz de Ignacio de la Llave.
 Xalapa-Enríquez, junio 13 de 2011
 Oficio número 269/2011.
