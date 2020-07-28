@@ -1,0 +1,9 @@
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(ADICIONADO, G.O. 28 DE JULIO DE 2020)
+Artículo 314 Bis. La violencia política contra las mujeres en razón de género, dentro del proceso electoral o fuera de éste, constituye una infracción al presente Código, por parte de los sujetos de responsabilidad señalados en el artículo 314 de este Código, y se manifiesta, entre otras, a través de las siguientes conductas:
+I. Obstaculizar a las mujeres, los derechos de asociación o afiliación política;
+II. Ocultar información a las mujeres, con el objetivo de impedir la toma de decisiones y el desarrollo de sus funciones y actividades;
+III. Ocultar la convocatoria para el registro de precandidaturas o candidaturas, o información relacionada con ésta, con la finalidad de impedir la participación de las mujeres;
+IV. Proporcionar a las mujeres que aspiran a ocupar un cargo de elección popular, información falsa, incompleta o imprecisa, para impedir su registro;
+V. Obstaculizar la precampaña o campaña política de las mujeres, impidiendo que la competencia electoral se desarrolle en condiciones de igualdad; y
+VI. Cualesquiera otra acción que lesione o dañe la dignidad, integridad o libertad de las mujeres en el ejercicio de sus derechos políticos y electorales.
