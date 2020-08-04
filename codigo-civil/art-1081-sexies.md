@@ -1,0 +1,6 @@
+(ADICIONADO, G.O. 3 DE AGOSTO DE 2020)
+ARTICULO 1081 SEXIES
+Puede el superficiario otorgar hipoteca u otros derechos reales sobre los bienes motivo de su derecho de superficie con los que éstos sean compatibles; pero los derechos reales o personales en su caso, que el superficiario constituya en favor de terceros respecto de la siembra, plantaciones o construcciones, concluyen al extinguirse éste sin causar perjuicio alguno al superficiante o terreno de éste.
+Lo anterior no extinguirá de forma alguna las obligaciones de crédito que a título personal hubiere adquirido el superficiario, las cuales seguirán a éste en los términos que las leyes dispongan.
+El superficiario podrá transmitir o constituir derechos respecto de terceros sobre los bienes motivo del derecho de superficie en tanto éste se encuentre vigente, respetando en los actos a celebrar las condiciones o limitantes que el título original o el superficiante hubieren establecido, y de conformidad con el presente Código, todo lo que no podrá variarse, declarándose nula en consecuencia cualquier alteración a ello y debiendo pagar aquél al superficiante los daños así como los perjuicios que tal alteración le llegare a ocasionar.
+El presente artículo deberá insertarse en toda escritura que constituya un derecho de superficie y su contenido deberá tenerse como condición resolutoria.
