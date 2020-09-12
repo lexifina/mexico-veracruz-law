@@ -6,3 +6,6 @@ III. Restringir el uso de la palabra, en las sesiones u otras reuniones y su par
 IV. Imponer a las mujeres sanciones injustificadas, impidiendo o restringiendo el ejercicio de sus derechos políticos;
 V. Divulgar o revelar información personal y privada, de las mujeres electas, designadas, que ocupen puestos administrativos o directivos, en el ejercicio de sus funciones político-públicas, con el objetivo de menoscabar su dignidad como seres humanos y utilizar la misma para obtener contra su voluntad la renuncia o licencia al cargo que ejercen o postulan; y
 VI. Presionar o inducir a las autoridades electas o designadas a presentar renuncia al cargo.
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 11 DE SEPTIEMBRE DE 2020)
+CAPÍTULO IX
+De la Violencia Digital
