@@ -1,0 +1,17 @@
+(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2020)
+Artículo 13 Octies. El Observatorio de la Participación Política de las Mujeres de Veracruz tiene como responsabilidades, las siguientes:
+I. Identificar la situación actual de las mujeres en el ámbito de la participación política y en los cargos de toma de decisiones, mediante estadísticas y balances cualitativos, para su seguimiento y fortalecimiento de acciones y políticas que garanticen sus derechos políticos y electorales;
+II. Generar y poner a disposición de los gobiernos municipales, partidos políticos y sociedad civil, estadísticas y análisis cualitativos que permita visibilizar las formas en que se manifiesta la violencia política contra las mujeres, antes y durante el cargo de representación o por designación para delinear adecuadas acciones interinstitucionales, que protejan los derechos políticos de las mujeres;
+III. Proponer, formular e impulsar estrategias institucionales y civiles orientadas a prevenir, sancionar y erradicar la violencia política contra las mujeres;
+IV. Monitorear permanentemente en los medios de comunicación la participación política de las mujeres desde una perspectiva de género, para impulsar acciones efectivas que protejan sus derechos políticos;
+V. Identificar y visibilizar las estrategias de empoderamiento, y promoción de la participación política y acceso a cargos de toma de decisión pública de las mujeres de cada institución, así como los resultados, para identificar experiencias exitosas y fortalecerlas;
+VI. Fomentar el desarrollo de la participación política de las mujeres a través de acciones estratégicas para la toma de decisiones que garanticen el derecho a la igualdad y el reconocimiento de los derechos políticos y electorales como derechos humanos desde una perspectiva de género;
+VII. Construir estrategias y generar alianzas para impactar positivamente en el número de espacios y calidad de la participación de las mujeres en política y toma de decisiones públicas, según las facultades y atribuciones de cada una de las instituciones integrantes del Observatorio;
+VIII. Impulsar, dar seguimiento y evaluar los avances en materia de participación y representación política de las mujeres, el desarrollo del liderazgo político de las mujeres, así como avances en torno a la adopción de medidas para prevenir, sancionar y erradicar la violencia política contra las mujeres en la entidad, y evaluar sus resultados e impactos;
+IX. Difundir con la ciudadanía, los partidos políticos, los gobiernos municipales y medios de comunicación, los derechos políticos de las mujeres, los marcos jurídicos y normativos en materia de paridad de género, así como información orientada a prevenir la violencia política contra las mujeres y promover la denuncia ante las instituciones competentes;
+X. Coadyuvar a la integración del apartado sobre casos de violencia política contra las mujeres del Sistema de Datos e Información, a que se refiere el artículo 22, fracción VI, de la Ley Orgánica de la Fiscalía General del Estado e integrar Informes anuales sobre esta materia;
+XI. Realizar material de promoción y difusión de las acciones del Observatorio en lo relativo a la prevención, atención y sanción de la violencia política contra las mujeres; y
+XII. Las demás que sean propuestas por las instituciones que integran el Observatorio.
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 11 DE SEPTIEMBRE DE 2020)
+CAPÍTULO IX (SIC)
+De la Violencia Digital

@@ -1,0 +1,2 @@
+(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2020)
+Artículo 13 Septies. Las personas representantes de la sociedad civil y de la academia serán nombradas a partir de una convocatoria emitida de manera conjunta por el Instituto Veracruzano de las Mujeres, el Organismo Público Local Electoral del Estado de Veracruz y el Tribunal Electoral de Veracruz, quienes revisarán la documentación y elegirán a las personas que participarán en el Observatorio.
