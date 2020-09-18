@@ -18,5 +18,3 @@ d) Muy elevado8.2171 UMA
 e) Complejo12.4900 UMA
 f) Muy complejo12.9459 UMA
 g) Altamente complejo20.0286 UMA
-Título Cuarto
-De los Derechos por Servicios Prestados Por el Poder Judicial del Estado
