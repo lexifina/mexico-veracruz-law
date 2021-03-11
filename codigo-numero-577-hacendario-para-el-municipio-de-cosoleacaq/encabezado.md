@@ -1,5 +1,4 @@
 CÓDIGO NÚMERO 577 HACENDARIO PARA EL MUNICIPIO DE COSOLEACAQUE DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
-[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 3 DE JUNIO DE 2020.]
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 4 de noviembre de 2009.
 Fidel Herrera Beltrán, Gobernador del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, a sus habitantes sabed:
 Que la Sexagésima Primera Legislatura del Honorable Congreso del Estado se ha servido dirigirme el siguiente Código para su promulgación y publicación.
