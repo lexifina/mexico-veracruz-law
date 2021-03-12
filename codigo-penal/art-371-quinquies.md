@@ -1,4 +1,2 @@
-(ADICIONADO, G.O. 20 DE AGOSTO DE 2018)
-Artículo 371 Quinquies.- Para los fines de este capítulo se entenderá por:
-I. Halconeo: La acción de acechar, vigilar o cualquier acto encaminado a obtener y comunicar información a una agrupación delictiva sobre las acciones y, en general, las labores de los elementos de seguridad pública municipal, estatal, federal o de las fuerzas armadas mexicanas.
-II. Espionaje: Intervenir comunicaciones privadas u oficiales, utilizando cualquier medio tecnológico, con la finalidad de obtener y comunicar información a una agrupación delictiva sobre las acciones y, en general, las labores de los elementos de seguridad pública municipal, estatal, federal o de las fuerzas armadas mexicanas.
+(REFORMADO, G.O. 11 DE MARZO DE 2021)
+Artículo 371 Quinquies.- Se impondrán de siete a quince años de prisión y multa de cuatrocientas a ochocientas unidades de medida y actualización diarias, a quien amenace o agreda a un integrante o elemento de alguna institución de Seguridad Pública municipal o estatal en el momento de ejercer sus funciones o con motivo de ellas, de tal manera que, en razón del arma empleada, de la fuerza o destreza del agresor, pueda producirle como resultado lesiones o muerte.
