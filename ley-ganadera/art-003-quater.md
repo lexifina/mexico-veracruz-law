@@ -1,0 +1,2 @@
+(ADICIONADO, G.O. 31 DE MARZO DE 2021)
+ARTICULO 3° Quáter.- El Titular de la Subsecretaría, es responsable del funcionamiento de las unidades administrativas a su cargo, con auxilio según sea el caso, por el personal técnico y administrativo respectivo y tendrá como atribuciones genéricas aquellas en materia de planeación, presupuestación y seguimiento; en materia jurídico-administrativa; en materia de información y coordinación; y las demás que le confieran las disposiciones legales aplicables y el Secretario dentro de la esfera de sus atribuciones.
