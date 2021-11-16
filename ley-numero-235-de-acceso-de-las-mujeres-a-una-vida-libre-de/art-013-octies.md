@@ -12,6 +12,3 @@ IX. Difundir con la ciudadanía, los partidos políticos, los gobiernos municipa
 X. Coadyuvar a la integración del apartado sobre casos de violencia política contra las mujeres del Sistema de Datos e Información, a que se refiere el artículo 22, fracción VI, de la Ley Orgánica de la Fiscalía General del Estado e integrar Informes anuales sobre esta materia;
 XI. Realizar material de promoción y difusión de las acciones del Observatorio en lo relativo a la prevención, atención y sanción de la violencia política contra las mujeres; y
 XII. Las demás que sean propuestas por las instituciones que integran el Observatorio.
-(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 11 DE SEPTIEMBRE DE 2020)
-CAPÍTULO IX (SIC)
-De la Violencia Digital
