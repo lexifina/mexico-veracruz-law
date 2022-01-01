@@ -1,0 +1,6 @@
+G.O. 28 DE DICIEMBRE DE 2021.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 2 QUE REFORMA EL ARTÍCULO 50, APARTADO A, EN SU FRACCIÓN I, DEL CÓDIGO ELECTORAL PARA EL ESTADO DE VERACRUZ".]
+PRIMERO. Publíquese en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+SEGUNDO. El presente Decreto entrará en vigor el día 1° de enero del año 2022, salvo en lo previsto en el Artículo Tercero Transitorio siguiente, que iniciará su vigencia el día de la publicación de este Decreto en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+TERCERO. Al efecto, la Comisión Permanente de Hacienda del Estado del Congreso del Estado deberá prever en el dictamen con proyecto de Decreto de Presupuesto de Egresos del Gobierno del Estado de Veracruz de Ignacio de la Llave para el Ejercicio Fiscal 2022 y, en su caso, el Pleno del Congreso del Estado, los ajustes presupuestales pertinentes, a fin de materializar las disposiciones del presente Decreto. Igualmente, se instruye a la Secretaría de Finanzas y Planeación del Gobierno del Estado a efectuar o implementar los ajustes necesarios para el debido cumplimiento de este Decreto.
+CUARTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
