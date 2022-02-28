@@ -1,2 +1,0 @@
-(ADICIONADO, G.O. 1 DE DICIEMBRE DE 2015)
-Artículo 190 Septies. No se considerará corrupción de niñas, niños o adolescentes, la impartición de programas o cursos por parte de instituciones públicas o privadas sobre educación sexual, función reproductiva, prevención de enfermedades de transmisión sexual, embarazo de adolescentes y prevención de adicciones, siempre que estén aprobados por la autoridad competente.

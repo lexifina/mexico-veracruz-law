@@ -1,2 +1,0 @@
-(ADICIONADO, G.O. 3 DE JULIO DE 2020)
-Artículo 331 Bis.- A quien amenace o agreda a personal de las instituciones de seguridad pública, de las fuerzas armadas, de tránsito y vialidad o de protección civil, que se encuentren en el ejercicio de sus funciones durante emergencias sanitarias o catástrofes o con motivo de éstas, se le impondrá pena de uno a cuatro años de prisión y multa de treinta a doscientas veces el valor diario de la Unidad de Medida y Actualización.

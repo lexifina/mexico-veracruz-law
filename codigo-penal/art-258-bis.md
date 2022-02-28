@@ -1,3 +1,0 @@
-(ADICIONADO, G.O. 24 DE JUNIO DE 2009)
-Artículo 258 Bis.- Se equiparará al delito de usurpación de funciones públicas, la prestación ilegal de servicios de seguridad privada, por lo que se sancionará a quien, sin contar con autorización vigente expedida por la autoridad competente, preste servicios en cualquiera de las modalidades de seguridad privada a que se refiere la ley respectiva.
-A quien incurra en esta conducta se le sancionará con pena privativa de libertad de cuatro a seis años de prisión y con multa de mil a cinco mil veces el salario mínimo general vigente en la capital del Estado.

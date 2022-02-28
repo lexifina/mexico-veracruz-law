@@ -1,2 +1,0 @@
-(REFORMADO, G.O. 11 DE MARZO DE 2021)
-Artículo 371 Quinquies.- Se impondrán de siete a quince años de prisión y multa de cuatrocientas a ochocientas unidades de medida y actualización diarias, a quien amenace o agreda a un integrante o elemento de alguna institución de Seguridad Pública municipal o estatal en el momento de ejercer sus funciones o con motivo de ellas, de tal manera que, en razón del arma empleada, de la fuerza o destreza del agresor, pueda producirle como resultado lesiones o muerte.

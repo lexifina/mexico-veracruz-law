@@ -1,2 +1,0 @@
-(ADICIONADO, G.O. 18 DE JULIO DE 2014)
-Artículo 334 Bis. A quien siendo gerente, directivo, representante legal de casas de empeño, o quien tenga la obligación de hacerlo, omita rendir el reporte mensual ante la Procuraduría General de Justicia del Estado, de los actos o hechos que estén relacionados con las operaciones que realizan, al que están obligados en términos de la Ley Federal de Protección al Consumidor, o que al rendirlo afirme hechos falsos u oculte la verdad, en todo o en parte, se le impondrá de uno a seis años de prisión y multa de quinientos días de salario.
