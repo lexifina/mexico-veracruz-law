@@ -1,0 +1,4 @@
+(ADICIONADO, G.O. 20 DE DICIEMBRE DE 2022)
+Artículo 13 Bis. Cada magistratura integrará una Ponencia que se identificará por número romano progresivo, que conocerá de asuntos que por razón de turno o materia les sean remitidos por el Secretario General a instrucciones del Presidente, a excepción de la última que conocerá de la materia de responsabilidades administrativas en carácter de sección especializada.
+Por acuerdo del Pleno, esta última podrá conocer de asuntos por razón de turno o materia diversa, en auxilio de las cargas de trabajo de las restantes ponencias, en la proporción y tiempo que aquél estime pertinente.
+Cada Ponencia contará con Secretarios de Estudio y Cuenta, así como demás personal técnico y administrativo que le sea asignado por el Pleno para su adecuado funcionamiento.
