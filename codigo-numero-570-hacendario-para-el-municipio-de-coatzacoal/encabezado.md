@@ -1,3 +1,4 @@
+[N. DE E. SE ADVIERTE QUE LA NUMERACIÓN DE ALGUNOS ARTÍCULOS REFERIDOS EN EL DECRETO 465 PUBLICADO EN LA GACETA OFICIAL EL 29 DE DICIEMBRE DE 2022, NO CORRESPONDE AL CONTENIDO DE LOS ARTÍCULOS CITADOS.]
 CÓDIGO HACENDARIO PARA EL MUNICIPIO DE COATZACOALCOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el miércoles 20 de agosto de 2003.
 Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz-Llave.

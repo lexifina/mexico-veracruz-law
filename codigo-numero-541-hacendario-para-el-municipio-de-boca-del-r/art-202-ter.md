@@ -1,0 +1,7 @@
+(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)
+Artículo 202 Ter.- Las licencias, permisos o autorizaciones son intransferibles, otorgados para una persona física o moral y para un lugar determinado, por lo que no podrá cambiarse de propietario y del domicilio señalado en los mismos, sin la autorización previa del Cabildo o Tesorería Municipal, en términos de las disposiciones legales correspondientes, sujetándose a las condiciones siguientes:
+I. Las licencias no serán transferibles ni negociables;
+II. La licencia no podrá ser utilizada para giro diferente al que se indique en la misma, ni se operará en sitio diferente al que fue autorizada. Asimismo, aquellas licencias que no estén en actividad comercial y que por lo mismo se suspendan temporalmente, deberán de cubrir el 100 por ciento del costo anual de la licencia;
+III. No se podrá exceder del horario permitido;
+IV. No se podrá vender bebidas alcohólicas, en envase cerrado y/o abierto y/o al copeo, durante los días que así lo determinen las Leyes Federales y Estatales o cuando así lo acuerde el Ayuntamiento.
+Los traspasos, cambios de giro, cambios de nombre de negocio, cambios de domicilio o ampliaciones de horarios que se realicen sin el consentimiento del H. Ayuntamiento, serán nulos y se aplicará una multa al propietario de la licencia de acuerdo a lo establecido en el artículo siguiente. Asimismo, las licencias de funcionamiento que después de 5 años, de la fecha de otorgamiento o último pago, no se encuentren refrendadas, serán canceladas.

@@ -1,0 +1,5 @@
+(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)
+Artículo 199 Quinquies. Por el registro para el funcionamiento de estacionamientos públicos lucrativos, pagaran derechos conforme a la tarifa siguiente:
+I. Por el registro para el funcionamiento, que sean explotados por particulares, solo para ese fin, se cobrará mensualmente, por cada cajón de estacionamiento, la cantidad de 0.40 veces la unidad de medida y actualización vigente.
+II. Por el registro para el funcionamiento de los que se encuentren dentro de establecimientos Comerciales como Plazas Comerciales, Tiendas de Autoservicio, Tiendas Departamentales y Similares; se cobrara mensualmente por cajón de estacionamiento la cantidad de 0.40 veces la unidad de medida y actualización vigente, siempre y cuando cumplan con lo establecido en el Reglamento de Construcciones Públicas y Privadas del Municipio Libre de Boca del Río, Veracruz; y del Reglamento de Tránsito del Municipio de Boca del Río, Veracruz, relativo a otorgar la gratuidad a las dos primeras horas de uso.
+El refrendo por estos conceptos se pagará a razón del 30% del costo del registro y se cobrará anualmente.
