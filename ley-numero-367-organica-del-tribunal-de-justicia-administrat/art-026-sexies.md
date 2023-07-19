@@ -18,7 +18,8 @@ XIV. Someter a consideración del Pleno los indicadores de evaluación al desemp
 XV. Supervisar que las acciones proyectadas en el ejercicio fiscal se concreten en la forma establecida en el programa operativo anual;
 XVI. Supervisar la correcta aplicación de los recursos materiales y financieros con que cuente el Pleno; y
 XVII. Las demás que determine el Pleno, las leyes, reglamentos y acuerdos generales correspondientes.
-Su titular será nombrado por el Congreso del Estado en los términos de la Constitución del Estado del Estado (sic). Tendrá un nivel jerárquico equivalente al de director. Durará en su encargo cinco años sin que pueda ser reelecto. Para el ejercicio de sus funciones, el Órgano Interno de Control contará con:
+(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE JULIO DE 2023)
+Su titular será nombrado por el Congreso del Estado en los términos de la Constitución del Estado. Tendrá un nivel jerárquico equivalente al de director. Durará en su encargo cinco años, con posibilidad de reelección por un periodo. Para el ejercicio de sus funciones, el Órgano Interno de Control contará con:
 I. Subdirección de Quejas, Denuncias e Investigación;
 II. Subdirección de Responsabilidades Administrativas y Substanciación;
 III. Subdirección de Normatividad, Auditoría y Control; y
