@@ -1,0 +1,2 @@
+(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)
+Artículo 476 Ter.- El Ayuntamiento, para preservar el interés general, podrá adjudicarse los terrenos baldíos mediante el procedimiento de ocupación, con el fin de destinarlos a un servicio público y requerimientos habitacionales de interés social. La autoridad catastral municipal elaborará un padrón actualizado de terrenos baldíos ubicados dentro de las zonas urbanas y suburbanas del municipio.

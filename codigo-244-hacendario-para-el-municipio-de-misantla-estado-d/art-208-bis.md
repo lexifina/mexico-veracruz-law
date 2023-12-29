@@ -1,0 +1,2 @@
+(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)
+Artículo 208 bis. Las personas físicas o morales que en el Municipio realicen obras en inmuebles propiedad de particulares o en inmuebles de dominio público para la colocación de estructuras de antenas y torres de telecomunicación, de telefonía celular o convencional, de radio frecuencia, de conducción de energía eléctrica, serán sujetos obligados al pago también de los siguientes derechos:

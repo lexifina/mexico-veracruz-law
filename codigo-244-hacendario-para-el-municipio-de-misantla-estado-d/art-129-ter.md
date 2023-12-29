@@ -1,0 +1,2 @@
+(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)
+Artículo 129 ter. Cuando sea necesario emplear el Procedimiento Administrativo de Ejecución para hacer efectivo un crédito fiscal, los sujetos pasivos estarán obligados a pagar por concepto de gastos de ejecución, las cuotas que establezca anualmente la Ley de Ingresos del Municipio, por cada una de las diligencias que practique la autoridad fiscal, hasta en tanto se haga efectivo el crédito. Los gastos de ejecución serán determinados por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales.
