@@ -1,0 +1,5 @@
+(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2023)
+Artículo 199 Bis.- Por el Registro y/o Refrendo de las actividades económicas contenidas en el presente apartado de naturaleza especial, independientemente de la clasificación del catálogo CUICVER que les corresponda, deberán pagar las cuotas siguientes:
+[N. DE E. VÉASE TABLA EN LA G.O. DE 28 DE DICIEMBRE DE 2023, PÁGINAS DE LA 178 A LA 183.]
+Los derechos por refrendos anuales se calcularán a razón del diez por ciento del costo actualizado del registro y deberán ser cubiertos en los meses de enero y febrero del ejercicio fiscal siguiente en que se otorgó la licencia de funcionamiento. Se exceptuarán del pago de refrendo los establecimientos clasificados en la tabla anterior como fracción III, mismos que solo cubrirán el derecho por concepto de registro por una única ocasión.
+El cobro de los derechos previstos en el presente capítulo deberá efectuarse de forma conjunta con los impuestos y derechos que sean relacionados al funcionamiento del giro.

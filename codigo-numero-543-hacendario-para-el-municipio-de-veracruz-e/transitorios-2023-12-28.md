@@ -1,0 +1,5 @@
+G.O. 28 DE DICIEMBRE DE 2023.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 719 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO HACENDARIO PARA EL MUNICIPIO DE VERACRUZ, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+Primero. Las disposiciones contenidas en el Artículo Primero, Segundo y Tercero del presente Decreto iniciarán su vigencia a partir de su autorización y publicación en la Gaceta Oficial por el H. Congreso del Estado de Veracruz de Ignacio de la Llave y tendrán carácter obligatorio para el Municipio de Veracruz, Veracruz.
+Segundo. En la aplicación de lo dispuesto por el artículo 199 bis de este Código, el Ayuntamiento cobrará a los establecimientos que operaban con anterioridad a la entrada en vigor del mismo, únicamente la cuota que corresponda a los derechos por el refrendo anual, previa comprobación de dicha circunstancia por parte de los interesados, mediante la exhibición de las cédulas de empadronamiento o de otros documentos probatorios.
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
