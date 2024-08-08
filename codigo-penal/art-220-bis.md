@@ -1,0 +1,1 @@
+Artículo 220 Bis.- (DEROGADO, G.O. 11 DE MARZO DE 2021)

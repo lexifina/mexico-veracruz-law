@@ -1,0 +1,5 @@
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 21 DE DICIEMBRE DE 2017)
+CAPÍTULO II BIS
+SIMULACIÓN DE REINTEGRO DE RECURSOS
+(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)
+Artículo 318 Bis.- Se impondrán de cinco a quince años de prisión y multa de quinientas a mil Unidades de Medida y Actualización, y prohibición para desempeñar cargo, empleo o comisión públicos, tomando en consideración el monto de la simulación ocurrida, al servidor o ex servidor público que ordene, autorice o realice el reintegro de recursos públicos a las cuentas bancarias aperturadas para el depósito de recursos financieros de carácter federal, estatal o municipal que le sean asignados al ente público, con la finalidad de resarcir el patrimonio público o solventar las observaciones que hayan sido determinadas por la Auditoría Superior, el Órgano de Fiscalización Superior del Estado, la Contraloría o cualquier otra autoridad que lo hubiere ordenado, y posteriormente los asigne o desvíe nuevamente a un fin distinto al que originalmente estaban reservados o destinados por disposición de ley.
