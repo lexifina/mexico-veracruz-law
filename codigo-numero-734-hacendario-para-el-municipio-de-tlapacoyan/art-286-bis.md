@@ -1,0 +1,1 @@
+Artículo 286 Bis. Tratándose de entidades paramunicipales creadas por dos o más ayuntamientos, las garantías se constituirán a favor de dichas entidades y se harán efectivas en términos de las disposiciones legales aplicables.
