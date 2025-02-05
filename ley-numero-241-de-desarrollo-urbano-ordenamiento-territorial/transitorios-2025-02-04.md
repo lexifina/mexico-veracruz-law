@@ -1,0 +1,6 @@
+G.O. 4 DE FEBRERO DE 2025.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 234 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO, DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, DEL DECRETO DE PRESUPUESTO DE EGRESOS PARA EL EJERCICIO FISCAL 2025 DEL GOBIERNO DEL ESTADO, Y DE LA LEY DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+Segundo. Quedan sin efecto todas las disposiciones que contravengan el presente Decreto.
+Tercero. A partir de la entrada en vigor del presente Decreto, las dependencias y entidades contarán con un término de ciento ochenta días naturales para realizar los ajustes o modificaciones a su normatividad.
+Cuarto. A partir de la entrada en vigor del presente Decreto, toda obra pública y servicios relacionados con la misma de las dependencias y entidades del Poder Ejecutivo del Estado se ejecutará por la SIOP en términos de lo previsto en la Ley de Obras Públicas y Servicios Relacionados con Ellas, debiéndose firmar los correspondientes acuerdos.
