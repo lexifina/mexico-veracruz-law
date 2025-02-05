@@ -1,2 +1,1 @@
-(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)
-Artículo 259 D. Las dependencias o entidades deberán abstenerse de cubrir los importes resultantes de trabajos ejecutados, aún no liquidados, hasta que el contratista otorgue el finiquito correspondiente, dentro de los treinta días naturales siguientes a la fecha de notificación de la resolución al procedimiento administrativo de rescisión de contrato, en términos del Reglamento de la Ley de Obras Públicas y Servicios Relacionados con Ellas del Estado de Veracruz.
+Artículo 259 D. (DEROGADO POR EL ARTÍCULO DÉCIMO PRIMERO TRANSITORIO DE LA LEY NÚMERO 233 DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON ELLAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 4 DE FEBRERO DE 2025)
