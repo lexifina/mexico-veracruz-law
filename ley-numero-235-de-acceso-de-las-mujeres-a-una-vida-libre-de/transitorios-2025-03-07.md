@@ -1,0 +1,5 @@
+G.O. 7 DE MARZO DE 2025.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 239 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, DEL CÓDIGO CIVIL PARA ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LAVE".]
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial, Órgano del Estado de Veracruz.
+SEGUNDO.- La Fiscalía General del Estado de Veracruz contará con un plazo de ciento veinte días contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones, adiciones y modificaciones necesarias a su normatividad interna, así como la capacitación a su personal, para garantizar la debida aplicación, investigación y persecución de la Violencia Vicaria.
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
