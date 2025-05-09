@@ -67,5 +67,3 @@ XXIX. Trámite de aplicación diagnóstica de
 perfil psicológico:3.5507UMA
 XXX. Trámite de reexpedición de constancia de
 liberación de servicio social:2.3671UMA
-Título Cuarto
-De los Derechos por Servicios Prestados Por el Poder Judicial del Estado
