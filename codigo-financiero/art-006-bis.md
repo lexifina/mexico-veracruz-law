@@ -1,0 +1,4 @@
+(ADICIONADO, G.O. 30 DE MAYO DE 2025)
+Artículo 6 Bis. El Gobierno del Estado, a través de la Secretaría de Finanzas y Planeación, revisará, dictaminará e integrará la totalidad de los adeudos y pasivos de las Dependencias, Organismos Públicos Descentralizados y Municipios, con la finalidad de realizar una planeación financiera integral de todos los adeudos y pasivos del Estado de Veracruz de Ignacio de la Llave.
+La revisión se realizará sobre el ejercicio fiscal inmediato anterior al ejercicio actual, así como por los meses específicos que la Secretaría determine revisar del ejercicio en curso.
+Una vez concluida la revisión y presentado el Dictamen de integración de adeudos y pasivos del ejercicio correspondiente, no se podrán incluir adeudos y pasivos adicionales, los cuales se tendrán que incorporar en el ejercicio siguiente, previa dictaminación de la SEFIPLAN, siempre y cuando se justifique su reconocimiento como adeudo y/o pasivo.
