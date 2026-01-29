@@ -1,3 +1,0 @@
-G.O. 8 DE NOVIEMBRE DE 1924.
-La presente Ley entrará en vigor, tan luego como sea publicada en la "Gaceta Oficial".
-El período de funcionamiento de los Magistrados del H. Tribunal, comenzará el día primero de diciembre próximo y el del Procurador General de Justicia el primero de enero del año entrante. A este efecto, las próximas elecciones de dichos funcionarios se efectuarán cuando lo estime conveniente la H. Legislatura, la que deberá procurar verificarlas con la oportunidad necesaria para que, en las fechas antes expresadas tomen posesión de sus puestos los nuevos Magistrados y Procurador General electos ya de acuerdo con esta Ley.

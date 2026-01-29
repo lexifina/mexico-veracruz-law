@@ -1,7 +1,0 @@
-G.O. 13 DE OCTUBRE DE 2016.
-[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 879 QUE ADICIONA UNA FRACCIÓN XXXIX BIS AL ARTÍCULO 33 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
-Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
-Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
-Artículo Tercero. El Congreso del Estado, en un plazo no mayor de treinta días, contado a partir del inicio de vigencia de este Decreto, adecuará la legislación de la materia a lo previsto en esta resolución.
-Artículo Cuarto. Para los fines a que se refiere el presente Decreto, la persona que sea elegida para ocupar el cargo de Gobernador del Estado durante el periodo comprendido del día primero de diciembre de dos mil dieciséis al treinta de noviembre de dos mil dieciocho dispondrá de cuatro meses, contados a partir de que le sea entregada la constancia de mayoría correspondiente, para elaborar y someter a la aprobación del Congreso del Estado el Plan Veracruzano de Desarrollo de su administración. Dicho Plan deberá ser aprobado y publicado a más tardar el primero de diciembre de dos mil dieciséis.
-Al efecto, el Gobernador Electo podrá convocar a ciudadanos, servidores públicos y asesores expertos en la materia, para la realización de los trabajos necesarios para la elaboración del Plan Veracruzano de Desarrollo.

@@ -1,4 +1,0 @@
-G.O. 18 DE NOVIEMBRE DE 2021.
-[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 867 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN MATERIA DE INCORPORACIÓN DE REVOCACIÓN DE MANDATO".]
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
-SEGUNDO. Dentro de los 180 días posteriores a la entrada en vigor del presente Decreto, el Congreso del Estado deberá expedir la normatividad procedimental en materia de revocación de mandato a que se refieren los artículos 15 fracción VI inciso j) y 17 párrafo tercero; así mismo emitirá las adecuaciones a la legislación que resulten necesarias a efecto de armonizar el contenido del presente Decreto al orden jurídico veracruzano.

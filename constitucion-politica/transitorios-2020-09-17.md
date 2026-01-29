@@ -1,8 +1,0 @@
-G.O. 17 DE SEPTIEMBRE DE 2020.
-[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 593 POR EL QUE SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 72 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
-Primero. Publíquese en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
-Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
-Tercero. Tratándose de la Universidad Veracruzana, continuará en vigor lo dispuesto en el artículo 10 penúltimo párrafo de esta Constitución en relación con su presupuesto anual; por lo que, para el cálculo y progresividad de éste seguirá surtiendo efectos lo previsto en el Artículo Segundo Transitorio del Decreto número 350 publicado en la Gaceta Oficial, Órgano del Gobierno del Estado de fecha 13 de noviembre de 2017.
-Cuarto. Se derogan todas las disposiciones que se opongan al presente Decreto.
-Quinto. El Congreso del Estado a iniciativa del Poder Ejecutivo, deberá armonizar todas las disposiciones legales de carácter financiero así como desarrollar aquellas que con motivo del mismo resulten necesarias.
-Sexto. El Congreso del Estado, el Titular del Poder Ejecutivo, la Secretaría de Finanzas y Planeación del Gobierno del Estado así como todas las unidades presupuestales de la entidad, deberán tomar en consideración las disposiciones del presente Decreto al elaborar, formular, presentar o aprobar sus respectivos proyectos y anteproyectos de Presupuestos correspondientes al ejercicio fiscal 2021, en las fechas o plazos establecidos en los artículos 158, 159 párrafo segundo, 163 y 164 del Código Financiero para el Estado.
