@@ -1,2 +1,4 @@
 (ADICIONADO, G.O. 1 DE DICIEMBRE DE 2015)
-Artículo 190 Terdecies. Las sanciones se aumentarán en una mitad, cuando el delito sea cometido con violencia.
+Artículo 190 Terdecies.- Las sanciones se aumentarán en una mitad, cuando el delito sea cometido con violencia.
+(ADICIONADO, G.O. 6 DE MARZO DE 2026)
+En el caso de las penas previstas para los delitos de este Capítulo se aumentarán hasta en una tercera parte cuando el delito se cometa por dos o más personas; se realice por persona servidora pública o profesionista aprovechando su empleo, cargo o comisión, en cuyo caso, además de la pena de prisión, la persona agresora será destituida e inhabilitada por un plazo igual al de la pena privativa de la libertad impuesta; se realice por ministro de culto aprovechando su cargo, función o comisión; la víctima se encuentre bajo los efectos de alcohol, fármacos, narcóticos u otras sustancias que afecten su voluntad o discernimiento; se cometa en un lugar despoblado, solitario o poco accesible; o cuando la víctima se encuentre en estado de indefensión.

@@ -18,5 +18,6 @@ VIII. Si el sujeto activo allana el domicilio de la víctima;
 IX. Si el sujeto activo lo comete en lugares despoblados o solitarios; o
 (ADICIONADA, G.O. 5 DE JULIO DE 2019)
 X. Si el sujeto activo lo comete al interior de una institución educativa en la que labore o en establecimientos públicos o privados en los que se preste el servicio de auxilio o refugio de personas, si forma parte del personal de los mismos.
-En estos supuestos, se impondrán al activo de doce a cuarenta años de prisión y multa de hasta cinco mil días de salario.
+(REFORMADO, G.O. 6 DE MARZO DE 2026)
+En estos supuestos, se impondrán al activo de quince años a cuarenta años de prisión y multa de hasta cinco mil unidades de medida y actualización.
 El responsable perderá, en su caso, la patria potestad o la tutela de la víctima.
