@@ -1,0 +1,5 @@
+G.O. 16 DE DICIEMBRE DE 1986.
+ARTICULO PRIMERO. La presente Ley entrará en vigor, al día siguiente de su publicación en la "Gaceta Oficial" del Gobierno del Estado.
+ARTICULO SEGUNDO. Los Jueces de Primera Instancia que se encuentren en ejercicio, concluirán su encargo el 6 de abril de 1987, en caso de haber iniciado el desempeño de su función con anterioridad al 6 de abril de 1984, fecha en que entró en vigor la reforma al artículo 99 de esta Constitución. De éstos, los que sean ratificados en sus cargos, adquirirán la inmovilidad.
+ARTICULO TERCERO. Los Jueces de Primera Instancia que se encuentren en ejercicio y que hayan sido designados con posterioridad al 6 de abril de 1984, concluirán su encargo el día en que se cumplan tres años de ejercicio, a partir de la fecha de su designación, a cuyo término, si son ratificados, adquirirán la inamovilidad.
+ARTICULO CUARTO. La reforma del primer párrafo del artículo 98, entrará en vigor a partir del día 7 de abril de 1987; pero no será aplicable para los casos a que se refiere el Artículo Tercero Transitorio anterior.

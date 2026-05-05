@@ -1,0 +1,1 @@
+Artículo 58 Bis. (DEROGADO, G.O. 27 DE DICIEMBRE DE 2024)
