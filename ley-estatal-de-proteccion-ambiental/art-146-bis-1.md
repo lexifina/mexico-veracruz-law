@@ -2,7 +2,8 @@
 Artículo 146 Bis 1. La autorización o concesión otorgada a los centros de verificación vehicular o verificentros será revocada cuando éstos incurran en prácticas irregulares, como las siguientes:
 I.- Alterar el equipo o la toma de muestra.
 II.- Verificar un vehículo para aprobar otro.
-III.- No utilizar el sistema de análisis, captura, transmisión o almacenamiento de datos, video e imágenes autorizado por la Secretaría;
+(REFORMADA, G.O. 15 DE MAYO DE 2026)
+III.- No utilizar el sistema de análisis, captura, transmisión o almacenamiento de datos, video e imágenes autorizado por la SEFIPLAN;
 IV.- No aplicar los procedimientos de análisis de emisiones generados por fuentes móviles establecidos en las Normas Oficiales Mexicanas;
 V.- No cumplir con las condiciones de equipamiento, infraestructura e imagen requerida para la prestación del servicio;
 VI.- Capturar la información de identidad de un vehículo que no corresponda al que realmente efectuó la prueba;
