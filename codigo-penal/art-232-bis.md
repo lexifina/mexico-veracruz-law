@@ -1,0 +1,12 @@
+(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 2 DE JUNIO DE 2026)
+TÍTULO VII BIS
+DELITOS CONTRA LA PRODUCCIÓN PECUARIA
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 2 DE JUNIO DE 2026)
+CAPÍTULO I
+ABIGEATO
+(ADICIONADO, G.O. 2 DE JUNIO DE 2026)
+Artículo 232 Bis.- Comete el delito de abigeato quien, por sí o por interpósita persona:
+I. Se apodere de ganado, sin consentimiento de quien legalmente pueda disponer de aquél o darlo;
+II. Disponga para sí o para otro de ganado del que se le haya transmitido la tenencia y no el dominio; o
+III. Sacrifique ganado sin el consentimiento de quien legalmente pueda otorgarlo.
+Al responsable de este delito se le impondrán de seis a doce años de prisión y multa de hasta trescientas Unidades de Medida y Actualización; pero si el apoderamiento, disposición o sacrificio a que se hace referencia en las fracciones anteriores fuere de ganado bovino o caballar, se impondrán de seis a quince años de prisión y multa hasta de cuatrocientas Unidades de Medida y Actualización.
