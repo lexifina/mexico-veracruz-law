@@ -1,0 +1,4 @@
+G.O. 2 DE JULIO DE 2026.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 526 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
