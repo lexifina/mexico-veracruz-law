@@ -1,0 +1,2 @@
+(ADICIONADO, G.O. 2 DE JULIO DE 2026)
+Artículo 176 Septies. La acción penal sólo podrá iniciarse mediante querella presentada por la víctima u ofendido; cuando la persona afectada sea niña, niño o adolescente, dicha querella podrá ser promovida por el ascendiente, tutor, depositario o quien tenga la guarda y custodia, de hecho, o de derecho, de la niña, niño o adolescente y, en ausencia de éstos, por la persona titular de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes.
