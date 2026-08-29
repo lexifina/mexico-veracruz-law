@@ -1,0 +1,3 @@
+(ADICIONADO, G.O. 28 DE AGOSTO DE 2026)
+Artículo 174 Bis. Para efectos de la elección judicial, el órgano de administración judicial integrará y mantendrá actualizado un informe de cargos que contendrá, por cada plaza, la denominación del cargo, órgano jurisdiccional, materia o especialidad, distrito judicial, periodo constitucional, situación de vacancia y fecha en que deba renovarse.
+El informe se remitirá al Congreso del Estado dentro de los primeros diez días del mes de abril del año anterior al de la elección judicial y se actualizará dentro de los cinco días hábiles siguientes a cualquier modificación. Se publicará una versión que proteja los datos personales y la información legalmente reservada.
