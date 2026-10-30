@@ -1,0 +1,11 @@
+{
+  "path": "mx-ver",
+  "code": "MX-VER",
+  "name": "Veracruz",
+  "level": "state",
+  "parent": "mx",
+  "repo": "https://github.com/lexifina/mexico-veracruz-law",
+  "build": "built: constitution, codes and laws (95 ordenamientos, 1045 versions) from SCJN Legislación",
+  "language": "es",
+  "sources": 1
+}

@@ -1,0 +1,750 @@
+day,kind,law,acts,files,branch
+1917-09-28,start,constitucion-1917-09-25-40,constitucion-politica,143,main
+1920-12-31,law,decreto-1920-12-28-530,constitucion-politica,21,main
+1922-09-24,law,decreto-1922-09-21-801,constitucion-politica,9,main
+1924-11-11,law,decreto-1924-11-08-95,constitucion-politica,11,main
+1926-11-02,law,decreto-1926-10-30-suplemento-130,constitucion-politica,2,main
+1930-09-09,start,ley-1930-09-09-108,ley-de-caminos-y-puentes-del-estado,43,main
+1931-11-13,law,ley-1931-11-10-135,constitucion-politica,3,main
+1932-08-16,law,ley-1932-08-13-97,constitucion-politica,14,main
+1932-09-18,start,codigo-1932-09-15-suplemento-especial-111,codigo-civil,2979,main
+1932-10-15,start,codigo-1932-10-13-suplemento-especial-del-123,codigo-de-procedimientos-civiles,783,main
+1932-12-06,law,ley-1932-12-06-146,codigo-civil,5,main
+1932-12-10,law,ley-1932-12-10-148,constitucion-politica,3,main
+1934-07-10,law,ley-1934-07-07-81,codigo-civil,2,main
+1937-08-07,law,ley-1937-08-07-94,codigo-civil,4,main
+1937-09-16,start,ley-1937-09-11-109,ley-de-inquilinato,20,main
+1938-11-01,law,ley-1938-11-01-131,constitucion-politica,12,main
+1938-11-01,law,ley-1938-11-01-131-2,constitucion-politica,2,main
+1938-12-04,law,ley-1938-12-01-144,constitucion-politica,3,main
+1939-05-18,law,decreto-1939-05-18-59,codigo-civil,8,main
+1940-06-11,law,ley-1940-06-11-70,codigo-civil,6,main
+1940-11-14,law,ley-1940-11-14-137,codigo-civil codigo-de-procedimientos-civiles,5,main
+1941-09-13,start,ley-1941-09-13-110,ley-de-fomento-y-proteccion-de-la-vainilla,21,main
+1942-10-21,start,ley-1942-10-20-126,ley-contra-el-ruido-en-el-estado-de-veracruz,21,main
+1942-12-03,law,ley-1942-12-03-145,codigo-civil,4,main
+1942-12-27,law,ley-1942-12-24-154,codigo-civil,11,main
+1943-01-28,law,ley-1943-01-28-12,constitucion-politica,6,main
+1943-10-29,law,ley-1943-10-26-128,codigo-civil,2,main
+1943-12-28,law,ley-1943-12-28-155,codigo-civil,7,main
+1943-12-28,law,ley-1943-12-28-155-2,codigo-civil,3,main
+1944-11-24,law,ley-1944-11-21-140,constitucion-politica,6,main
+1946-11-17,start,ley-1946-11-14-137,ley-contra-el-lucro-inmoderado,8,main
+1946-11-21,law,decreto-1946-11-21-140,ley-contra-el-lucro-inmoderado,4,main
+1947-02-05,law,decreto-1947-02-04-15,ley-contra-el-lucro-inmoderado,4,main
+1947-12-13,law,ley-1947-12-13-149,constitucion-politica,7,main
+1950-11-10,law,ley-1950-11-07-183,constitucion-politica,7,main
+1956-11-06,law,ley-1956-11-06-132,constitucion-politica,3,main
+1956-11-23,law,ley-1956-11-22-138,codigo-civil,2,main
+1956-12-21,law,ley-1956-12-20-150,codigo-civil,6,main
+1957-07-11,law,ley-1957-07-11-80,codigo-civil,6,main
+1957-10-12,law,decreto-1957-10-12-120,codigo-civil,5,main
+1959-01-14,law,ley-1959-01-13-5,codigo-civil,6,main
+1959-10-13,law,ley-1959-10-13-119,constitucion-politica,3,main
+1961-03-01,law,ley-1960-12-08-146,codigo-civil,3,main
+1963-12-17,start,ley-1963-12-14-149,ley-del-patronato-de-construcciones-laboratorios-y-equipos-d,8,main
+1963-12-24,start,ley-1963-12-21-152,ley-de-campana-para-la-erradicacion-de-la-garrapata-en-la-ga,18,main
+1963-12-27,start,ley-1963-12-24-153,ley-del-ejercicio-profesional,63,main
+1964-11-28,law,ley-1964-11-28-142,ley-del-ejercicio-profesional,1,main
+1965-01-29,law,ley-1965-01-28-12,codigo-civil,2,main
+1967-01-01,law,ley-1966-12-29-156,codigo-de-procedimientos-civiles,12,main
+1967-05-18,start,ley-1967-05-15-58,ley-del-seguro-social-de-los-trabajadores-de-la-educacion,69,main
+1968-03-12,law,ley-1968-03-09-30,ley-contra-el-lucro-inmoderado,4,main
+1968-03-22,law,ley-1968-03-19-34,codigo-civil,2,main
+1968-04-19,law,ley-1968-04-16-46,ley-contra-el-lucro-inmoderado,2,main
+1968-07-21,law,ley-1968-07-18-86,codigo-civil,2,main
+1969-11-30,law,ley-1969-11-27-142,codigo-civil codigo-de-procedimientos-civiles,13,main
+1969-12-21,law,ley-1969-12-18-151,codigo-civil,2,main
+1970-03-06,law,ley-1970-03-03-26,ley-del-ejercicio-profesional,2,main
+1970-12-22,law,ley-1970-12-22-152,codigo-de-procedimientos-civiles,3,main
+1971-06-01,law,ley-1971-05-29-64,codigo-civil,2,main
+1971-07-04,law,ley-1971-07-01-78,constitucion-politica,3,main
+1971-07-13,law,ley-1971-07-10-82,codigo-civil,9,main
+1972-01-01,law,ley-1971-11-27-142,constitucion-politica,2,main
+1972-01-01,law,ley-1971-12-28-155,constitucion-politica,2,main
+1972-02-08,start,ley-1972-02-05-16,ley-de-fomento-y-proteccion-de-ciudades-industriales-nuevas,26,main
+1974-09-03,law,ley-1974-08-31-104,ley-del-ejercicio-profesional,2,main
+1974-09-03,law,ley-1974-09-03-105,codigo-de-procedimientos-civiles,3,main
+1974-09-06,start,ley-1974-09-03-105,ley-num-259-que-establece-el-arancel-para-el-cobro-de-honora,47,main
+1976-01-01,law,ley-1976-01-01-1,codigo-civil codigo-de-procedimientos-civiles,42,main
+1977-01-01,law,ley-1976-12-30-157,constitucion-politica,3,main
+1977-12-22,law,ley-1977-12-22-alcance-al-numero-153,constitucion-politica,2,main
+1978-10-13,law,ley-1978-10-10-121,constitucion-politica,3,main
+1978-10-13,law,ley-1978-10-10-121-2,constitucion-politica,15,main
+1979-01-19,law,ley-1979-01-18-8,constitucion-politica,2,main
+1979-06-01,start,ley-1979-05-22-61,ley-ganadera,135,main
+1980-01-01,law,ley-1979-12-29-156,codigo-civil codigo-de-procedimientos-civiles,11,main
+1980-01-01,law,ley-1979-12-29-156-2,codigo-civil,4,main
+1980-06-25,law,ley-1980-06-24-alcance-al-numero-76,constitucion-politica,2,main
+1980-09-24,law,ley-1980-09-23-115,codigo-civil codigo-de-procedimientos-civiles,5,main
+1980-10-01,start,ley-1980-09-30-118-numero-extraordinario,ley-de-bienes-del-estado,27,main
+1980-10-01,law,ley-1980-09-30-118-no-extraordinario,codigo-civil,27,main
+1980-10-01,law,ley-1980-09-30-118-numero-extraordinario,constitucion-politica,3,main
+1981-10-30,law,ley-1981-10-29-124,constitucion-politica,3,main
+1982-01-03,law,ley-1981-12-31-145,codigo-civil,94,main
+1982-12-30,law,ley-1982-12-30-156-numero-extraordinario,constitucion-politica,2,main
+1982-12-30,law,ley-1982-12-30-156-numero-extraordinario-2,constitucion-politica,2,main
+1983-11-11,law,ley-1983-11-10-134,constitucion-politica,2,main
+1984-01-01,law,ley-1983-12-31-156-numero-extraordinario,constitucion-politica,7,main
+1984-01-22,law,ley-1984-01-21-9,constitucion-politica,14,main
+1984-02-10,law,ley-1984-02-09-17-numero-extraordinario,constitucion-politica,12,main
+1984-02-10,law,ley-1984-02-09-17-numero-extraordinario-2,constitucion-politica,9,main
+1984-04-06,law,ley-1984-04-05-alcance-al-numero-41,constitucion-politica,9,main
+1985-04-12,law,ley-1985-04-11-44,constitucion-politica,4,main
+1986-09-07,law,ley-1986-09-06-107,constitucion-politica,2,main
+1986-12-17,law,ley-1986-12-16-150,constitucion-politica,22,main
+1988-01-20,law,decreto-1988-01-19-8,constitucion-politica,16,main
+1988-04-30,law,decreto-1988-03-31-39,codigo-de-procedimientos-civiles,94,main
+1988-07-17,start,ley-1988-07-16-85,ley-numero-139-que-establece-las-bases-normativas-a-que-se-s,32,main
+1988-08-17,start,ley-1988-05-17-59,ley-numero-113-de-salud,331,main
+1989-02-12,law,decreto-1989-02-11-18,constitucion-politica,6,main
+1989-04-02,law,decreto-1989-04-01-39,codigo-civil,4,main
+1989-12-31,law,decreto-1989-12-30-156,constitucion-politica,3,main
+1990-05-04,law,decreto-1990-05-03-53,constitucion-politica,4,main
+1991-02-17,law,ley-1991-02-16-21,constitucion-politica,6,main
+1991-02-20,law,decreto-1991-02-19-22,codigo-de-procedimientos-civiles,3,main
+1991-07-24,law,decreto-1991-07-23-88,constitucion-politica,5,main
+1992-02-02,law,decreto-1992-02-01-14,constitucion-politica,2,main
+1992-02-16,law,decreto-1992-02-01-14,codigo-de-procedimientos-civiles,54,main
+1992-04-04,start,ley-1992-04-04-41,ley-numero-364-estatal-del-servicio-civil-de-veracruz,238,main
+1992-04-05,law,decreto-1992-04-04-41,codigo-civil ley-ganadera,31,main
+1993-01-01,law,decreto-1992-12-31-157,constitucion-politica,3,main
+1993-01-06,law,decreto-1993-01-05-2,constitucion-politica,3,main
+1993-10-13,law,decreto-1993-10-12-122,constitucion-politica,3,main
+1993-12-17,law,decreto-1993-12-16-150,constitucion-politica,2,main
+1994-09-23,law,decreto-1994-09-22-114,constitucion-politica,12,main
+1994-10-23,law,decreto-1994-10-22-127,constitucion-politica,4,main
+1995-05-26,law,decreto-1995-05-25-62,constitucion-politica,2,main
+1995-05-26,law,decreto-1995-05-25-62-2,constitucion-politica,6,main
+1995-11-22,law,decreto-1995-11-21-139,codigo-de-procedimientos-civiles,3,main
+1996-11-10,law,decreto-1996-11-09-135,constitucion-politica,6,main
+1996-11-27,law,decreto-1996-11-26-alcance-al-no-142,constitucion-politica,5,main
+1996-12-01,start,ley-1996-11-30-144,ley-numero-25-de-autonomia-de-la-universidad-veracruzana,12,main
+1996-12-18,law,decreto-1996-12-17-151,constitucion-politica,3,main
+1996-12-18,law,decreto-1996-12-17-151-2,constitucion-politica,4,main
+1996-12-29,law,ley-1996-12-28-156,ley-del-ejercicio-profesional,8,main
+1997-02-02,law,ley-1997-02-01-14,codigo-civil,29,main
+1997-03-07,law,ley-1997-03-06-28,ley-numero-113-de-salud,7,main
+1997-03-21,law,ley-1997-03-20-34,constitucion-politica,31,main
+1997-03-21,law,ley-1997-03-20-34-2,constitucion-politica,20,main
+1997-06-13,law,ley-1997-06-12-70,codigo-civil codigo-de-procedimientos-civiles,43,main
+1997-08-01,law,ley-1997-07-31-91,codigo-civil codigo-de-procedimientos-civiles,22,main
+1997-09-30,law,ley-1997-09-29-117-numero-extraordinario,constitucion-politica,4,main
+1997-11-16,law,ley-1997-11-15-138,codigo-civil,20,main
+1998-09-09,law,ley-1998-09-08-108,codigo-civil codigo-de-procedimientos-civiles,34,main
+1999-05-02,start,ley-1999-04-17-46,ley-numero-21-para-prevenir-y-sancionar-la-tortura-en-el-est,13,main
+2000-06-29,law,ley-2000-06-28-128,ley-numero-25-de-autonomia-de-la-universidad-veracruzana,5,main
+2000-07-01,start,ley-2000-06-30-alcance-al-numero-130,ley-estatal-de-proteccion-ambiental,236,main
+2000-10-20,law,decreto-2000-10-19-209,codigo-de-procedimientos-civiles,13,main
+2000-11-05,law,ley-1998-03-10-30,constitucion-politica,16,main
+2000-11-05,law,ley-1998-10-01-118,constitucion-politica,3,main
+2000-11-05,law,ley-2000-02-03-alcance-al-no-24,constitucion-politica,143,main
+2001-02-01,start,codigo-2001-01-29-21-alcance,codigo-de-procedimientos-administrativos,349,main
+2001-04-04,start,codigo-2001-04-03-alcance-al-67,codigo-financiero,348,main
+2001-06-30,start,ley-2001-06-29-alcance-130,ley-numero-21-de-aguas,155,main
+2001-08-01,start,ley-2001-07-31-152,ley-numero-24-para-la-transferencia-de-funciones-y-servicios,13,main
+2001-09-28,start,ley-2001-09-27-194,ley-numero-28-que-regula-el-procedimiento-para-fijar-las-cuo,9,main
+2001-10-13,start,ley-2001-10-12-205,ley-numero-29-de-premios,28,main
+2001-11-21,law,decreto-2001-11-20-232,codigo-de-procedimientos-civiles,6,main
+2001-12-28,law,decreto-2001-12-27-259,codigo-financiero,15,main
+2002-02-12,start,ley-2002-02-11-30,ley-numero-271-de-fomento-a-las-actividades-de-desarrollo-so,14,main
+2002-04-13,law,decreto-2002-04-12-alcance-al-74,codigo-financiero,12,main
+2002-07-05,law,decreto-2002-07-04-133,codigo-financiero,12,main
+2002-07-09,law,decreto-2002-07-08-135,ley-del-ejercicio-profesional,26,main
+2002-10-11,law,decreto-2002-10-10-203,codigo-civil,3,main
+2002-10-11,law,decreto-2002-10-10-203-2,codigo-civil,2,main
+2002-10-11,law,decreto-2002-10-10-203-3,codigo-civil,2,main
+2002-11-29,law,decreto-2002-11-28-238,codigo-financiero,8,main
+2003-01-01,start,codigo-2002-11-22-alcance-al-234,codigo-hacendario-municipal,487,main
+2003-01-07,law,decreto-2003-01-06-4,codigo-de-procedimientos-administrativos codigo-financiero,27,main
+2003-02-15,law,decreto-2003-02-14-33,codigo-hacendario-municipal,12,main
+2003-02-20,start,codigo-2003-02-19-alcance-al-36,codigo-numero-541-hacendario-para-el-municipio-de-boca-del-r,485,main
+2003-02-20,law,codigo-2003-02-19-alcance-al-36,codigo-hacendario-municipal,4,main
+2003-03-01,law,decreto-2003-02-28-43,codigo-hacendario-municipal,11,main
+2003-03-11,start,codigo-2003-03-10-49,codigo-numero-543-hacendario-para-el-municipio-de-veracruz-e,485,main
+2003-03-11,law,codigo-2003-03-10-49,codigo-hacendario-municipal,6,main
+2003-03-23,start,ley-2003-02-21-alcane-al-38,ley-de-adquisiciones-arrendamientos-administracion-y-enajena,113,main
+2003-04-17,start,,codigo-hacendario-para-el-municipio-de-cordoba-estado-de-ver,488,main
+2003-04-17,law,codigo-2003-03-18-55,codigo-numero-541-hacendario-para-el-municipio-de-boca-del-r,13,main
+2003-04-17,law,decreto-2003-03-18-55,constitucion-politica codigo-civil codigo-de-procedimientos-administrativos codigo-financiero codigo-hacendario-municipal codigo-numero-543-hacendario-para-el-municipio-de-veracruz-e ley-de-adquisiciones-arrendamientos-administracion-y-enajena ley-de-fomento-y-proteccion-de-ciudades-industriales-nuevas ley-del-ejercicio-profesional ley-ganadera ley-numero-113-de-salud ley-numero-139-que-establece-las-bases-normativas-a-que-se-s ley-numero-21-de-aguas ley-numero-21-para-prevenir-y-sancionar-la-tortura-en-el-est ley-numero-271-de-fomento-a-las-actividades-de-desarrollo-so ley-numero-29-de-premios,94,main
+2003-04-17,law,decreto-2003-03-18-55-2,constitucion-politica,5,main
+2003-04-17,law,codigo-2003-03-21-58,codigo-hacendario-municipal,1,main
+2003-04-17,law,decreto-2003-03-18-55-3,constitucion-politica,2,main
+2003-04-23,law,decreto-2003-04-22-80,codigo-de-procedimientos-administrativos,12,main
+2003-07-25,law,decreto-2003-07-24-147,codigo-financiero,17,main
+2003-08-09,law,decreto-2003-08-08-158-alcance,codigo-financiero,5,main
+2003-11-26,law,decreto-2003-11-25-235,ley-de-adquisiciones-arrendamientos-administracion-y-enajena,13,main
+2003-12-09,start,ley-2003-10-10-203,ley-del-servicio-publico-de-carrera-en-la-administracion-pub,48,main
+2003-12-27,law,decreto-2003-12-26-258,ley-del-ejercicio-profesional,2,main
+2004-01-01,start,codigo-2003-08-20-166-alcance,codigo-numero-570-hacendario-para-el-municipio-de-coatzacoal,485,main
+2004-01-01,start,codigo-2003-08-26-alcance-al-170,codigo-numero-571-hacendario-para-el-municipio-de-minatitlan,268,main
+2004-01-01,start,codigo-2003-11-07-223-alcance,codigo-penal,362,main
+2004-01-01,law,codigo-2003-08-26-alcance-al-170,codigo-hacendario-municipal,3,main
+2004-02-03,law,decreto-2004-02-02-23,codigo-de-procedimientos-administrativos codigo-financiero,37,main
+2004-07-08,law,decreto-2004-07-07-135,codigo-numero-543-hacendario-para-el-municipio-de-veracruz-e,19,main
+2004-08-11,law,codigo-2004-08-10-159,codigo-de-procedimientos-administrativos,19,main
+2004-08-11,law,decreto-2004-08-10-159,codigo-financiero,12,main
+2004-08-11,law,ley-2004-08-10-159,ley-de-adquisiciones-arrendamientos-administracion-y-enajena,2,main
+2004-08-18,law,codigo-2004-08-03-154,codigo-penal,4,main
+2004-08-25,law,codigo-2004-08-24-169,codigo-penal,36,main
+2004-08-27,law,decreto-2004-08-26-171,codigo-civil,2,main
+2004-09-23,start,ley-2004-08-24-169,ley-no-860-del-servicio-profesional-de-carrera-del-congreso,94,main
+2004-11-03,law,decreto-2004-11-02-219,ley-numero-29-de-premios,5,main
+2004-11-05,law,decreto-2004-11-04-221,codigo-de-procedimientos-civiles,3,main
+2004-11-07,law,decreto-2004-11-04-221,codigo-hacendario-municipal,7,main
+2004-11-18,law,decreto-2004-11-03-220,codigo-penal,3,main
+2005-02-11,law,decreto-2005-02-10-29-alcance,codigo-penal,3,main
+2005-05-13,law,decreto-2005-05-12-94,codigo-financiero,2,main
+2005-07-16,start,ley-2005-07-06-133,ley-numero-249-de-la-gaceta-oficial-del-gobierno,28,main
+2005-08-06,law,decreto-2005-08-05-149,codigo-financiero,2,main
+2005-08-08,law,decreto-2005-08-05-149,codigo-civil codigo-de-procedimientos-administrativos ley-numero-139-que-establece-las-bases-normativas-a-que-se-s ley-numero-249-de-la-gaceta-oficial-del-gobierno,17,main
+2005-08-11,law,decreto-2005-08-10-151,codigo-financiero,2,main
+2005-08-13,start,ley-2005-08-12-153,ley-numero-272-que-crea-el-instituto-de-la-policia-auxiliar,26,main
+2005-08-13,law,decreto-2005-08-12-153,ley-de-adquisiciones-arrendamientos-administracion-y-enajena,5,main
+2005-08-16,start,ley-2005-08-15-154,ley-numero-271-de-desarrollo-integral-de-la-juventud,72,main
+2005-08-16,law,decreto-2005-08-15-154,codigo-civil codigo-penal ley-numero-113-de-salud,9,main
+2005-08-16,law,designacion-2005-08-15-154,codigo-hacendario-municipal,3,main
+2005-08-16,law,decreto-2005-08-15-154-2,codigo-penal,2,main
+2005-08-16,law,decreto-2005-08-15-154-3,codigo-penal,2,main
+2005-08-16,law,decreto-2005-08-15-154-4,codigo-penal,2,main
+2005-08-20,law,decreto-2005-08-17-155,codigo-financiero,2,main
+2005-10-18,law,decreto-2005-10-17-187,constitucion-politica codigo-financiero,7,main
+2005-11-10,law,decreto-2005-11-09-200-extraordinario,codigo-financiero,2,main
+2005-12-03,start,ley-2005-12-02-214,ley-numero-296-del-himno-al-estado-de-veracruz-de-ignacio-de,15,main
+2006-01-03,law,decreto-2006-01-02-1,codigo-financiero,3,main
+2006-01-12,law,decreto-2006-01-11-8-extraordinario,codigo-hacendario-municipal,2,main
+2006-01-14,law,decreto-2006-01-11-ext-8,codigo-numero-543-hacendario-para-el-municipio-de-veracruz-e,5,main
+2006-02-15,law,decreto-2006-02-14-34,codigo-de-procedimientos-civiles,2,main
+2006-02-26,law,decreto-2005-12-28-229,ley-numero-113-de-salud,30,main
+2006-06-07,law,decreto-2006-06-06-130-extraordinario,codigo-numero-543-hacendario-para-el-municipio-de-veracruz-e ley-numero-21-de-aguas,35,main
+2006-06-28,law,decreto-2006-06-27-146-extraordinario,codigo-financiero,14,main
+2006-07-01,law,decreto-2006-06-30-151,codigo-financiero,2,main
+2006-07-07,law,decreto-2006-07-06-155,ley-de-caminos-y-puentes-del-estado,3,main
+2006-08-11,law,decreto-2006-08-10-186,codigo-civil,2,main
+2006-08-25,law,decreto-2006-08-24-200,codigo-civil,2,main
+2006-09-01,law,decreto-2006-08-31-208-extraordinario,ley-numero-113-de-salud,3,main
+2006-12-08,law,decreto-2006-12-07-291,codigo-numero-541-hacendario-para-el-municipio-de-boca-del-r codigo-numero-543-hacendario-para-el-municipio-de-veracruz-e,12,main
+2006-12-16,law,decreto-2006-12-15-298,codigo-hacendario-para-el-municipio-de-cordoba-estado-de-ver,2,main
+2006-12-23,law,decreto-2006-12-22-305-extraordinario,constitucion-politica ley-numero-271-de-desarrollo-integral-de-la-juventud,6,main
+2006-12-23,law,decreto-2006-12-22-305-extraordinario-2,constitucion-politica,4,main
+2006-12-23,law,decreto-2006-12-22-305-extraordinario-3,constitucion-politica,4,main
+2007-01-01,start,codigo-2006-07-14-ext-163,codigo-numero-553-hacendario-para-el-municipio-de-alvarado-e,490,main
+2007-01-01,start,codigo-2006-07-14-ext-163,codigo-numero-554-hacendario-para-el-municipio-de-xalapa-est,490,main
+2007-01-01,law,codigo-2006-07-14-163-extraordinario,codigo-hacendario-municipal,2,main
+2007-01-01,law,decreto-2006-12-20-302,codigo-numero-571-hacendario-para-el-municipio-de-minatitlan,7,main
+2007-01-01,law,codigo-2006-07-14-163-extraordinario-2,codigo-hacendario-municipal,2,main
+2007-01-04,law,decreto-2007-01-03-4-extraordinario,ley-numero-29-de-premios,9,main
+2007-01-04,law,decreto-2007-01-03-extraordinario-4,ley-numero-113-de-salud,2,main
+2007-01-12,law,decreto-2007-01-09-10,codigo-hacendario-municipal codigo-numero-541-hacendario-para-el-municipio-de-boca-del-r codigo-numero-543-hacendario-para-el-municipio-de-veracruz-e ley-numero-21-de-aguas,47,main
+2007-01-30,law,decreto-2007-01-29-31-extraordinario,constitucion-politica,5,main
+2007-01-30,law,decreto-2007-01-29-31-extraordinario-2,constitucion-politica,7,main
+2007-01-30,law,decreto-2007-01-29-31-extraordinario-3,constitucion-politica,4,main
+2007-02-10,law,decreto-2007-02-07-41-extraordinario,ley-estatal-de-proteccion-ambiental,11,main
+2007-02-20,law,decreto-2007-02-19-52-extraordinario,ley-numero-272-que-crea-el-instituto-de-la-policia-auxiliar,16,main
+2007-02-28,law,ley-2007-02-27-61-extraordinario,ley-numero-113-de-salud,2,main
+2007-03-11,law,decreto-2006-09-11-217-extraordinario,codigo-penal,2,main
+2007-03-11,law,decreto-2007-01-03-extraordinario-4,codigo-penal,2,main
+2007-03-11,law,decreto-2007-01-03-extraordinario-4-2,codigo-penal,2,main
+2007-03-22,law,decreto-2007-03-21-84-extraordinario,constitucion-politica,2,main
+2007-05-31,law,decreto-2007-05-30-154-extraordinario,codigo-penal,2,main
+2007-07-31,law,decreto-2007-07-30-num-ext-225,ley-numero-21-de-aguas,23,main
+2007-08-03,law,decreto-2007-08-02-229-extraordinario,codigo-penal,2,main
+2007-08-03,law,decreto-2007-08-02-229-extraordinario-2,codigo-penal,2,main
+2007-08-03,law,decreto-2007-08-02-229-extraordinario-3,codigo-penal,2,main
+2007-08-03,law,decreto-2007-08-02-229-extraordinario-4,codigo-penal,3,main
+2007-08-03,law,decreto-2007-08-02-229-extraordinario-5,codigo-penal,2,main
+2007-08-03,law,decreto-2007-08-02-229-extraordinario-6,codigo-penal,4,main
+2007-08-03,law,decreto-2007-08-02-229-extraordinario-7,codigo-penal,2,main
+2007-08-09,law,decreto-2007-08-08-extraordinario-236,codigo-penal ley-numero-271-de-fomento-a-las-actividades-de-desarrollo-so,4,main
+2007-08-18,law,decreto-2007-08-15-243-extraordinario,codigo-financiero,2,main
+2007-08-30,law,decreto-2007-08-29-extraordinario-259,codigo-civil codigo-de-procedimientos-administrativos ley-numero-249-de-la-gaceta-oficial-del-gobierno,19,main
+2007-09-06,law,decreto-2007-09-05-extraordinario-268,codigo-civil ley-de-adquisiciones-arrendamientos-administracion-y-enajena,12,main
+2007-09-06,law,decreto-2007-09-05-num-ext-268,codigo-de-procedimientos-civiles,3,main
+2007-09-08,law,decreto-2007-09-05-num-ext-268,ley-estatal-de-proteccion-ambiental,9,main
+2007-11-27,law,decreto-2007-11-26-extraordinario-356,codigo-penal,2,main
+2007-12-06,law,decreto-2007-12-05-num-ext-369,codigo-hacendario-municipal,3,main
+2008-02-02,start,ley-2008-02-01-extraordinario-37,ley-numero-224-del-instituto-veracruzano-de-desarrollo-munic,22,main
+2008-02-02,law,decreto-2008-02-01-extraordinario-37,codigo-civil codigo-de-procedimientos-civiles,6,main
+2008-02-14,law,decreto-2008-02-13-extraordinario-49,codigo-hacendario-municipal,5,main
+2008-02-29,start,ley-2008-02-28-65-extraordinario,ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de,48,main
+2008-04-18,law,decreto-2008-04-17-extraordinario-124,ley-numero-113-de-salud,5,main
+2008-05-01,law,decreto-2008-04-30-extraordinario-140,codigo-de-procedimientos-civiles codigo-penal ley-numero-113-de-salud,9,main
+2008-05-24,start,ley-2008-05-23-extraordinario-168,ley-numero-247-del-registro-publico-de-la-propiedad,79,main
+2008-06-12,law,decreto-2008-06-11-extraordinario-189,codigo-penal,3,main
+2008-07-11,law,decreto-2008-07-10-extraordinario-225,codigo-penal,2,main
+2008-07-26,law,decreto-2008-07-25-extraordinario-241,codigo-hacendario-para-el-municipio-de-cordoba-estado-de-ver codigo-numero-541-hacendario-para-el-municipio-de-boca-del-r codigo-numero-553-hacendario-para-el-municipio-de-alvarado-e codigo-numero-570-hacendario-para-el-municipio-de-coatzacoal,37,main
+2008-07-26,law,decreto-2008-07-25-num-ext-241,codigo-numero-543-hacendario-para-el-municipio-de-veracruz-e codigo-numero-554-hacendario-para-el-municipio-de-xalapa-est,20,main
+2008-08-01,law,decreto-2008-07-31-extraordinario-246,codigo-de-procedimientos-civiles,3,main
+2008-08-08,law,decreto-2008-08-07-254-extraordinario,codigo-penal,3,main
+2008-08-08,law,decreto-2008-08-07-num-ext-254,codigo-civil,3,main
+2008-08-09,law,decreto-2008-08-08-extraordinario-256,codigo-de-procedimientos-civiles codigo-financiero codigo-hacendario-municipal,8,main
+2008-08-09,law,decreto-2008-08-08-num-ext-256,codigo-civil,2,main
+2008-08-13,law,decreto-2008-08-12-259-extraordinario,codigo-civil,2,main
+2008-08-16,law,decreto-2008-08-15-extraordinario-265,codigo-penal,8,main
+2008-09-27,law,decreto-2008-09-26-extraordinario-318,codigo-penal ley-numero-364-estatal-del-servicio-civil-de-veracruz,6,main
+2008-10-15,law,decreto-2008-10-14-extraordinario-339,constitucion-politica,2,main
+2008-10-15,law,decreto-2008-10-14-extraordinario-339-2,constitucion-politica,3,main
+2008-11-15,law,decreto-2008-11-14-extraordinario-378,constitucion-politica,11,main
+2008-12-26,start,ley-2008-12-25-extraordinario-427,ley-numero-306-para-enfrentar-la-epidemia-del-vih-sida-en-el,25,main
+2009-01-01,law,decreto-2008-12-25-extraordinario-427,codigo-numero-554-hacendario-para-el-municipio-de-xalapa-est,2,main
+2009-01-01,law,decreto-2008-12-31-num-ext-435,codigo-numero-543-hacendario-para-el-municipio-de-veracruz-e,4,main
+2009-01-08,law,decreto-2009-01-07-extraordinario-6,codigo-penal,2,main
+2009-02-17,start,codigo-2009-02-16-extraordinario-57,codigo-numero-531-hacendario-para-el-municipio-de-medellin-e,489,main
+2009-02-17,start,codigo-2009-02-16-extraordinario-57,codigo-numero-536-hacendario-para-el-municipio-de-tierra-bla,489,main
+2009-02-17,law,codigo-2009-02-16-extraordinario-57,codigo-hacendario-municipal,2,main
+2009-02-17,law,codigo-2009-02-16-57-extraordinario,codigo-hacendario-municipal,2,main
+2009-04-08,start,codigo-2009-04-07-extraordinario-114,codigo-numero-542-hacendario-para-el-municipio-de-orizaba-es,491,main
+2009-04-08,law,codigo-2009-04-07-extraordinario-114,codigo-hacendario-municipal,2,main
+2009-05-01,law,decreto-2009-04-30-num-ext-140,codigo-civil,11,main
+2009-05-30,law,decreto-2009-04-30-num-ext-140,codigo-financiero,2,main
+2009-06-23,law,decreto-2009-06-22-num-ext-198,codigo-civil codigo-de-procedimientos-civiles,9,main
+2009-06-25,law,decreto-2009-06-24-num-ext-201,constitucion-politica codigo-penal,8,main
+2009-06-25,law,decreto-2009-06-24-num-ext-201-2,constitucion-politica,4,main
+2009-08-01,law,decreto-2009-07-31-num-ext-241,codigo-numero-542-hacendario-para-el-municipio-de-orizaba-es,2,main
+2009-08-08,start,codigo-2009-08-07-num-ext-249,codigo-numero-569-hacendario-para-el-municipio-de-emiliano-z,490,main
+2009-08-08,law,codigo-2009-08-07-num-ext-249,codigo-hacendario-municipal,2,main
+2009-11-03,law,decreto-2009-11-02-num-ext-340,codigo-penal,3,main
+2009-11-05,start,codigo-2009-11-04-num-ext-343,codigo-numero-577-hacendario-para-el-municipio-de-cosoleacaq,484,main
+2009-11-05,law,codigo-2009-11-04-num-ext-343,codigo-hacendario-municipal,2,main
+2009-11-13,law,decreto-2009-11-12-351,codigo-penal,3,main
+2009-11-19,law,decreto-2009-11-18-num-ext-359,codigo-financiero,2,main
+2009-12-05,law,decreto-2009-12-04-num-ext-379,codigo-penal,2,main
+2010-01-01,law,decreto-2009-09-07-num-ext-277,codigo-hacendario-para-el-municipio-de-cordoba-estado-de-ver,3,main
+2010-01-27,law,decreto-2010-01-26-num-ext-27,codigo-financiero,2,main
+2010-02-20,start,codigo-2010-02-19-num-ext-55,codigo-numero-820-hacendario-para-el-municipio-de-coatepec,490,main
+2010-02-20,law,codigo-2010-02-19-num-ext-55,codigo-hacendario-municipal,2,main
+2010-02-23,law,decreto-2010-02-22-num-ext-57,codigo-civil codigo-de-procedimientos-civiles ley-estatal-de-proteccion-ambiental,26,main
+2010-02-23,law,decreto-2010-02-22-num-ext-57-2,codigo-de-procedimientos-civiles,3,main
+2010-04-03,law,decreto-2010-04-02-num-ext-107,codigo-penal,44,main
+2010-06-25,law,decreto-2010-06-24-num-ext-201,codigo-de-procedimientos-civiles,2,main
+2010-07-16,law,decreto-2010-06-16-num-ext-192,codigo-financiero,2,main
+2010-07-24,law,decreto-2010-07-21-num-ext-230,codigo-hacendario-municipal,17,main
+2010-08-11,law,decreto-2010-08-10-num-ext-251,codigo-civil codigo-penal,18,main
+2010-08-28,law,decreto-2010-08-27-num-ext-271,codigo-penal,2,main
+2010-09-09,law,decreto-2010-09-08-num-ext-284,codigo-penal,2,main
+2010-09-18,law,decreto-2010-09-17-num-ext-295,codigo-civil codigo-de-procedimientos-civiles codigo-financiero,30,main
+2010-09-24,law,decreto-2010-09-23-num-ext-302,constitucion-politica,6,main
+2010-09-29,law,decreto-2010-09-28-307-extraordinario,codigo-civil,9,main
+2010-10-08,law,decreto-2010-10-07-318-extraordinario,constitucion-politica codigo-civil codigo-penal,16,main
+2010-10-08,law,decreto-2010-10-07-318-extraordinario-2,constitucion-politica codigo-civil,29,main
+2010-10-18,law,decreto-2010-10-18-num-ext-331,codigo-financiero codigo-penal,14,main
+2010-11-06,law,decreto-2010-11-05-num-ext-354,codigo-de-procedimientos-administrativos ley-numero-29-de-premios,23,main
+2010-11-06,law,ley-2010-11-05-num-ext-354,codigo-penal,4,main
+2010-12-30,law,decreto-2010-12-27-num-ext-413,codigo-financiero ley-numero-113-de-salud,14,main
+2011-01-29,law,decreto-2011-01-28-31-extraordinaria,ley-numero-21-de-aguas,4,main
+2011-02-03,law,decreto-2011-02-02-36-extraordinario,codigo-de-procedimientos-administrativos codigo-financiero,5,main
+2011-02-19,start,ley-2011-02-18-51-extraordinario,ley-numero-240-para-el-otorgamiento-de-pensiones-a-deudos-de,11,main
+2011-04-14,start,ley-2011-04-13-109-extraordinario,ley-numero-241-de-desarrollo-urbano-ordenamiento-territorial,112,main
+2011-04-14,law,decreto-2011-04-13-109-extraordinario,codigo-de-procedimientos-civiles codigo-hacendario-municipal ley-de-bienes-del-estado ley-numero-364-estatal-del-servicio-civil-de-veracruz,11,main
+2011-05-14,law,decreto-2011-05-11-num-ext-140,constitucion-politica,2,main
+2011-05-19,law,decreto-2011-05-18-num-ext-150,constitucion-politica,4,main
+2011-05-21,law,decreto-2011-05-20-num-ext-153,constitucion-politica,3,main
+2011-06-21,start,ley-2011-06-20-num-ext-185,ley-numero-259-de-adopciones,44,main
+2011-06-28,law,decreto-2011-06-27-num-ext-193,codigo-financiero,2,main
+2011-07-09,law,decreto-2011-07-08-207,codigo-hacendario-municipal,2,main
+2011-07-16,law,decreto-2011-07-13-214-num-ext,codigo-financiero,23,main
+2011-07-16,law,decreto-2011-07-15-216,ley-estatal-de-proteccion-ambiental,11,main
+2011-08-04,start,ley-2011-08-01-236-num-ext,ley-numero-276-que-crea-la-universidad-popular-autonoma-de-v,25,main
+2011-08-30,start,ley-2011-08-29-268-num-ext,ley-numero-290-para-el-otorgamiento-de-beneficios-a-deudos-d,16,main
+2011-08-30,law,decreto-2011-08-29-268-num-ext,codigo-penal,2,main
+2011-08-30,law,decreto-2011-08-29-268-num-ext-2,codigo-penal,9,main
+2011-09-21,law,decreto-2011-09-20-298-num-ext,codigo-penal,2,main
+2011-10-07,law,decreto-2011-10-06-319-num-ext,ley-numero-271-de-desarrollo-integral-de-la-juventud,40,main
+2011-11-02,start,ley-2011-11-01-351-num-ext,ley-de-prevencion-y-atencion-del-acoso-escolar,50,main
+2011-11-02,start,ley-2011-11-01-351-num-ext,ley-numero-301-de-desarrollo-social-y-humano,59,main
+2011-11-02,law,decreto-2011-11-01-351-num-ext,codigo-civil,4,main
+2011-11-11,law,decreto-2011-11-10-363-num-ext,constitucion-politica,2,main
+2011-12-15,law,decreto-2011-12-14-405-extraordinario,codigo-de-procedimientos-civiles codigo-penal,45,main
+2011-12-15,law,decreto-2011-12-14-405-extraordinario-2,codigo-penal,4,main
+2011-12-31,law,decreto-2011-12-30-429-extraordinario,codigo-financiero,3,main
+2012-01-03,law,decreto-2012-01-02-2-num-ext,codigo-penal,4,main
+2012-01-10,law,decreto-2012-01-09-10-num-ext,constitucion-politica,3,main
+2012-02-16,law,decreto-2012-02-15-56-extraordinario,codigo-financiero codigo-hacendario-municipal,148,main
+2012-03-10,law,decreto-2012-03-09-83-num-ext,constitucion-politica,21,main
+2012-03-11,start,ley-2012-01-11-13-num-ext,ley-numero-327-para-la-proteccion-de-los-no-fumadores,55,main
+2012-05-10,start,ley-2012-05-09-153-num-ext,ley-de-fomento-al-empleo,13,main
+2012-05-10,law,decreto-2012-05-09-153-num-ext,codigo-financiero codigo-penal ley-ganadera,72,main
+2012-06-29,law,decreto-2012-06-28-211,codigo-civil codigo-de-procedimientos-civiles,62,main
+2012-07-19,law,decreto-2012-07-18-num-ext-238,codigo-financiero,3,main
+2012-07-24,law,decreto-2012-07-23-num-ext-244,constitucion-politica,5,main
+2012-08-04,law,decreto-2012-08-03-num-ext-260,constitucion-politica ley-ganadera,9,main
+2012-09-25,law,ley-2012-09-24-327-num-ext,ley-numero-113-de-salud,39,main
+2012-11-10,law,decreto-2012-11-09-num-ext-387,constitucion-politica,2,main
+2012-11-23,law,decreto-2012-11-22-num-ext-405,codigo-penal,2,main
+2012-12-22,law,decreto-2012-12-21-num-ext-446,ley-estatal-de-proteccion-ambiental,35,main
+2012-12-24,law,decreto-2012-12-21-num-ext-446,codigo-de-procedimientos-administrativos codigo-financiero codigo-penal,18,main
+2013-02-08,law,decreto-2013-02-07-049-extraordinario,ley-del-ejercicio-profesional,6,main
+2013-02-08,law,decreto-2013-02-07-49-extraordinario,codigo-penal,2,main
+2013-02-08,law,decreto-2013-02-07-049-extraordinario-2,ley-del-ejercicio-profesional,2,main
+2013-05-16,start,ley-2013-04-16-144-extraordinario,ley-de-operaciones-inmobiliarias,48,main
+2013-07-04,law,decreto-2013-07-03-255,ley-numero-272-que-crea-el-instituto-de-la-policia-auxiliar,7,main
+2013-07-10,law,decreto-2013-07-09-263,codigo-penal,4,main
+2013-07-30,law,decreto-2013-07-29-292-extraordinario,codigo-de-procedimientos-civiles,9,main
+2013-07-30,law,decreto-2013-07-29-292-extraordinario-2,codigo-de-procedimientos-civiles,2,main
+2013-08-01,start,codigo-2013-07-31-296-extraordinario,codigo-numero-860-de-derechos,64,main
+2013-08-01,law,codigo-2013-07-31-296-extraordinario,codigo-financiero,18,main
+2013-08-14,law,decreto-2013-08-13-314-extraordinaria,codigo-de-procedimientos-administrativos,42,main
+2013-08-15,law,decreto-2013-08-14-316-extraordinaria,codigo-penal,5,main
+2013-08-15,law,decreto-2013-08-14-316-extraordinario,codigo-de-procedimientos-civiles,2,main
+2013-08-23,law,decreto-2013-08-22-327,codigo-penal,6,main
+2013-08-27,law,decreto-2013-08-26-332-extraordinario,codigo-financiero codigo-numero-860-de-derechos,67,main
+2013-08-30,law,decreto-2013-08-29-338-extraordinario,constitucion-politica,4,main
+2013-10-12,law,decreto-2013-10-11-400-extraordinario,codigo-civil,4,main
+2013-11-09,law,decreto-2013-11-06-435,codigo-penal,3,main
+2014-01-01,law,decreto-2013-12-16-492-extraordinario,codigo-de-procedimientos-administrativos codigo-financiero codigo-numero-860-de-derechos,73,main
+2014-01-10,law,decreto-2014-01-10-16-extraordinario,codigo-numero-542-hacendario-para-el-municipio-de-orizaba-es,8,main
+2014-02-04,law,decreto-2014-02-03-047,codigo-civil,27,main
+2014-03-08,start,ley-2014-03-05-092-extraordinaria,ley-numero-247-de-educacion,191,main
+2014-04-17,law,decreto-2014-04-16-152-extraordinario,ley-numero-247-de-educacion,12,main
+2014-06-03,law,decreto-2014-06-02-217,codigo-penal,2,main
+2014-06-14,law,decreto-2014-06-13-236-extraordinario,codigo-penal,4,main
+2014-06-21,law,decreto-2014-06-20-245,constitucion-politica,2,main
+2014-06-24,law,decreto-2014-06-23-247,constitucion-politica,2,main
+2014-07-17,law,decreto-2014-07-16-282-extraordinario,codigo-financiero ley-estatal-de-proteccion-ambiental,26,main
+2014-07-19,law,decreto-2014-07-18-285,codigo-penal,2,main
+2014-07-19,law,decreto-2014-07-18-285-2,codigo-penal,2,main
+2014-07-19,law,decreto-2014-07-18-285-3,codigo-penal,8,main
+2014-07-22,start,ley-2014-07-21-288-extraordinario,ley-numero-287-de-pensiones,118,main
+2014-07-22,law,decreto-2014-07-21-287,codigo-penal,5,main
+2014-07-26,law,decreto-2014-07-25-num-ext-296,constitucion-politica,2,main
+2014-08-13,law,decreto-2014-08-12-319,ley-numero-364-estatal-del-servicio-civil-de-veracruz,3,main
+2014-08-28,law,decreto-2014-08-27-341,codigo-penal,2,main
+2014-09-09,law,decreto-2014-09-08-357,ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de,4,main
+2014-10-25,start,ley-2014-10-24-426-extraordinario,ley-de-asociaciones-publico-privadas,140,main
+2014-11-29,law,ley-2014-11-28-476-extraordinario,codigo-de-procedimientos-administrativos,14,main
+2014-12-01,start,ley-2014-11-28-476-extraordinario,ley-numero-309-para-la-administracion-de-bienes-asegurados-d,25,main
+2014-12-20,law,decreto-2014-12-19-506-extraordinario,codigo-penal,12,main
+2014-12-31,law,decreto-2014-12-30-520-extraordinario,codigo-de-procedimientos-administrativos codigo-financiero codigo-numero-860-de-derechos,28,main
+2015-01-01,law,decreto-2014-12-19-506-extraordinario,codigo-numero-554-hacendario-para-el-municipio-de-xalapa-est,59,main
+2015-01-10,law,decreto-2015-01-09-014-extraordinario,constitucion-politica,18,main
+2015-01-28,law,decreto-2015-01-27-37,codigo-de-procedimientos-civiles codigo-penal,7,main
+2015-02-20,law,fe-de-erratas-2015-02-20-74-extraordinario,codigo-penal,4,main
+2015-02-27,law,decreto-2015-02-26-81,ley-numero-271-de-desarrollo-integral-de-la-juventud,4,main
+2015-02-28,law,decreto-2015-02-27-83,ley-numero-364-estatal-del-servicio-civil-de-veracruz,9,main
+2015-03-02,law,fe-de-erratas-2015-03-02-86-extraordinario,ley-numero-364-estatal-del-servicio-civil-de-veracruz,2,main
+2015-03-14,law,decreto-2015-03-13-104-extraordinario,codigo-hacendario-municipal codigo-hacendario-para-el-municipio-de-cordoba-estado-de-ver codigo-numero-531-hacendario-para-el-municipio-de-medellin-e codigo-numero-536-hacendario-para-el-municipio-de-tierra-bla codigo-numero-541-hacendario-para-el-municipio-de-boca-del-r codigo-numero-542-hacendario-para-el-municipio-de-orizaba-es codigo-numero-543-hacendario-para-el-municipio-de-veracruz-e codigo-numero-553-hacendario-para-el-municipio-de-alvarado-e codigo-numero-569-hacendario-para-el-municipio-de-emiliano-z codigo-numero-570-hacendario-para-el-municipio-de-coatzacoal codigo-numero-571-hacendario-para-el-municipio-de-minatitlan codigo-numero-577-hacendario-para-el-municipio-de-cosoleacaq codigo-numero-820-hacendario-para-el-municipio-de-coatepec,100,main
+2015-03-14,law,decreto-2015-03-13-104-extraordinario-2,codigo-numero-541-hacendario-para-el-municipio-de-boca-del-r,33,main
+2015-03-28,law,decreto-2015-03-27-123,ley-de-prevencion-y-atencion-del-acoso-escolar,14,main
+2015-04-10,law,decreto-2015-04-09-142-extraordinario,constitucion-politica,4,main
+2015-04-21,law,decreto-2015-04-20-156-extraordinario,codigo-penal,3,main
+2015-04-28,law,decreto-2015-04-27-166-extraordinario,ley-numero-113-de-salud,2,main
+2015-04-29,law,decreto-2015-04-28-167,ley-numero-241-de-desarrollo-urbano-ordenamiento-territorial ley-numero-29-de-premios,11,main
+2015-05-20,law,decreto-2015-05-19-198-extraordinario,codigo-penal,2,main
+2015-05-27,law,decreto-2015-05-26-208-extraordinario,codigo-civil codigo-de-procedimientos-administrativos,21,main
+2015-05-28,law,fe-de-erratas-2015-05-28-212-extraordinario,constitucion-politica,2,main
+2015-07-02,start,codigo-2015-07-01-260-extraordinario,codigo-numero-577-electoral,427,main
+2015-07-03,law,fe-de-erratas-2015-07-03-264-extraordinario,codigo-numero-577-electoral,1,main
+2015-07-18,law,decreto-2015-07-17-284-extraordinario,constitucion-politica,9,main
+2015-07-21,law,decreto-2015-07-20-286-extraordinario,codigo-penal ley-numero-113-de-salud,16,main
+2015-08-08,law,decreto-2015-08-07-314-extraordinario,codigo-penal ley-de-asociaciones-publico-privadas ley-numero-113-de-salud,21,main
+2015-08-08,law,decreto-2015-08-07-314-extraordinario-2,codigo-penal,2,main
+2015-08-11,law,decreto-2015-08-10-316-extraordinario,codigo-financiero codigo-hacendario-municipal codigo-numero-543-hacendario-para-el-municipio-de-veracruz-e,29,main
+2015-11-13,law,decreto-2015-11-12-452-extraordinario,ley-numero-287-de-pensiones,6,main
+2015-11-28,law,decreto-2015-11-27-474-extraordinario,codigo-numero-577-electoral,41,main
+2015-12-02,law,decreto-2015-12-01-478-extraordinario,codigo-penal,26,main
+2015-12-08,law,decreto-2015-12-07-486-extraordinario,ley-numero-364-estatal-del-servicio-civil-de-veracruz,11,main
+2015-12-17,law,decreto-2015-12-16-500-extraordinario,ley-numero-241-de-desarrollo-urbano-ordenamiento-territorial,3,main
+2015-12-26,law,decreto-2015-12-25-num-ext-514,ley-numero-241-de-desarrollo-urbano-ordenamiento-territorial,2,main
+2015-12-31,law,decreto-2015-12-30-520-extraordinario,codigo-numero-860-de-derechos,19,main
+2016-01-01,law,decreto-2015-10-20-418-extraordinario,codigo-financiero,13,main
+2016-01-01,law,decreto-2015-12-31-522-extraordinario,codigo-hacendario-para-el-municipio-de-cordoba-estado-de-ver codigo-numero-541-hacendario-para-el-municipio-de-boca-del-r codigo-numero-571-hacendario-para-el-municipio-de-minatitlan codigo-numero-577-hacendario-para-el-municipio-de-cosoleacaq,69,main
+2016-01-01,law,decreto-2015-10-20-418-extraordinario-2,codigo-financiero,6,main
+2016-01-09,law,decreto-2016-01-08-012-extraordinario,codigo-de-procedimientos-civiles ley-de-prevencion-y-atencion-del-acoso-escolar,33,main
+2016-01-14,law,decreto-2016-01-13-18-extraordinario,codigo-penal,4,main
+2016-01-22,law,decreto-2016-01-21-30-extraordinario,ley-numero-21-de-aguas,4,main
+2016-02-02,law,decreto-2016-02-01-44-extraordinario,codigo-penal,2,main
+2016-02-02,law,decreto-2016-02-01-044-extraordinario,constitucion-politica,8,main
+2016-02-06,law,decreto-2016-02-05-52-extraordinario,codigo-penal,4,main
+2016-02-10,law,decreto-2016-02-09-56-extraordinario,ley-numero-113-de-salud ley-numero-271-de-fomento-a-las-actividades-de-desarrollo-so,14,main
+2016-02-10,law,decreto-2016-02-09-56-extraordinario-2,ley-numero-113-de-salud,3,main
+2016-02-17,law,decreto-2016-02-16-66-extraordinario,ley-numero-113-de-salud,6,main
+2016-02-18,law,decreto-2016-02-17-68-extraordinario,codigo-civil ley-numero-247-de-educacion,4,main
+2016-02-22,law,fe-de-erratas-2016-02-22-74-extraordinario,ley-numero-113-de-salud,2,main
+2016-03-31,law,decreto-2016-03-30-num-ext-128,codigo-civil,2,main
+2016-04-28,law,decreto-2016-04-27-num-ext-168,constitucion-politica,7,main
+2016-04-30,law,decreto-2016-04-29-num-ext-172,codigo-penal,2,main
+2016-05-10,law,fe-de-erratas-2016-05-10-num-ext-186,constitucion-politica,1,main
+2016-06-08,law,decreto-2016-06-07-num-ext-226,codigo-numero-860-de-derechos,2,main
+2016-06-09,law,decreto-2016-06-08-num-ext-228,codigo-numero-542-hacendario-para-el-municipio-de-orizaba-es,3,main
+2016-06-11,law,decreto-2016-06-10-num-ext-232,constitucion-politica,7,main
+2016-06-11,law,decreto-2016-06-10-num-ext-232-2,constitucion-politica,4,main
+2016-06-14,law,decreto-2016-06-13-num-ext-234,constitucion-politica,7,main
+2016-06-28,law,decreto-2016-06-27-num-ext-254,constitucion-politica,4,main
+2016-06-28,law,decreto-2016-06-27-num-ext-254-2,constitucion-politica,2,main
+2016-07-15,law,decreto-2016-07-14-num-ext-280,ley-del-servicio-publico-de-carrera-en-la-administracion-pub ley-numero-364-estatal-del-servicio-civil-de-veracruz,8,main
+2016-07-27,law,decreto-2016-07-26-ext-296,ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de,3,main
+2016-08-04,law,decreto-2016-08-03-num-ext-308,codigo-penal,2,main
+2016-08-06,law,decreto-2016-08-05-num-ext-312,codigo-numero-553-hacendario-para-el-municipio-de-alvarado-e,31,main
+2016-08-20,law,decreto-2016-08-19-num-ext-332,codigo-numero-860-de-derechos,2,main
+2016-08-24,law,decreto-2016-08-23-num-ext-336,constitucion-politica,2,main
+2016-10-14,law,decreto-2016-10-13-no-409,constitucion-politica,2,main
+2016-11-05,law,decreto-2016-11-04-num-ext-442,constitucion-politica,8,main
+2016-11-05,law,decreto-2016-11-04-num-ext-442-2,constitucion-politica,3,main
+2016-11-05,law,decreto-2016-11-04-num-ext-442-3,constitucion-politica,3,main
+2016-11-10,law,decreto-2016-11-09-num-ext-448,ley-numero-113-de-salud ley-numero-247-de-educacion,33,main
+2016-11-12,law,decreto-2016-11-11-452-num-ext,ley-estatal-de-proteccion-ambiental,6,main
+2016-11-23,law,decreto-2016-11-22-num-ext-466,codigo-numero-541-hacendario-para-el-municipio-de-boca-del-r,4,main
+2016-11-24,law,decreto-2016-11-23-num-ext-468,codigo-numero-541-hacendario-para-el-municipio-de-boca-del-r,8,main
+2016-11-30,law,decreto-2016-11-29-num-ext-476,codigo-civil codigo-de-procedimientos-civiles,5,main
+2016-12-13,law,fe-de-erratas-2016-12-13-num-ext-496,ley-numero-113-de-salud,2,main
+2016-12-31,law,decreto-2016-12-30-num-ext-522,codigo-financiero codigo-numero-543-hacendario-para-el-municipio-de-veracruz-e codigo-penal ley-del-ejercicio-profesional ley-del-servicio-publico-de-carrera-en-la-administracion-pub ley-numero-364-estatal-del-servicio-civil-de-veracruz,64,main
+2016-12-31,law,decreto-2016-12-30-num-ext-522-2,codigo-financiero,2,main
+2017-01-04,law,decreto-2017-01-03-004-num-ext,codigo-penal,2,main
+2017-01-24,start,ley-2017-01-23-num-ext-032,ley-numero-233-para-el-establecimiento-y-desarrollo-de-zonas,26,main
+2017-02-09,law,decreto-2017-02-08-num-ext-56,codigo-numero-541-hacendario-para-el-municipio-de-boca-del-r,8,main
+2017-02-17,law,decreto-2017-02-16-num-ext-068,codigo-financiero,44,main
+2017-02-18,law,decreto-2017-02-17-num-ext-070,ley-de-adquisiciones-arrendamientos-administracion-y-enajena ley-numero-113-de-salud ley-numero-29-de-premios,16,main
+2017-02-21,law,decreto-2017-02-20-num-ext-072,codigo-penal,3,main
+2017-02-21,law,decreto-2017-02-20-num-ext-072-2,codigo-penal,3,main
+2017-03-16,law,decreto-2017-03-15-106-num-ext,codigo-hacendario-municipal codigo-numero-860-de-derechos ley-estatal-de-proteccion-ambiental ley-numero-241-de-desarrollo-urbano-ordenamiento-territorial,16,main
+2017-03-31,law,decreto-2017-03-30-128-num-ext,codigo-numero-860-de-derechos,2,main
+2017-04-05,start,ley-2017-04-04-134-num-ext,ley-numero-259-de-victimas,177,main
+2017-06-01,law,decreto-2017-05-31-216-num-ext,ley-de-prevencion-y-atencion-del-acoso-escolar,2,main
+2017-06-21,law,decreto-2017-06-20-244-num-ext-tomo-vi,ley-estatal-de-proteccion-ambiental,2,main
+2017-07-05,law,decreto-2017-07-04-264-num-ext,constitucion-politica codigo-penal ley-numero-113-de-salud,7,main
+2017-07-22,law,decreto-2017-07-21-290-num-ext,ley-de-asociaciones-publico-privadas,10,main
+2017-07-22,law,decreto-2017-07-21-290-num-ext-tomo-ii,codigo-financiero,7,main
+2017-08-01,law,decreto-2017-07-31-302-num-ext,codigo-numero-577-electoral,6,main
+2017-08-16,law,decreto-2017-08-15-324-num-ext-tomo-iii,codigo-penal ley-numero-247-de-educacion,4,main
+2017-10-05,law,decreto-2017-10-02-392-num-ext,constitucion-politica,16,main
+2017-10-10,law,fe-de-erratas-2017-10-10-404-num-ext,codigo-financiero ley-de-asociaciones-publico-privadas,3,main
+2017-10-17,start,ley-2017-10-16-412-num-ext,ley-numero-336-para-la-entrega-y-recepcion-del-poder-ejecuti,32,main
+2017-10-17,law,decreto-2017-10-16-num-ext-412,constitucion-politica,10,main
+2017-10-17,law,decreto-2017-10-16-412-num-ext,codigo-financiero,14,main
+2017-11-14,law,decreto-2017-11-13-452-num-ext-tomo-i,constitucion-politica,3,main
+2017-11-22,start,ley-2017-11-21-464-num-ext,ley-numero-348-del-sistema-estatal-anticorrupcion-de-veracru,66,main
+2017-11-24,law,decreto-2017-11-23-468-num-ext,constitucion-politica codigo-civil codigo-numero-541-hacendario-para-el-municipio-de-boca-del-r codigo-numero-577-electoral codigo-penal ley-estatal-de-proteccion-ambiental ley-numero-21-de-aguas ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de ley-numero-290-para-el-otorgamiento-de-beneficios-a-deudos-d,62,main
+2017-11-24,law,decreto-2017-11-23-468-num-ext-2,constitucion-politica codigo-penal ley-estatal-de-proteccion-ambiental ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de,14,main
+2017-11-24,law,decreto-2017-11-23-468-num-ext-3,constitucion-politica codigo-penal,4,main
+2017-12-02,law,decreto-2017-12-01-480-num-ext,codigo-penal,2,main
+2017-12-02,law,decreto-2017-12-01-480-num-ext-2,codigo-penal,3,main
+2017-12-18,law,decreto-2017-12-18-502-num-ext-tomo-ii,ley-numero-306-para-enfrentar-la-epidemia-del-vih-sida-en-el,25,main
+2017-12-19,start,ley-2017-12-18-502-num-ext-tomo-ii,ley-numero-364-de-fiscalizacion-superior-y-rendicion-de-cuen,100,main
+2017-12-19,law,decreto-2017-12-18-502-num-ext-tomo-ii,ley-numero-241-de-desarrollo-urbano-ordenamiento-territorial,8,main
+2017-12-20,law,decreto-2017-12-19-504-num-ext-tomo-i,codigo-penal,5,main
+2017-12-22,start,ley-2017-12-19-504-num-ext-tomo-i,ley-numero-366-de-responsabilidades-administrativas,58,main
+2017-12-22,start,ley-2017-12-19-504-num-ext-tomo-i,ley-numero-367-organica-del-tribunal-de-justicia-administrat,55,main
+2017-12-22,law,decreto-2017-12-19-504-num-ext,codigo-de-procedimientos-administrativos,74,main
+2017-12-22,law,decreto-2017-12-21-508-num-ext,ley-numero-113-de-salud,11,main
+2017-12-24,law,decreto-2017-12-21-508-num-ext,codigo-penal ley-de-adquisiciones-arrendamientos-administracion-y-enajena,101,main
+2017-12-27,law,decreto-2017-12-26-514-extraordinario-tomo-iii,codigo-financiero codigo-numero-860-de-derechos,78,main
+2017-12-27,law,decreto-2017-12-26-514-num-ext-tomo-iv,constitucion-politica codigo-hacendario-municipal codigo-hacendario-para-el-municipio-de-cordoba-estado-de-ver codigo-numero-531-hacendario-para-el-municipio-de-medellin-e codigo-numero-536-hacendario-para-el-municipio-de-tierra-bla codigo-numero-541-hacendario-para-el-municipio-de-boca-del-r codigo-numero-542-hacendario-para-el-municipio-de-orizaba-es codigo-numero-543-hacendario-para-el-municipio-de-veracruz-e codigo-numero-553-hacendario-para-el-municipio-de-alvarado-e codigo-numero-554-hacendario-para-el-municipio-de-xalapa-est codigo-numero-569-hacendario-para-el-municipio-de-emiliano-z codigo-numero-570-hacendario-para-el-municipio-de-coatzacoal codigo-numero-577-hacendario-para-el-municipio-de-cosoleacaq codigo-numero-820-hacendario-para-el-municipio-de-coatepec ley-de-adquisiciones-arrendamientos-administracion-y-enajena,60,main
+2017-12-27,law,decreto-2017-12-26-514-num-ext-tomo-iv,codigo-numero-860-de-derechos,4,main
+2017-12-27,law,decreto-2017-12-26-514-num-ext-tomo-iv-2,codigo-hacendario-para-el-municipio-de-cordoba-estado-de-ver,9,main
+2018-01-19,law,fe-de-erratas-2018-01-19-030-num-ext,codigo-numero-860-de-derechos,2,main
+2018-02-07,law,fe-de-erratas-2018-02-07-056-num-ext,ley-numero-364-de-fiscalizacion-superior-y-rendicion-de-cuen,2,main
+2018-02-21,law,decreto-2018-02-20-074-num-ext,ley-numero-247-de-educacion,2,main
+2018-02-23,law,decreto-2018-02-22-78-num-ext-tomo-i,codigo-numero-541-hacendario-para-el-municipio-de-boca-del-r ley-numero-21-de-aguas ley-numero-247-de-educacion ley-numero-29-de-premios,11,main
+2018-03-13,law,decreto-2018-03-12-102-num-ext-tomo-i,codigo-numero-860-de-derechos,3,main
+2018-05-16,law,decreto-2018-05-15-194-num-ext,ley-numero-113-de-salud,3,main
+2018-05-16,law,decreto-2018-05-15-194-num-ext-2,ley-numero-113-de-salud,2,main
+2018-05-23,law,decreto-2018-02-22-78-num-ext-tomo-i,codigo-penal,2,main
+2018-05-29,law,decreto-2018-05-28-212-num-ext,codigo-penal ley-ganadera,5,main
+2018-05-29,law,decreto-2018-05-28-212-num-ext-2,codigo-penal,6,main
+2018-05-30,law,decreto-2018-05-29-214-num-ext,constitucion-politica ley-numero-247-de-educacion,8,main
+2018-06-13,law,decreto-2018-06-12-num-ext-234,ley-numero-348-del-sistema-estatal-anticorrupcion-de-veracru,3,main
+2018-07-13,law,decreto-2018-07-12-278-extraordinario,codigo-hacendario-municipal ley-de-caminos-y-puentes-del-estado,6,main
+2018-08-17,law,decreto-2018-08-16-num-ext-328-tomo-i,codigo-penal,11,main
+2018-08-21,law,decreto-2018-08-20-num-ext-332-tomo-ii,codigo-penal,6,main
+2018-08-24,law,decreto-2018-08-23-338-extraordinario,codigo-financiero codigo-penal ley-contra-el-ruido-en-el-estado-de-veracruz ley-numero-113-de-salud ley-numero-247-de-educacion ley-numero-271-de-desarrollo-integral-de-la-juventud,23,main
+2018-08-24,law,decreto-2018-08-23-338-extraordinario-2,codigo-financiero codigo-penal,6,main
+2018-09-07,law,decreto-2018-09-06-358-extraordinario,constitucion-politica,2,main
+2018-09-11,law,decreto-2018-09-10-362-num-ext-tomo-i,constitucion-politica codigo-financiero codigo-numero-860-de-derechos ley-de-fomento-al-empleo,13,main
+2018-09-11,law,decreto-2018-09-10-362-num-ext-tomo-i-2,constitucion-politica,2,main
+2018-09-12,law,decreto-2018-09-11-364-num-ext-tomo-i,codigo-hacendario-municipal ley-de-fomento-al-empleo,20,main
+2018-09-12,law,decreto-2018-09-11-num-ext-364-tomo-i,ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de ley-numero-247-de-educacion,6,main
+2018-09-12,law,decreto-2018-09-11-num-ext-364-tomo-i-2,ley-numero-247-de-educacion,4,main
+2018-09-14,law,decreto-2018-09-11-num-ext-364-tomo-i,ley-numero-113-de-salud,3,main
+2018-09-22,law,decreto-2018-08-23-338-extraordinario,ley-numero-21-de-aguas,12,main
+2018-09-27,law,decreto-2018-09-26-386-num-ext-tomo-i,ley-numero-247-de-educacion,2,main
+2018-10-04,law,decreto-2018-09-04-354-extraordinario-tomo-i,codigo-penal,9,main
+2018-10-04,law,decreto-2018-10-03-396-num-ext-tomo-ii,ley-numero-241-de-desarrollo-urbano-ordenamiento-territorial,21,main
+2018-10-04,law,decreto-2018-09-11-num-ext-364-tomo-i,codigo-penal,2,main
+2018-10-04,law,decreto-2018-09-11-num-ext-364-tomo-i-2,codigo-penal,2,main
+2018-10-04,law,decreto-2018-09-27-388-num-ext-tomo-iv,codigo-penal,11,main
+2018-10-06,law,decreto-2018-10-05-400-num-ext,ley-numero-301-de-desarrollo-social-y-humano,6,main
+2018-10-09,law,decreto-2018-10-08-402-num-ext-tomo-ii,constitucion-politica,3,main
+2018-10-09,law,decreto-2018-10-08-402-num-ext-tomo-ii-2,constitucion-politica,2,main
+2018-10-10,law,decreto-2018-10-09-404-num-ext,constitucion-politica codigo-numero-577-electoral ley-numero-364-de-fiscalizacion-superior-y-rendicion-de-cuen ley-numero-367-organica-del-tribunal-de-justicia-administrat,18,main
+2018-10-10,law,decreto-2018-10-09-404-num-ext-2,constitucion-politica,2,main
+2018-10-18,law,fe-de-erratas-2018-10-18-418-num-ext-tomo-ii,codigo-numero-577-electoral ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de,3,main
+2018-10-26,law,decreto-2018-10-23-424-num-ext-tomo-i,constitucion-politica,2,main
+2018-10-26,law,decreto-2018-10-23-424-num-ext-tomo-i-2,constitucion-politica,3,main
+2018-11-12,law,decreto-2018-11-12-452-num-ext-tomo-i,codigo-numero-543-hacendario-para-el-municipio-de-veracruz-e,37,main
+2018-11-15,law,decreto-2018-11-14-456-num-ext-tomo-ii,ley-numero-364-de-fiscalizacion-superior-y-rendicion-de-cuen,2,main
+2018-11-16,law,decreto-2018-11-15-458-num-ext-tomo-ii,codigo-de-procedimientos-administrativos,28,main
+2018-11-17,law,decreto-2018-11-16-460-num-ext-tomo-ii,codigo-numero-577-electoral ley-numero-364-de-fiscalizacion-superior-y-rendicion-de-cuen ley-numero-367-organica-del-tribunal-de-justicia-administrat,9,main
+2018-11-22,start,codigo-2018-11-21-466-num-ext-tomo-iii,codigo-numero-783-hacendario-para-el-municipio-de-papantla-e,473,main
+2018-11-22,law,decreto-2018-11-21-466-num-ext-tomo-i,ley-numero-301-de-desarrollo-social-y-humano,42,main
+2018-11-22,law,codigo-2018-11-21-466-num-ext-tomo-iii,codigo-hacendario-municipal,2,main
+2018-11-30,law,decreto-2018-11-29-478-extraordinario,constitucion-politica,2,main
+2018-11-30,law,decreto-2018-11-29-478-num-ext-tomo-ii,codigo-hacendario-municipal codigo-penal ley-de-adquisiciones-arrendamientos-administracion-y-enajena ley-estatal-de-proteccion-ambiental ley-numero-113-de-salud ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de ley-numero-247-de-educacion ley-numero-259-de-victimas,25,main
+2018-11-30,law,decreto-2018-11-29-478-num-ext-tomo-ii-2,ley-numero-247-de-educacion,3,main
+2018-11-30,law,decreto-2018-11-29-478-num-ext-tomo-ii-3,ley-numero-247-de-educacion,3,main
+2018-11-30,law,decreto-2018-11-29-478-num-ext-tomo-ii-4,ley-numero-247-de-educacion,2,main
+2018-11-30,law,decreto-2018-11-29-478-num-ext-tomo-ii-5,ley-numero-247-de-educacion,211,main
+2018-12-02,law,decreto-2018-11-29-478-num-ext-tomo-ii-2,ley-numero-113-de-salud,13,main
+2018-12-02,law,decreto-2018-11-29-478-num-ext-tomo-ii-3,ley-numero-113-de-salud,10,main
+2018-12-02,law,decreto-2018-11-29-478-num-ext-tomo-ii-4,ley-numero-113-de-salud,9,main
+2018-12-02,law,decreto-2018-11-29-478-num-ext-tomo-ii-5,ley-numero-113-de-salud,2,main
+2018-12-22,law,decreto-2018-12-21-510-num-ext,constitucion-politica,3,main
+2018-12-22,law,decreto-2018-12-21-510-num-ext-2,constitucion-politica,2,main
+2018-12-24,law,decreto-2018-12-21-510-num-ext,ley-numero-113-de-salud,2,main
+2018-12-28,law,decreto-2018-12-27-518-num-ext,constitucion-politica,3,main
+2018-12-29,start,ley-2018-12-28-520-num-ext-tomo-ii,ley-numero-12-de-planeacion,72,main
+2018-12-29,law,decreto-2018-12-28-520-num-ext-tomo-ii,codigo-numero-554-hacendario-para-el-municipio-de-xalapa-est,2,main
+2018-12-31,start,ley-2018-12-28-520-num-ext-tomo-ii,ley-numero-11-de-austeridad,14,main
+2019-01-02,law,decreto-2019-01-01-2-num-ext,constitucion-politica,2,main
+2019-01-29,law,decreto-2019-01-28-40-num-ext-tomo-i,constitucion-politica,2,main
+2019-02-04,law,fe-de-erratas-2019-02-04-50-num-ext,codigo-de-procedimientos-administrativos,2,main
+2019-02-13,law,decreto-2019-02-12-62-num-ext,codigo-de-procedimientos-administrativos,3,main
+2019-03-21,start,ley-2019-03-20-114-num-ext-tomo-i,ley-numero-236-para-la-declaracion-especial-de-ausencia-por,36,main
+2019-03-21,law,decreto-2019-03-20-114-num-ext-tomo-i,codigo-civil codigo-de-procedimientos-civiles codigo-numero-860-de-derechos,17,main
+2019-05-31,law,codigo-2019-05-30-216-num-ext-tomo-ii,codigo-numero-543-hacendario-para-el-municipio-de-veracruz-e,2,main
+2019-05-31,law,decreto-2019-05-30-216-num-ext-tomo-ii,codigo-hacendario-municipal codigo-hacendario-para-el-municipio-de-cordoba-estado-de-ver codigo-numero-531-hacendario-para-el-municipio-de-medellin-e codigo-numero-536-hacendario-para-el-municipio-de-tierra-bla codigo-numero-541-hacendario-para-el-municipio-de-boca-del-r codigo-numero-542-hacendario-para-el-municipio-de-orizaba-es codigo-numero-553-hacendario-para-el-municipio-de-alvarado-e codigo-numero-554-hacendario-para-el-municipio-de-xalapa-est codigo-numero-569-hacendario-para-el-municipio-de-emiliano-z codigo-numero-570-hacendario-para-el-municipio-de-coatzacoal codigo-numero-571-hacendario-para-el-municipio-de-minatitlan codigo-numero-577-hacendario-para-el-municipio-de-cosoleacaq codigo-numero-783-hacendario-para-el-municipio-de-papantla-e codigo-numero-820-hacendario-para-el-municipio-de-coatepec,63,main
+2019-05-31,law,decreto-2019-05-30-216-num-ext-tomo-ii-2,codigo-hacendario-para-el-municipio-de-cordoba-estado-de-ver codigo-numero-531-hacendario-para-el-municipio-de-medellin-e codigo-numero-536-hacendario-para-el-municipio-de-tierra-bla codigo-numero-541-hacendario-para-el-municipio-de-boca-del-r codigo-numero-542-hacendario-para-el-municipio-de-orizaba-es codigo-numero-553-hacendario-para-el-municipio-de-alvarado-e codigo-numero-569-hacendario-para-el-municipio-de-emiliano-z codigo-numero-570-hacendario-para-el-municipio-de-coatzacoal codigo-numero-577-hacendario-para-el-municipio-de-cosoleacaq codigo-numero-820-hacendario-para-el-municipio-de-coatepec,26,main
+2019-06-04,law,decreto-2019-06-03-220-num-ext-tomo-i,codigo-penal,4,main
+2019-06-05,law,decreto-2019-06-04-222-num-ext-tomo-i,codigo-penal,9,main
+2019-06-21,law,decreto-2019-06-20-246-num-ext-tomo-i,constitucion-politica codigo-civil ley-numero-29-de-premios,15,main
+2019-06-21,law,decreto-2019-06-20-246-num-ext-tomo-i-2,constitucion-politica,2,main
+2019-06-21,law,decreto-2019-06-20-246-num-ext-tomo,constitucion-politica,2,main
+2019-06-21,law,decreto-2019-06-20-246-num-ext-tomo-i-3,constitucion-politica,3,main
+2019-06-26,law,decreto-2019-06-25-252-num-ext-tomo-i,ley-numero-247-de-educacion,213,main
+2019-07-03,law,decreto-2019-07-02-262-num-ext-tomo-i,codigo-financiero,11,main
+2019-07-03,law,decreto-2019-07-02-262-num-ext-tomo-i-2,codigo-financiero,449,main
+2019-07-06,law,decreto-2019-07-05-268-num-ext-tomo-i,codigo-penal,4,main
+2019-07-30,law,decreto-2019-07-29-300-num-ext-tomo-i,constitucion-politica,2,main
+2019-08-09,law,decreto-2019-08-08-316-num-ext-tomo-i,codigo-de-procedimientos-civiles codigo-penal ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de,10,main
+2019-08-17,law,decreto-2019-08-16-328-extraordinario-tomo-i,ley-numero-301-de-desarrollo-social-y-humano,8,main
+2019-08-21,law,decreto-2019-08-20-332-num-extraordinario-tomo-i,ley-numero-247-de-educacion,2,main
+2019-10-04,law,decreto-2019-10-03-396-extraordinario-tomo-ii,constitucion-politica,2,main
+2019-10-16,law,decreto-2019-10-15-412-num-extra-tomo-i,codigo-hacendario-municipal codigo-hacendario-para-el-municipio-de-cordoba-estado-de-ver codigo-numero-531-hacendario-para-el-municipio-de-medellin-e codigo-numero-536-hacendario-para-el-municipio-de-tierra-bla codigo-numero-541-hacendario-para-el-municipio-de-boca-del-r codigo-numero-542-hacendario-para-el-municipio-de-orizaba-es codigo-numero-543-hacendario-para-el-municipio-de-veracruz-e codigo-numero-553-hacendario-para-el-municipio-de-alvarado-e codigo-numero-554-hacendario-para-el-municipio-de-xalapa-est codigo-numero-569-hacendario-para-el-municipio-de-emiliano-z codigo-numero-570-hacendario-para-el-municipio-de-coatzacoal codigo-numero-571-hacendario-para-el-municipio-de-minatitlan codigo-numero-577-hacendario-para-el-municipio-de-cosoleacaq codigo-numero-783-hacendario-para-el-municipio-de-papantla-e codigo-numero-820-hacendario-para-el-municipio-de-coatepec,31,main
+2019-11-27,law,decreto-2019-11-26-num-ext-472-tomo-ii,codigo-numero-577-electoral codigo-penal ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de,554,main
+2019-12-06,law,decreto-2019-12-06-num-ext-488-tomo-i,codigo-numero-860-de-derechos ley-del-ejercicio-profesional,22,main
+2019-12-17,law,decreto-2019-12-16-num-ext-500-tomo-i,ley-numero-276-que-crea-la-universidad-popular-autonoma-de-v,5,main
+2019-12-24,law,decreto-2019-12-23-num-ext-510-tomo-ii,codigo-civil,2,main
+2019-12-31,law,decreto-2019-12-30-num-ext-520-tomo-ii,codigo-civil,3,main
+2020-01-01,start,codigo-2019-05-30-216-num-ext-tomo-ii,codigo-244-hacendario-para-el-municipio-de-misantla-estado-d,487,main
+2020-01-01,law,decreto-2019-12-30-num-ext-520-tomo-ii,codigo-numero-577-hacendario-para-el-municipio-de-cosoleacaq,37,main
+2020-01-01,law,decreto-2019-10-15-412-num-extra-tomo-i,codigo-244-hacendario-para-el-municipio-de-misantla-estado-d,3,main
+2020-01-03,law,decreto-2020-01-02-num-ext-4,codigo-financiero,451,main
+2020-02-05,law,decreto-2020-02-04-num-ext-050-tomo-i,codigo-civil codigo-de-procedimientos-civiles codigo-financiero codigo-numero-577-electoral ley-de-asociaciones-publico-privadas ley-de-fomento-al-empleo ley-de-operaciones-inmobiliarias ley-ganadera ley-numero-113-de-salud ley-numero-21-de-aguas ley-numero-241-de-desarrollo-urbano-ordenamiento-territorial ley-numero-247-de-educacion ley-numero-296-del-himno-al-estado-de-veracruz-de-ignacio-de ley-numero-327-para-la-proteccion-de-los-no-fumadores,71,main
+2020-02-05,law,decreto-2020-02-04-num-ext-050-tomo-ii,constitucion-politica,4,main
+2020-02-05,law,decreto-2020-02-04-num-ext-050-tomo-i-2,ley-numero-113-de-salud,41,main
+2020-02-14,law,decreto-2020-02-13-064-num-ext-tomo-i,codigo-civil,2,main
+2020-02-22,law,decreto-2020-02-21-num-ext-076-tomo-ii,ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de,2,main
+2020-02-22,law,decreto-2020-02-21-num-ext-076-tomo-ii-2,ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de,3,main
+2020-02-27,law,decreto-2020-02-26-82-num-ext-tomo-i,ley-numero-241-de-desarrollo-urbano-ordenamiento-territorial,20,main
+2020-02-28,law,decreto-2020-02-27-num-ext-084-tomo-i,ley-numero-29-de-premios,7,main
+2020-02-29,law,decreto-2020-02-28-86-num-ext-tomo-i,codigo-hacendario-municipal,12,main
+2020-03-05,law,decreto-2020-03-04-92-num-ext-tomo-i,constitucion-politica,2,main
+2020-04-15,law,decreto-2020-04-14-150-num-ext-tomo-iii,constitucion-politica,4,main
+2020-05-08,law,decreto-2020-05-07-184-num-ext-tomo-i,codigo-civil codigo-penal,553,main
+2020-05-12,law,decreto-2020-05-11-188-num-ext-tomo-i,constitucion-politica,17,main
+2020-05-30,law,decreto-2020-05-29-216-num-ext-tomo-i,codigo-hacendario-municipal,2,main
+2020-06-03,law,fe-de-erratas-2020-06-03-222-num-ext-tomo-ii,codigo-numero-577-hacendario-para-el-municipio-de-cosoleacaq,2,main
+2020-06-04,law,decreto-2020-06-03-222-num-ext-tomo-i,codigo-penal,2,main
+2020-06-11,law,decreto-2020-06-10-232-num-ext-tomo-ii,codigo-civil,89,main
+2020-06-23,law,decreto-2020-06-22-248-num-ext-tomo-iii,constitucion-politica,13,main
+2020-07-04,law,decreto-2020-07-03-266-num-ext-tomo-i,codigo-civil codigo-de-procedimientos-civiles codigo-penal ley-numero-259-de-adopciones,25,main
+2020-07-04,law,decreto-2020-07-03-266-num-ext-tomo-ii,codigo-penal,5,main
+2020-07-28,law,decreto-2020-07-28-300-num-ext-tomo-ii,codigo-numero-577-electoral,284,main
+2020-08-04,law,decreto-2020-08-03-308-num-ext-tomo-ii,constitucion-politica codigo-civil,26,main
+2020-09-11,law,decreto-2020-09-10-364-num-ext-tomo-i,ley-numero-271-de-desarrollo-integral-de-la-juventud,3,main
+2020-09-12,law,decreto-2020-09-11-366-num-ext-tomo-i,ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de,2,main
+2020-09-12,law,decreto-2020-09-11-366-num-ext-tomo-i-2,ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de,2,main
+2020-09-12,law,decreto-2020-09-11-366-num-ext-tomo-i-3,ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de,4,main
+2020-09-16,law,decreto-2020-09-15-370-num-ext-tomo-ii,codigo-penal ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de ley-numero-366-de-responsabilidades-administrativas,18,main
+2020-09-18,law,decreto-2020-09-17-374-num-ext-tomo-ii,constitucion-politica codigo-de-procedimientos-administrativos codigo-financiero codigo-numero-860-de-derechos,53,main
+2020-10-01,law,decreto-2020-10-01-394-num-ext-tomo-ii,codigo-numero-577-electoral,15,main
+2020-10-08,law,decreto-2020-10-07-402-num-ext-tomo-ii,codigo-civil,5,main
+2020-11-14,law,decreto-2020-11-13-456-num-ext-tomo-ii,codigo-penal,2,main
+2020-12-19,law,decreto-2020-12-18-506-num-ext-tomo-i,codigo-civil ley-numero-113-de-salud,8,main
+2021-01-30,law,decreto-2021-01-29-42-num-ext-tomo-iv,codigo-financiero codigo-numero-860-de-derechos,5,main
+2021-03-11,law,decreto-2021-03-10-98-num-ext-tomo-i,codigo-244-hacendario-para-el-municipio-de-misantla-estado-d codigo-hacendario-municipal codigo-hacendario-para-el-municipio-de-cordoba-estado-de-ver codigo-numero-531-hacendario-para-el-municipio-de-medellin-e codigo-numero-536-hacendario-para-el-municipio-de-tierra-bla codigo-numero-541-hacendario-para-el-municipio-de-boca-del-r codigo-numero-542-hacendario-para-el-municipio-de-orizaba-es codigo-numero-543-hacendario-para-el-municipio-de-veracruz-e codigo-numero-553-hacendario-para-el-municipio-de-alvarado-e codigo-numero-554-hacendario-para-el-municipio-de-xalapa-est codigo-numero-569-hacendario-para-el-municipio-de-emiliano-z codigo-numero-570-hacendario-para-el-municipio-de-coatzacoal codigo-numero-571-hacendario-para-el-municipio-de-minatitlan codigo-numero-577-hacendario-para-el-municipio-de-cosoleacaq codigo-numero-783-hacendario-para-el-municipio-de-papantla-e codigo-numero-820-hacendario-para-el-municipio-de-coatepec codigo-numero-860-de-derechos codigo-penal ley-de-caminos-y-puentes-del-estado,55,main
+2021-03-12,law,decreto-2021-03-11-100-num-ext-tomo-i,codigo-numero-554-hacendario-para-el-municipio-de-xalapa-est,56,main
+2021-03-12,law,decreto-2021-03-11-100-num-ext-tomo-iii,codigo-penal,15,main
+2021-03-23,law,decreto-2021-03-22-114-num-ext-tomo-i,codigo-civil,2,main
+2021-04-01,law,decreto-2021-03-31-128-num-ext-tomo-v,ley-ganadera,47,main
+2021-04-22,law,decreto-2021-04-21-158-num-ext-tomo-i,ley-numero-241-de-desarrollo-urbano-ordenamiento-territorial,2,main
+2021-07-16,law,decreto-2021-07-15-280-num-ext-tomo-iii,ley-ganadera,5,main
+2021-07-21,law,decreto-2021-07-20-286-num-ext-tomo-iii,codigo-penal,7,main
+2021-09-18,law,decreto-2021-09-17-372-num-extr-tomo-ii,ley-numero-224-del-instituto-veracruzano-de-desarrollo-munic,5,main
+2021-11-16,law,decreto-2021-11-15-454-num-ext-tomo-i,codigo-penal ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de,8,main
+2021-11-19,law,decreto-2021-11-18-460-num-ext-tomo-i,constitucion-politica,8,main
+2022-01-01,law,decreto-2021-12-28-516-num-ext-tomo-v,codigo-numero-577-electoral,2,main
+2022-02-28,law,decreto-2022-02-28-82-num-ext-tomo-i,codigo-penal,566,main
+2022-06-16,law,decreto-2022-06-13-232-num-ext-tomo-iii,codigo-civil,6,main
+2022-07-02,law,decreto-2022-07-01-260-num-ext-tomo-ii,codigo-financiero,9,main
+2022-08-14,law,decreto-2022-08-11-318-num-ext-tomo-ii,constitucion-politica,3,main
+2022-12-20,law,decreto-2022-12-20-504-num-ext-tomo-iii,codigo-de-procedimientos-administrativos ley-numero-348-del-sistema-estatal-anticorrupcion-de-veracru ley-numero-366-de-responsabilidades-administrativas ley-numero-367-organica-del-tribunal-de-justicia-administrat,93,main
+2022-12-22,law,decreto-2022-12-19-502-num-ext-tomo-iv,constitucion-politica,2,main
+2022-12-30,law,decreto-2022-12-29-518-num-ext-tomo-iii,codigo-numero-541-hacendario-para-el-municipio-de-boca-del-r codigo-numero-554-hacendario-para-el-municipio-de-xalapa-est codigo-numero-570-hacendario-para-el-municipio-de-coatzacoal,141,main
+2023-06-19,law,decreto-2023-06-19-242-num-ext-tomo-iv,codigo-numero-577-electoral,5,main
+2023-07-19,law,decreto-2023-07-19-286-num-ext-tomo-iv,ley-numero-364-de-fiscalizacion-superior-y-rendicion-de-cuen ley-numero-367-organica-del-tribunal-de-justicia-administrat,4,main
+2023-08-16,law,decreto-2023-08-16-326-num-ext-tomo-iii,constitucion-politica,2,main
+2023-11-04,law,decreto-2023-11-03-440-num-ext-tomo-i,constitucion-politica,3,main
+2023-12-29,start,codigo-2023-12-28-518-num-ext-tomo-iii,codigo-numero-711-hacendario-para-el-municipio-de-ixtaczoqui,496,main
+2023-12-29,law,decreto-2023-12-28-518-num-ext-tomo-iv,codigo-244-hacendario-para-el-municipio-de-misantla-estado-d codigo-numero-536-hacendario-para-el-municipio-de-tierra-bla codigo-numero-554-hacendario-para-el-municipio-de-xalapa-est codigo-numero-571-hacendario-para-el-municipio-de-minatitlan,376,main
+2023-12-31,law,decreto-2023-12-28-518-num-ext-tomo-iv,codigo-numero-543-hacendario-para-el-municipio-de-veracruz-e,27,main
+2024-01-01,start,codigo-2023-08-23-336-num-ext-tomo-i,codigo-numero-484-hacendario-para-el-municipio-de-cuichapa-e,493,main
+2024-01-01,start,codigo-2023-12-28-518-num-ext-tomo-iii,codigo-numero-712-hacendario-para-el-municipio-de-jaltipan-e,486,main
+2024-02-27,start,codigo-2024-02-26-082-num-ext-tomo-ii,codigo-numero-726-hacendario-para-el-municipio-de-tlalixcoya,16,main
+2024-02-29,law,decreto-2024-02-28-086-num-ext-tomo-i,codigo-244-hacendario-para-el-municipio-de-misantla-estado-d,2,main
+2024-03-26,law,fe-de-erratas-2024-03-26-124-num-ext-tomo-iv,constitucion-politica,2,main
+2024-07-31,law,decreto-2024-07-31-306-num-ext-tomo-ii,codigo-numero-577-electoral,2,main
+2024-08-08,law,decreto-2024-08-07-316-num-ext-tomo-ii,codigo-numero-553-hacendario-para-el-municipio-de-alvarado-e codigo-penal ley-estatal-de-proteccion-ambiental,573,main
+2024-08-16,law,fe-de-erratas-2024-08-16-330-num-ext-tomo-ii,codigo-numero-553-hacendario-para-el-municipio-de-alvarado-e,2,main
+2024-08-22,law,decreto-2024-08-21-336-num-ext-tomo-ii,codigo-penal ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de,9,main
+2024-08-22,law,decreto-2024-08-21-336-num-ext-tomo-ii-2,ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de,3,main
+2024-08-25,start,codigo-2024-08-22-338-num-ext-tomo-i,codigo-numero-734-hacendario-para-el-municipio-de-tlapacoyan,491,main
+2024-10-15,law,decreto-2024-10-14-412-num-ext-tomo-iii,constitucion-politica,7,main
+2024-10-26,law,decreto-2024-10-25-430-num-ext-tomo-i,codigo-civil,2,main
+2024-12-28,law,decreto-2024-12-27-520-num-ext-tomo-ii,constitucion-politica,16,main
+2025-01-13,law,decreto-2025-01-13-018-num-ext-tomo-i,constitucion-politica,5,main
+2025-01-20,law,decreto-2025-01-20-028-num-ext-tomo-iv,codigo-numero-577-electoral,63,main
+2025-01-25,start,ley-2025-01-24-036-num-ext-tomo-iv,ley-numero-230-de-mecanismos-alternativos-de-solucion-de-con,135,main
+2025-01-30,start,ley-2025-01-29-042-num-ext-tomo-iii,ley-numero-231-organica-del-poder-judicial,246,main
+2025-02-05,start,ley-2025-02-04-50-num-ext-tomo-iii,ley-numero-233-de-obras-publicas-y-servicios-relacionados-co,81,main
+2025-02-05,law,decreto-2025-02-04-50-num-ext-tomo-iv,ley-numero-241-de-desarrollo-urbano-ordenamiento-territorial,6,main
+2025-02-05,law,decreto-2025-02-04-50-num-ext-tomo-v,ley-de-adquisiciones-arrendamientos-administracion-y-enajena,10,main
+2025-02-05,law,ley-2025-02-04-50-num-ext-tomo-iii,codigo-de-procedimientos-administrativos,9,main
+2025-02-05,law,decreto-2025-02-04-50-num-ext-tomo-iv,codigo-de-procedimientos-administrativos,9,main
+2025-02-12,law,fe-de-erratas-2025-02-12-062-num-ext-tomo-iv,ley-numero-231-organica-del-poder-judicial,3,main
+2025-03-08,law,decreto-2025-03-07-096-num-ext-tomo-viii,codigo-civil codigo-penal ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de ley-numero-259-de-victimas,22,main
+2025-04-08,law,decreto-2025-04-07-138-num-ext-tomo-ii,codigo-civil,6,main
+2025-04-30,law,decreto-2025-04-29-170-num-ext-tomo-ii,ley-numero-364-de-fiscalizacion-superior-y-rendicion-de-cuen,30,main
+2025-05-09,law,decreto-2025-05-09-186-num-ext-tomo-iv,codigo-numero-860-de-derechos,5,main
+2025-05-31,law,decreto-2025-05-30-216-num-ext-tomo-iv,codigo-financiero,3,main
+2025-06-12,law,decreto-2025-06-11-232-num-ext-tomo-ii,constitucion-politica,2,main
+2025-06-12,law,decreto-2025-06-11-232-num-ext-tomo-ii-2,constitucion-politica,6,main
+2025-07-01,start,ley-2025-06-30-258-num-ext-tomo-ii,ley-numero-250-de-transparencia-y-acceso-a-la-informacion-pu,170,main
+2025-07-01,start,ley-2025-06-30-258-num-ext-tomo-iii,ley-numero-251-de-proteccion-de-datos-personales-en-posesion,133,main
+2025-07-01,law,decreto-2025-06-30-258-num-ext-tomo-iv,constitucion-politica,9,main
+2025-08-15,law,decreto-2025-08-14-324-num-ext-tomo-ii,codigo-financiero ley-numero-233-de-obras-publicas-y-servicios-relacionados-co,7,main
+2025-11-01,law,decreto-2025-10-31-436-num-ext-tomo-iv,codigo-penal,3,main
+2025-11-25,law,decreto-2025-11-24-468-num-ext-tomo-ii,ley-numero-336-para-la-entrega-y-recepcion-del-poder-ejecuti,4,main
+2025-12-05,law,decreto-2025-12-04-484-num-ext-tomo-iii,constitucion-politica,4,main
+2025-12-12,law,decreto-2025-12-11-494-num-ext-tomo-vi,codigo-penal,5,main
+2025-12-19,law,decreto-2025-12-19-506-num-ext-tomo-vi,ley-numero-12-de-planeacion,5,main
+2025-12-25,start,codigo-2025-12-24-512-num-ext-tomo-ii,codigo-numero-490-hacendario-para-el-municipio-de-cuitlahuac,16,main
+2026-01-01,start,ley-2025-12-19-506-num-ext-tomo-vii,ley-numero-276-de-ingresos-del-gobierno,10,main
+2026-01-13,law,decreto-2026-01-12-16-num-ext-tomo-iii,codigo-financiero,4,main
+2026-01-15,law,decreto-2026-01-12-16-num-ext-tomo-iv,ley-numero-276-que-crea-la-universidad-popular-autonoma-de-v,6,main
+2026-01-29,law,decreto-2026-01-28-40-num-ext-tomo-v,constitucion-politica,348,main
+2026-03-07,law,decreto-2026-03-06-94-num-ext-tomo-vi,codigo-penal ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de,18,main
+2026-04-17,law,decreto-2026-04-16-152-num-ext-tomo-ii,codigo-penal,2,main
+2026-05-05,law,decreto-2026-05-04-176-num-ext-tomo-vi,constitucion-politica,350,main
+2026-05-16,law,decreto-2026-05-15-194-num-ext-tomo-ii,constitucion-politica,5,main
+2026-05-16,law,decreto-2026-05-15-194-num-ext-tomo-iii,ley-estatal-de-proteccion-ambiental,10,main
+2026-05-29,law,decreto-2026-05-28-212-num-ext-tomo-v,codigo-numero-577-electoral,2,main
+2026-06-03,law,decreto-2026-06-02-218-num-ext-tomo-vii,codigo-penal ley-numero-364-de-fiscalizacion-superior-y-rendicion-de-cuen,12,main
+2026-06-04,law,decreto-2026-06-04-222-num-ext-tomo-ii,codigo-numero-577-electoral,2,main
+2026-07-03,law,decreto-2026-07-02-262-num-ext-tomo-ii,codigo-penal,5,main
+2026-07-03,law,decreto-2026-07-02-262-num-ext-tomo-iii,constitucion-politica ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de,8,main
+2026-07-03,law,decreto-2026-07-02-262-num-ext-tomo-iii,codigo-penal,4,main
+2026-07-11,law,decreto-2026-07-10-274-num-ext-tomo-ix,codigo-penal ley-estatal-de-proteccion-ambiental,8,main
+2026-07-11,law,decreto-2026-07-10-274-num-ext-tomo-ix-2,codigo-penal,3,main
+2026-07-25,law,decreto-2026-07-24-294-num-ext-tomo-v,constitucion-politica ley-numero-233-de-obras-publicas-y-servicios-relacionados-co ley-numero-364-de-fiscalizacion-superior-y-rendicion-de-cuen,8,main
+2026-08-14,law,decreto-2026-08-13-322-num-ext-tomo-ii,constitucion-politica,2,main
+2026-08-29,law,decreto-2026-08-28-344-num-ext-tomo-ii,codigo-numero-577-electoral ley-numero-231-organica-del-poder-judicial,35,main
